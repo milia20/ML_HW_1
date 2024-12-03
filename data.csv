@@ -1,0 +1,1001 @@
+﻿,seller_type,year,mileage,name,torque,seats,km_driven,transmission,owner,engine,max_power,fuel
+0,Individual,2010,14.0 kmpl,Mahindra Xylo E4 BS IV,260 Nm at 1800-2200 rpm,7.0,168000,Manual,First Owner,2498 CC,112 bhp,Diesel
+1,Individual,2017,21.5 kmpl,Tata Nexon 1.5 Revotorq XE,260Nm@ 1500-2750rpm,5.0,25000,Manual,First Owner,1497 CC,108.5 bhp,Diesel
+2,Individual,2007,12.9 kmpl,Honda Civic 1.8 S AT,172Nm@ 4300rpm,5.0,218463,Automatic,First Owner,1799 CC,130 bhp,Petrol
+3,Individual,2015,25.1 kmpl,Honda City i DTEC VX,200Nm@ 1750rpm,5.0,173000,Manual,First Owner,1498 CC,98.6 bhp,Diesel
+4,Individual,2011,16.5 kmpl,Tata Indica Vista Aura 1.2 Safire BSIV,96  Nm at 3000  rpm ,5.0,70000,Manual,Second Owner,1172 CC,65 bhp,Petrol
+5,Dealer,2019,16.55 kmpl,Mahindra Thar CRDe,247Nm@ 1800-2000rpm,6.0,12584,Manual,First Owner,2498 CC,105 bhp,Diesel
+6,Individual,2011,18.0 kmpl,Chevrolet Spark 1.0 LS,90.3Nm@ 4200rpm,5.0,35000,Manual,First Owner,995 CC,62 bhp,Petrol
+7,Individual,2012,18.5 kmpl,Maruti Ritz ZXi,114Nm@ 4000rpm,5.0,70000,Manual,Second Owner,1197 CC,85.80 bhp,Petrol
+8,Individual,2011,19.7 kmpl,Maruti Alto LX,62Nm@ 3000rpm,5.0,72000,Manual,Second Owner,796 CC,46.3 bhp,Petrol
+9,Individual,2016,19.67 kmpl,Hyundai Creta 1.6 CRDi SX,259.9Nm@ 1900-2750rpm,5.0,58000,Manual,First Owner,1582 CC,126.2 bhp,Diesel
+10,Individual,2018,22.0 kmpl,Hyundai Verna CRDi 1.6 AT SX Option,259.87nm@ 1500-3000rpm,5.0,49000,Automatic,First Owner,1582 CC,126.2 bhp,Diesel
+11,Dealer,2019,22.37 kmpl,Lexus ES 300h,202Nm@ 3600-5200rpm,5.0,20000,Automatic,First Owner,2487 CC,214.56 bhp,Petrol
+12,Dealer,2017,25.8 kmpl,Honda Amaze S i-DTEC,200Nm@ 1750rpm,5.0,24500,Manual,First Owner,1498 CC,98.6 bhp,Diesel
+13,Individual,2009,20.36 kmpl,Hyundai i10 Magna,111.7Nm@ 4000rpm,5.0,110000,Manual,First Owner,1197 CC,78.9 bhp,Petrol
+14,Individual,2019,18.16 kmpl,Ford Figo 1.2P Titanium MT,112Nm@ 4000rpm,5.0,9500,Manual,First Owner,1196 CC,86.8 bhp,Petrol
+15,Individual,2017,9.5 kmpl,Jeep Wrangler 2016-2019 3.6 4X4,347Nm@ 4300rpm,5.0,17000,Automatic,First Owner,3604 CC,280 bhp,Petrol
+16,Individual,2014,16.02 kmpl,Maruti Ertiga VXI,130Nm@ 4000rpm,7.0,25000,Manual,First Owner,1373 CC,93.7 bhp,Petrol
+17,Individual,2012,19.4 kmpl,Tata Indica Vista TDI LX,135.4Nm@ 2500rpm,5.0,185000,Manual,Second Owner,1405 CC,70 bhp,Diesel
+18,Dealer,2014,17.0 kmpl,Hyundai i20 1.2 Sportz,"11.4 kgm at 4,000 rpm",5.0,62200,Manual,First Owner,1197 CC,80 bhp,Petrol
+19,Individual,2011,16.36 kmpl,Hyundai Accent Executive,124.6Nm@ 3500rpm,5.0,35000,Manual,First Owner,1495 CC,93.7 bhp,Petrol
+20,Individual,2011,22.9 kmpl,Maruti Swift VDI,190Nm@ 2000rpm,5.0,70000,Manual,Second Owner,1248 CC,74 bhp,Diesel
+21,Individual,2010,19.0 kmpl,Maruti Zen Estilo LXI BS IV,90Nm@ 3500rpm,5.0,180000,Manual,Second Owner,998 CC,67.1 bhp,Petrol
+22,Individual,2015,19.67 kmpl,Hyundai Creta 1.6 CRDi SX Option,259.9Nm@ 1900-2750rpm,5.0,74000,Manual,First Owner,1582 CC,126.2 bhp,Diesel
+23,Individual,2015,21.9 kmpl,Tata Nano XTA,51Nm@ 4000rpm,4.0,20000,Automatic,First Owner,624 CC,37.48 bhp,Petrol
+24,Individual,2017,28.4 kmpl,Maruti Swift Dzire ZDI,190Nm@ 2000rpm,5.0,40000,Manual,First Owner,1248 CC,74.02 bhp,Diesel
+25,Dealer,2015,25.83 kmpl,Ford Figo Aspire 1.5 TDCi Trend,215Nm@ 1750-3000rpm,5.0,100581,Manual,First Owner,1498 CC,99 bhp,Diesel
+26,Individual,2017,22.0 kmpl,Hyundai Verna CRDi 1.6 EX,259.87nm@ 1500-3000rpm,5.0,40000,Manual,Second Owner,1582 CC,126.2 bhp,Diesel
+27,Individual,2015,16.0 kmpl,Mahindra XUV500 W10 2WD,330Nm@ 1600-2800rpm,7.0,140000,Manual,First Owner,2179 CC,140 bhp,Diesel
+28,Individual,2014,24.0 kmpl,Hyundai Grand i10 CRDi Magna,160Nm@ 1500-2750rpm,5.0,60000,Manual,First Owner,1120 CC,70 bhp,Diesel
+29,Individual,2016,21.19 kmpl,Hyundai i20 Active 1.4 SX with AVN,219.66nm@ 1500-2750rpm,5.0,80000,Manual,Third Owner,1396 CC,88.73 bhp,Diesel
+30,Individual,2019,17.3 kmpl,Mahindra Marazzo M8,300Nm@ 1750-2500rpm,7.0,5000,Manual,First Owner,1497 CC,121 bhp,Diesel
+31,Individual,2017,19.6 kmpl,Renault Duster 110PS Diesel RxL AMT,245Nm@ 1750rpm,5.0,50000,Automatic,First Owner,1461 CC,108.45 bhp,Diesel
+32,Individual,2012,12.8 kmpl,Toyota Innova 2.5 GX 8 STR BSIV,20.4@ 1400-3400(kgm@ rpm),8.0,138000,Manual,Second Owner,2494 CC,102 bhp,Diesel
+33,Individual,2013,14.09 kmpl,Ford Classic 1.6 Duratec CLXI,146Nm@ 3400rpm,5.0,60000,Manual,Second Owner,1596 CC,99.6 bhp,Petrol
+34,Individual,2012,,Toyota Etios Liva GD SP,,,150000,Manual,First Owner,,,Diesel
+35,Individual,2013,18.0 kmpl,Honda Amaze EX i-Vtech,109Nm@ 4500rpm,5.0,120000,Manual,Second Owner,1198 CC,86.7 bhp,Petrol
+36,Individual,2019,20.3 kmpl,Hyundai Santro Sportz AMT BSIV,99Nm@ 4500rpm,5.0,25000,Automatic,Fourth & Above Owner,1086 CC,68 bhp,Petrol
+37,Individual,2012,22.3 kmpl,Tata Indica Vista Quadrajet VX,190Nm@ 1750-3000rpm,5.0,90000,Manual,First Owner,1248 CC,74 bhp,Diesel
+38,Dealer,2013,13.7 kmpl,Chevrolet Enjoy 1.4 LTZ 7,131Nm@ 4400rpm,7.0,37000,Manual,First Owner,1399 CC,98.79 bhp,Petrol
+39,Dealer,2016,14.3 kmpl,Skoda Rapid 1.6 MPI AT Elegance,153Nm@ 3800rpm,5.0,11000,Automatic,First Owner,1598 CC,103.5 bhp,Petrol
+40,Individual,2012,19.3 kmpl,Maruti Swift Dzire VDi,190Nm@ 2000rpm,5.0,100000,Manual,Third Owner,1248 CC,73.9 bhp,Diesel
+41,Individual,2014,19.09 kmpl,Tata Indigo CS LS (TDI) BS-III,135Nm@ 2500rpm,5.0,45000,Manual,First Owner,1405 CC,69.01 bhp,Diesel
+42,Individual,2011,20.36 kmpl,Hyundai i10 Magna,111.7Nm@ 4000rpm,5.0,60000,Manual,Second Owner,1197 CC,78.9 bhp,Petrol
+43,Individual,2014,24.0 kmpl,Hyundai Grand i10 CRDi SportZ Edition,159.8Nm@ 1500-2750rpm,5.0,76000,Manual,Third Owner,1120 CC,70 bhp,Diesel
+44,Individual,2017,26.6 km/kg,Maruti Wagon R LXI CNG,77Nm@ 3500rpm,5.0,110000,Manual,First Owner,998 CC,58.16 bhp,CNG
+45,Individual,2012,15.96 kmpl,Mahindra Bolero 2011-2019 ZLX,195Nm@ 1400-2200rpm,7.0,135000,Manual,First Owner,2523 CC,62.1 bhp,Diesel
+46,Individual,2011,20.86 kmpl,Skoda Fabia 1.2L Diesel Elegance,180Nm@ 2000rpm,5.0,160000,Manual,Third Owner,1199 CC,75 bhp,Diesel
+47,Individual,2010,20.36 kmpl,Hyundai i10 Sportz,111.8Nm@ 4000rpm,5.0,94000,Manual,Second Owner,1197 CC,78.9 bhp,Petrol
+48,Individual,2019,15.37 kmpl,Maruti Eeco 7 Seater Standard BSIV,101Nm@ 3000rpm,7.0,5500,Manual,First Owner,1196 CC,73 bhp,Petrol
+49,Individual,2019,19.5 kmpl,Honda Amaze S Petrol BSIV,110Nm@ 4800rpm,5.0,5000,Manual,First Owner,1199 CC,88.76 bhp,Petrol
+50,Individual,2014,21.1 kmpl,Hyundai EON D Lite Plus,74.5Nm@ 4000rpm,5.0,62000,Manual,First Owner,814 CC,55.2 bhp,Petrol
+51,Individual,2010,17.0 kmpl,Hyundai i20 1.2 Asta,"11.4 kgm at 4,000 rpm",5.0,80000,Manual,Fourth & Above Owner,1197 CC,80 bhp,Petrol
+52,Individual,2019,28.4 kmpl,Maruti Swift Dzire VDI,190Nm@ 2000rpm,5.0,30000,Manual,First Owner,1248 CC,74.02 bhp,Diesel
+53,Individual,2014,20.77 kmpl,Maruti Ertiga ZDI,200Nm@ 1750rpm,7.0,90000,Manual,First Owner,1248 CC,88.8 bhp,Diesel
+54,Individual,2012,17.5 kmpl,Maruti Swift Dzire VXi,114Nm@ 4000rpm,5.0,88000,Manual,First Owner,1298 CC,85.8 bhp,Petrol
+55,Individual,2018,23.01 kmpl,Renault KWID 1.0 RXL,91Nm@ 4250rpm,5.0,20000,Manual,First Owner,999 CC,67 bhp,Petrol
+56,Individual,2012,18.5 kmpl,Maruti Ritz VXi,114Nm@ 4000rpm,5.0,40000,Manual,First Owner,1197 CC,85.80 bhp,Petrol
+57,Individual,2012,,Tata Sumo EX BS IV,,,190000,Manual,Third Owner,,,Diesel
+58,Individual,2012,18.5 kmpl,Hyundai i20 Sportz 1.2,113.7Nm@ 4000rpm,5.0,120000,Manual,First Owner,1197 CC,82.85 bhp,Petrol
+59,Individual,2011,19.4 kmpl,Tata Indica Vista TDI LS,135.4Nm@ 2500rpm,5.0,120000,Manual,First Owner,1405 CC,70 bhp,Diesel
+60,Trustmark Dealer,2017,16.78 kmpl,Toyota Etios VX,132Nm@ 3000rpm,5.0,25538,Manual,First Owner,1496 CC,88.73 bhp,Petrol
+61,Dealer,2019,16.78 kmpl,BMW X4 M Sport X xDrive20d,400Nm@ 1750-2500rpm,5.0,7500,Automatic,First Owner,1995 CC,190 bhp,Diesel
+62,Individual,2017,22.7 kmpl,Datsun RediGO S,72Nm@ 4386rpm,5.0,25000,Manual,First Owner,799 CC,53.64 bhp,Petrol
+63,Individual,2013,18.5 kmpl,Hyundai i20 Sportz 1.2,113.7Nm@ 4000rpm,5.0,70000,Manual,First Owner,1197 CC,82.85 bhp,Petrol
+64,Individual,2015,21.19 kmpl,Hyundai i20 Active 1.4 SX with AVN,219.66nm@ 1500-2750rpm,5.0,90000,Manual,First Owner,1396 CC,88.73 bhp,Diesel
+65,Individual,2018,22.1 kmpl,Hyundai Creta 1.4 E Plus,219.7Nm@ 1500-2750rpm,5.0,60000,Manual,First Owner,1396 CC,88.7 bhp,Diesel
+66,Individual,2008,,Maruti Swift 1.3 ZXI,,,90000,Manual,First Owner,,,Petrol
+67,Individual,2014,21.7 kmpl,Ford Ecosport 1.5 Diesel Trend,215Nm@ 1750-2500rpm,5.0,48000,Manual,First Owner,1498 CC,98.96 bhp,Diesel
+68,Individual,2015,16.02 kmpl,Maruti Ertiga VXI,130Nm@ 4000rpm,7.0,40000,Manual,Second Owner,1373 CC,93.7 bhp,Petrol
+69,Individual,2018,21.4 kmpl,Maruti Baleno Delta 1.2,115Nm@ 4000rpm,5.0,20000,Manual,First Owner,1197 CC,83.1 bhp,Petrol
+70,Individual,2014,20.36 kmpl,Hyundai i10 Sportz,111.8Nm@ 4000rpm,5.0,23000,Manual,Second Owner,1197 CC,78.9 bhp,Petrol
+71,Individual,2002,,Hyundai Santro LE,,,184000,Manual,Second Owner,,,Petrol
+72,Individual,2014,22.54 kmpl,Hyundai i20 Asta 1.4 CRDi,219.7Nm@ 1500-2750rpm,5.0,110000,Manual,First Owner,1396 CC,88.73 bhp,Diesel
+73,Dealer,2019,18.6 kmpl,Hyundai i20 1.2 Asta,114.7Nm@ 4000rpm,5.0,9400,Manual,First Owner,1197 CC,81.83 bhp,Petrol
+74,Individual,2006,14.0 kmpl,Mahindra Bolero 2011-2019 Camper,176Nm@ 1500rpm,7.0,120000,Manual,Second Owner,2523 CC,83 bhp,Diesel
+75,Dealer,2018,16.8 kmpl,Volvo V40 D3 R-Design,350Nm@ 1500-2750rpm,5.0,2000,Automatic,First Owner,1984 CC,150 bhp,Diesel
+76,Individual,2013,22.74 kmpl,Maruti Alto 800 LXI Airbag,69Nm@ 3500rpm,5.0,60000,Manual,Second Owner,796 CC,47.3 bhp,Petrol
+77,Trustmark Dealer,2016,18.2 kmpl,Honda Jazz VX,110Nm@ 4800rpm,5.0,56494,Manual,First Owner,1199 CC,88.7 bhp,Petrol
+78,Individual,2016,24.4 kmpl,Hyundai Xcent 1.1 CRDi S,180.4Nm@ 1750-2500rpm,5.0,120000,Manual,Second Owner,1120 CC,71 bhp,Diesel
+79,Individual,2015,14.1 kmpl,Tata Safari Storme EX,320Nm@ 1500-3000rpm,7.0,110000,Manual,First Owner,2179 CC,147.94 bhp,Diesel
+80,Individual,2015,15.96 kmpl,Mahindra Bolero 2011-2019 SLX,195Nm@ 1400-2200rpm,7.0,50000,Manual,First Owner,2523 CC,62.1 bhp,Diesel
+81,Dealer,2015,24.7 kmpl,Maruti Alto 800 VXI BSIV,69Nm@ 3500rpm,5.0,48000,Manual,First Owner,796 CC,47.3 bhp,Petrol
+82,Individual,2017,17.8 kmpl,Honda City i VTEC VX,145Nm@ 4600rpm,5.0,18300,Manual,First Owner,1497 CC,117.3 bhp,Petrol
+83,Individual,2017,21.21 kmpl,Maruti Swift Dzire AMT VXI,113Nm@ 4200rpm,5.0,120000,Automatic,First Owner,1197 CC,81.80 bhp,Petrol
+84,Individual,2016,19.67 kmpl,Hyundai Creta 1.6 CRDi SX,259.9Nm@ 1900-2750rpm,5.0,110000,Manual,First Owner,1582 CC,126.2 bhp,Diesel
+85,Individual,2017,18.6 kmpl,Hyundai i20 1.2 Asta,114.7Nm@ 4000rpm,5.0,25000,Manual,First Owner,1197 CC,81.83 bhp,Petrol
+86,Dealer,2014,21.7 kmpl,Ford Ecosport 1.5 Diesel Titanium,215Nm@ 1750-2500rpm,5.0,105000,Manual,First Owner,1498 CC,98.96 bhp,Diesel
+87,Individual,2012,25.44 kmpl,Chevrolet Beat Diesel LT,150Nm@ 1750rpm,5.0,98000,Manual,First Owner,936 CC,57.6 bhp,Diesel
+88,Individual,2018,22.71 kmpl,Nissan Sunny XL D,200Nm@ 2000rpm,5.0,35000,Manual,First Owner,1461 CC,84.8 bhp,Diesel
+89,Individual,2018,15.04 kmpl,Toyota Fortuner 2.8 4WD AT BSIV,450Nm@ 1600-2400rpm,7.0,60000,Automatic,First Owner,2755 CC,174.5 bhp,Diesel
+90,Individual,2007,19.7 kmpl,Maruti Alto LXi,62Nm@ 3000rpm,5.0,70000,Manual,First Owner,796 CC,46.3 bhp,Petrol
+91,Individual,2016,24.3 kmpl,Maruti Vitara Brezza ZDi,200Nm@ 1750rpm,5.0,80000,Manual,First Owner,1248 CC,88.5 bhp,Diesel
+92,Dealer,2012,18.5 kmpl,Ford Figo Diesel EXI Option,160Nm@ 2000rpm,5.0,163720,Manual,First Owner,1399 CC,68 bhp,Diesel
+93,Individual,2017,20.3 kmpl,Tata Tigor 1.2 Revotron XZ Option,114Nm@ 3500rpm,5.0,40000,Manual,Second Owner,1199 CC,84 bhp,Petrol
+94,Dealer,2017,25.83 kmpl,Ford Figo 1.5D Trend MT,215Nm@ 1750-3000rpm,5.0,62960,Manual,First Owner,1498 CC,99 bhp,Diesel
+95,Dealer,2019,18.9 kmpl,Hyundai Grand i10 Magna AT,114Nm@ 4000rpm,5.0,4337,Automatic,First Owner,1197 CC,82 bhp,Petrol
+96,Individual,2015,24.0 kmpl,Hyundai Grand i10 CRDi Sportz,160Nm@ 1500-2750rpm,5.0,53000,Manual,First Owner,1120 CC,70 bhp,Diesel
+97,Individual,2015,15.4 kmpl,Mahindra Scorpio S10 7 Seater,280Nm@ 1800-2800rpm,7.0,80000,Manual,Second Owner,2179 CC,120 bhp,Diesel
+98,Individual,2015,13.0 kmpl,Toyota Fortuner 2.5 4x2 MT TRD Sportivo,343Nm@ 1600-2800rpm,7.0,120000,Manual,First Owner,2494 CC,142 bhp,Diesel
+99,Dealer,2014,19.09 kmpl,Tata Indigo CS LS (TDI) BS-III,135Nm@ 2500rpm,5.0,65000,Manual,First Owner,1405 CC,69.01 bhp,Diesel
+100,Individual,2013,21.1 kmpl,Hyundai EON Era Plus,74.5Nm@ 4000rpm,5.0,60000,Manual,First Owner,814 CC,55.2 bhp,Petrol
+101,Individual,2013,22.3 kmpl,Tata Indica Vista Quadrajet 90 VX,200Nm@ 1750-3000rpm,5.0,100000,Manual,First Owner,1248 CC,88.8 bhp,Diesel
+102,Individual,2018,21.5 kmpl,Volkswagen Vento 1.5 Highline Plus AT 16 Alloy,250Nm@ 1500-3000rpm,5.0,75000,Automatic,First Owner,1498 CC,108.5 bhp,Diesel
+103,Trustmark Dealer,2016,19.16 kmpl,Toyota Camry 2.5 Hybrid,213Nm@ 4500rpm,5.0,68089,Automatic,First Owner,2494 CC,157.7 bhp,Petrol
+104,Individual,2004,19.7 kmpl,Maruti Alto LX,62Nm@ 3000rpm,5.0,113000,Manual,Second Owner,796 CC,46.3 bhp,Petrol
+105,Individual,2014,20.4 kmpl,Maruti Swift LXI Option,113Nm@ 4200rpm,5.0,50000,Manual,First Owner,1197 CC,81.80 bhp,Petrol
+106,Individual,2017,28.4 kmpl,Maruti Swift Dzire VDI,190Nm@ 2000rpm,5.0,60000,Manual,First Owner,1248 CC,74.02 bhp,Diesel
+107,Individual,2014,16.02 kmpl,Maruti Ertiga VXI,130Nm@ 4000rpm,7.0,80000,Manual,Third Owner,1373 CC,93.7 bhp,Petrol
+108,Individual,2009,15.0 kmpl,Maruti SX4 Vxi BSIII,"145@ 4,100(kgm@ rpm)",5.0,125876,Manual,Second Owner,1586 CC,104.68 bhp,Petrol
+109,Individual,2019,21.4 kmpl,Maruti Baleno Zeta Automatic,115Nm@ 4000rpm,5.0,5000,Automatic,First Owner,1197 CC,83.1 bhp,Petrol
+110,Individual,2015,19.1 kmpl,Tata Indica Vista TDI LS,135.4Nm@ 2500rpm,5.0,110000,Manual,Second Owner,1405 CC,70 bhp,Diesel
+111,Individual,2013,23.59 kmpl,Toyota Etios Liva GD,170Nm@ 1800-2400rpm,5.0,120000,Manual,First Owner,1364 CC,67.06 bhp,Diesel
+112,Individual,2017,28.4 kmpl,Maruti Swift Dzire ZDI,190Nm@ 2000rpm,5.0,110000,Manual,Second Owner,1248 CC,74.02 bhp,Diesel
+113,Individual,2017,14.07 kmpl,Tata Sumo Gold EX BSIII,223Nm@ 1600-2200rpm,7.0,140000,Manual,First Owner,2956 CC,69.01 bhp,Diesel
+114,Individual,2005,17.3 kmpl,Maruti Zen LXI,78Nm@ 4500rpm,5.0,90000,Manual,Second Owner,993 CC,60 bhp,Petrol
+115,Individual,2007,15.9 kmpl,Maruti Esteem Lxi - BSIII,110Nm@ 4500rpm,5.0,70000,Manual,Third Owner,1298 CC,85 bhp,Petrol
+116,Individual,1995,16.1 kmpl,Maruti 800 Std,59Nm@ 2500rpm,4.0,70000,Manual,First Owner,796 CC,37 bhp,Petrol
+117,Individual,2017,17.01 kmpl,Hyundai Creta 1.6 CRDi AT SX Plus,259.9Nm@ 1900-2750rpm,5.0,60000,Automatic,Second Owner,1582 CC,126.2 bhp,Diesel
+118,Individual,2006,,Mahindra Bolero LX,,,120000,Manual,First Owner,,,Diesel
+119,Individual,2013,23.4 kmpl,Maruti Swift Dzire VDI,190Nm@ 2000rpm,5.0,100000,Manual,Second Owner,1248 CC,74 bhp,Diesel
+120,Individual,2017,16.5 kmpl,Mahindra Bolero Power Plus SLX,195Nm@ 1400-2200rpm,7.0,100000,Manual,Second Owner,1493 CC,70 bhp,Diesel
+121,Individual,2017,25.4 kmpl,Hyundai Xcent 1.2 CRDi SX Option,190.25nm@ 1750-2250rpm,5.0,31000,Manual,First Owner,1186 CC,73.97 bhp,Diesel
+122,Individual,2017,18.0 kmpl,Honda City i VTEC CVT VX,145Nm@ 4600rpm,5.0,26000,Automatic,First Owner,1497 CC,117.3 bhp,Petrol
+123,Individual,2013,15.1 kmpl,Maruti Eeco Smiles 5 Seater AC,101Nm@ 3000rpm,5.0,80000,Manual,Second Owner,1196 CC,73 bhp,Petrol
+124,Individual,2011,17.0 kmpl,Hyundai i20 1.2 Sportz,"11.4 kgm at 4,000 rpm",5.0,90000,Manual,Third Owner,1197 CC,80 bhp,Petrol
+125,Individual,2018,18.6 kmpl,Hyundai i20 1.2 Spotz,114.7Nm@ 4000rpm,5.0,20000,Manual,First Owner,1197 CC,81.83 bhp,Petrol
+126,Individual,2018,22.7 kmpl,Datsun RediGO T Option,72Nm@ 4386rpm,5.0,10000,Manual,First Owner,799 CC,53.64 bhp,Petrol
+127,Individual,2012,22.74 kmpl,Maruti Alto 800 LXI,69Nm@ 3500rpm,5.0,80000,Manual,First Owner,796 CC,47.3 bhp,Petrol
+128,Individual,2008,11.5 kmpl,Chevrolet Captiva LT,320Nm@ 2000rpm,7.0,100000,Manual,Second Owner,1991 CC,147.9 bhp,Diesel
+129,Individual,2010,19.09 kmpl,Tata Indigo eCS LE TDI BSIII,135Nm@ 2500rpm,5.0,148000,Manual,Second Owner,1396 CC,69 bhp,Diesel
+130,Individual,2009,0.0 kmpl,Hyundai Santro Xing GL,96.1Nm@ 3000rpm,5.0,90000,Manual,Second Owner,1086 CC,62 bhp,Petrol
+131,Individual,2016,20.4 kmpl,Maruti Swift VXI Deca,113Nm@ 4200rpm,5.0,50000,Manual,First Owner,1197 CC,81.80 bhp,Petrol
+132,Individual,2013,19.4 kmpl,Tata Indica Vista TDI LS,135.4Nm@ 2500rpm,5.0,90000,Manual,Second Owner,1405 CC,70 bhp,Diesel
+133,Individual,2012,12.05 kmpl,Mahindra Scorpio 2009-2014 VLX 2WD 7S BSIV,290Nm@ 1800-2800rpm,7.0,215000,Manual,First Owner,2179 CC,120 bhp,Diesel
+134,Individual,2017,21.63 kmpl,Maruti Celerio X VXI Option BSIV,90Nm@ 3500rpm,5.0,25000,Manual,First Owner,998 CC,67 bhp,Petrol
+135,Individual,2012,20.77 kmpl,Maruti Ertiga VDI,200Nm@ 1750rpm,7.0,87000,Manual,First Owner,1248 CC,88.76 bhp,Diesel
+136,Individual,2012,21.03 kmpl,Mahindra Verito 1.5 D2 BSIV,160Nm@ 2000rpm,5.0,120000,Manual,Second Owner,1461 CC,65 bhp,Diesel
+137,Individual,2017,24.52 kmpl,Maruti Ertiga SHVS ZDI Plus,200Nm@ 1750rpm,7.0,70000,Manual,First Owner,1248 CC,88.5 bhp,Diesel
+138,Individual,2011,19.3 kmpl,Maruti Swift Dzire ZDi,190Nm@ 2000rpm,5.0,90000,Manual,Fourth & Above Owner,1248 CC,73.9 bhp,Diesel
+139,Individual,2017,16.5 kmpl,Mahindra Bolero Power Plus ZLX,195Nm@ 1400-2200rpm,7.0,60000,Manual,Second Owner,1493 CC,70 bhp,Diesel
+140,Individual,2011,19.7 kmpl,Maruti Alto LX,62Nm@ 3000rpm,5.0,175000,Manual,Second Owner,796 CC,46.3 bhp,Petrol
+141,Individual,2012,22.3 kmpl,Tata Indica Vista Quadrajet ZX,190Nm@ 1750-3000rpm,5.0,40000,Manual,First Owner,1248 CC,74 bhp,Diesel
+142,Trustmark Dealer,2019,22.0 kmpl,Maruti Swift AMT VVT VXI,113Nm@ 4200rpm,5.0,5621,Automatic,First Owner,1197 CC,81.80 bhp,Petrol
+143,Individual,2019,21.21 kmpl,Maruti Swift VXI,113Nm@ 4200rpm,5.0,40000,Manual,First Owner,1197 CC,81.80 bhp,Petrol
+144,Individual,2012,17.5 kmpl,Maruti Swift Dzire VXi,114Nm@ 4000rpm,5.0,30000,Manual,First Owner,1298 CC,85.8 bhp,Petrol
+145,Individual,2011,,Maruti Swift VDI BSIV,,,160000,Manual,Second Owner,,,Diesel
+146,Dealer,2018,28.4 kmpl,Maruti Swift VDI,190Nm@ 2000rpm,5.0,39000,Manual,First Owner,1248 CC,74 bhp,Diesel
+147,Individual,2017,20.63 kmpl,Datsun GO T BSIV,104Nm@ 4000rpm,5.0,80000,Manual,Second Owner,1198 CC,67 bhp,Petrol
+148,Individual,2019,18.0 kmpl,Volvo XC40 D4 Inscription BSIV,400Nm,5.0,20000,Automatic,First Owner,1969 CC,190 bhp,Diesel
+149,Dealer,2005,,Hyundai Santro Xing XG,,,53563,Manual,Second Owner,,,Petrol
+150,Individual,2013,22.74 kmpl,Maruti Alto 800 LXI,69Nm@ 3500rpm,5.0,50000,Manual,First Owner,796 CC,47.3 bhp,Petrol
+151,Individual,2018,17.0 kmpl,Tata Nexon 1.2 Revotron XM,170Nm@ 1750-4000rpm,5.0,70000,Manual,First Owner,1198 CC,108.5 bhp,Petrol
+152,Individual,2019,19.0 kmpl,Ford Freestyle Titanium Plus Petrol BSIV,120Nm@ 4250rpm,5.0,6000,Manual,First Owner,1194 CC,94.68 bhp,Petrol
+153,Individual,2004,19.7 kmpl,Maruti Alto LXI,62Nm@ 3000rpm,5.0,60000,Manual,Second Owner,796 CC,46.3 bhp,Petrol
+154,Individual,2014,15.1 kmpl,Mahindra XUV500 W4,330Nm@ 1600-2800rpm,7.0,120000,Manual,First Owner,2179 CC,140 bhp,Diesel
+155,Individual,2011,11.5 kmpl,Toyota Fortuner 3.0 Diesel,343Nm@ 1400-3400rpm,7.0,181000,Manual,Second Owner,2982 CC,171 bhp,Diesel
+156,Individual,2009,17.8 kmpl,Maruti Swift Vdi BSIII,190Nm@ 2000rpm,5.0,100000,Manual,Second Owner,1248 CC,75 bhp,Diesel
+157,Individual,2014,21.1 kmpl,Hyundai EON Era Plus,74.5Nm@ 4000rpm,5.0,50000,Manual,Third Owner,814 CC,55.2 bhp,Petrol
+158,Dealer,2017,22.7 kmpl,Ford Ecosport 1.5 DV5 MT Titanium,204Nm@ 2000-2750rpm,5.0,63982,Manual,First Owner,1498 CC,89.84 bhp,Diesel
+159,Individual,2011,19.3 kmpl,Maruti Swift Dzire ZDi,190Nm@ 2000rpm,5.0,120000,Manual,Second Owner,1248 CC,73.9 bhp,Diesel
+160,Individual,2012,13.2 km/kg,Hyundai Accent Executive CNG,124.5Nm@ 3500rpm,5.0,48000,Manual,First Owner,1495 CC,93.7 bhp,CNG
+161,Dealer,2016,19.67 kmpl,Hyundai Creta 1.6 CRDi Anniversary Edition,259.9Nm@ 1900-2750rpm,5.0,39000,Manual,First Owner,1582 CC,126.2 bhp,Diesel
+162,Individual,2011,19.3 kmpl,Maruti Swift Dzire LDi,190Nm@ 2000rpm,5.0,90000,Manual,Second Owner,1248 CC,73.9 bhp,Diesel
+163,Individual,2003,13.2 kmpl,Hyundai Accent GLX,"12.5@ 3,500(kgm@ rpm)",5.0,90000,Manual,Second Owner,1495 CC,94 bhp,Petrol
+164,Individual,2007,12.8 kmpl,Toyota Innova 2.5 E Diesel PS 7-Seater,20.4@ 1400-3400(kgm@ rpm),7.0,147500,Manual,Second Owner,2494 CC,102 bhp,Diesel
+165,Individual,2008,12.8 kmpl,Ambassador Grand 1500 DSZ BSIII,106Nm@ 2200rpm,5.0,60000,Manual,Second Owner,1995 CC,52 bhp,Diesel
+166,Individual,2016,19.09 kmpl,Tata Indigo CS LS (TDI) BS-III,135Nm@ 2500rpm,5.0,90000,Manual,First Owner,1405 CC,69.01 bhp,Diesel
+167,Individual,2017,18.16 kmpl,Ford Figo Aspire 1.2 Ti-VCT Titanium,112Nm@ 4000rpm,5.0,80000,Manual,First Owner,1196 CC,86.8 bhp,Petrol
+168,Individual,2004,13.6 kmpl,Mahindra Bolero DI,180 Nm at 1440-1500rpm,7.0,150000,Manual,Second Owner,2523 CC,63 bhp,Diesel
+169,Individual,2017,26.59 kmpl,Maruti Swift Dzire VDI,190Nm@ 2000rpm,5.0,25000,Manual,First Owner,1248 CC,74 bhp,Diesel
+170,Dealer,2004,13.1 kmpl,Ford Endeavour 2.5L 4X2 MT,330Nm@ 1800rpm,7.0,93415,Manual,First Owner,2499 CC,141 bhp,Diesel
+171,Individual,2019,28.4 kmpl,Maruti Swift VDI,190Nm@ 2000rpm,5.0,15000,Manual,Second Owner,1248 CC,74 bhp,Diesel
+172,Individual,2010,20.36 kmpl,Hyundai i10 Magna,111.7Nm@ 4000rpm,5.0,106000,Manual,Third Owner,1197 CC,78.9 bhp,Petrol
+173,Individual,2013,22.07 kmpl,Volkswagen Polo Diesel Highline 1.2L,180Nm@ 2000rpm,5.0,70000,Manual,Second Owner,1199 CC,73.9 bhp,Diesel
+174,Individual,2015,18.6 kmpl,Hyundai i20 Sportz 1.2,114.7Nm@ 4000rpm,5.0,90000,Manual,First Owner,1197 CC,81.83 bhp,Petrol
+175,Individual,2016,18.49 kmpl,Mahindra TUV 300 T8,240Nm@ 1600-2800rpm,7.0,71000,Manual,First Owner,1493 CC,100 bhp,Diesel
+176,Individual,2006,17.7 kmpl,Honda City 2017-2020 GXi,"12.7@ 2,700(kgm@ rpm)",5.0,100000,Manual,Second Owner,1497 CC,78 bhp,Petrol
+177,Individual,2017,21.1 kmpl,Hyundai EON Sportz,74.5Nm@ 4000rpm,5.0,31000,Manual,Second Owner,814 CC,55.2 bhp,Petrol
+178,Individual,2017,18.6 kmpl,Hyundai i20 2015-2017 Magna 1.2,114.7Nm@ 4000rpm,5.0,30000,Manual,First Owner,1197 CC,81.83 bhp,Petrol
+179,Individual,2006,16.1 kmpl,Maruti Swift VXi BSIV,"113Nm@ 4,500rpm",5.0,93000,Manual,Second Owner,1197 CC,85 bhp,Petrol
+180,Individual,2017,14.1 kmpl,Tata Safari Storme EX,320Nm@ 1500-3000rpm,7.0,60000,Manual,First Owner,2179 CC,147.94 bhp,Diesel
+181,Individual,2017,24.3 kmpl,Maruti Vitara Brezza ZDi,200Nm@ 1750rpm,5.0,90000,Manual,First Owner,1248 CC,88.5 bhp,Diesel
+182,Dealer,2017,13.6 kmpl,Jaguar XE 2016-2019 2.0L Diesel Prestige,430Nm@ 1750-2500rpm,5.0,9000,Automatic,First Owner,1999 CC,177 bhp,Diesel
+183,Individual,2015,14.07 kmpl,Tata Sumo Gold EX BSIII,223Nm@ 1600-2200rpm,7.0,75000,Manual,First Owner,2956 CC,69.01 bhp,Diesel
+184,Individual,2010,15.6 kmpl,Ford Figo Petrol Titanium,102Nm@ 4000rpm,5.0,120000,Manual,Third Owner,1196 CC,70 bhp,Petrol
+185,Individual,2012,15.96 kmpl,Mahindra Bolero 2011-2019 SLX,195Nm@ 1400-2200rpm,7.0,50000,Manual,First Owner,2523 CC,62.1 bhp,Diesel
+186,Individual,2013,14.0 kmpl,Mahindra Xylo D4 BSIII,260 Nm at 1800-2200 rpm,8.0,300000,Manual,First Owner,2498 CC,112 bhp,Diesel
+187,Individual,2017,21.1 kmpl,Hyundai EON Era Plus Sports Edition,74.5Nm@ 4000rpm,5.0,20000,Manual,Second Owner,814 CC,55.2 bhp,Petrol
+188,Individual,2010,19.81 kmpl,Hyundai i10 Sportz 1.1L,99.04Nm@ 4500rpm,5.0,70000,Manual,Second Owner,1086 CC,68.05 bhp,Petrol
+189,Dealer,2010,25.5 kmpl,Ford Figo Titanium Diesel BSIV,215Nm@ 1750-3000,5.0,86017,Manual,Second Owner,1498 CC,99.23 bhp,Diesel
+190,Individual,2008,19.7 kmpl,Maruti Alto LXi,62Nm@ 3000rpm,5.0,70000,Manual,Second Owner,796 CC,46.3 bhp,Petrol
+191,Individual,2017,23.84 kmpl,Tata Tiago 1.2 Revotron XZ,114Nm@ 3500rpm,5.0,28000,Manual,Second Owner,1199 CC,84 bhp,Petrol
+192,Individual,2010,21.1 kmpl,Maruti Ritz VDi,113Nm@ 4500rpm,5.0,120000,Manual,First Owner,1248 CC,73.9 bhp,Diesel
+193,Dealer,2018,22.0 kmpl,Maruti Swift ZXI 2018,113Nm@ 4200rpm,5.0,15000,Manual,First Owner,1197 CC,81.80 bhp,Petrol
+194,Dealer,2015,22.0 kmpl,Maruti Swift VXI BSIV,113Nm@ 4200rpm,5.0,150546,Manual,First Owner,1197 CC,81.80 bhp,Petrol
+195,Individual,2019,32.26 km/kg,Maruti Alto K10 LXI CNG,78Nm@ 3500rpm,4.0,20000,Manual,First Owner,998 CC,58.3 bhp,CNG
+196,Individual,2016,18.5 kmpl,Maruti Ritz LXi,114Nm@ 4000rpm,5.0,82000,Manual,Third Owner,1197 CC,85.80 bhp,Petrol
+197,Individual,2005,12.8 kmpl,Toyota Innova 2.5 G2,20.4@ 1400-3400(kgm@ rpm),8.0,120000,Manual,First Owner,2494 CC,102 bhp,Diesel
+198,Individual,2019,25.6 kmpl,Honda City i-DTEC V,200Nm@ 1750rpm,5.0,40000,Manual,First Owner,1498 CC,97.9 bhp,Diesel
+199,Individual,2014,13.58 kmpl,Chevrolet Tavera Neo 3 LT 9 Seats BSIII,171Nm@ 1800rpm,9.0,50000,Manual,First Owner,2499 CC,72.4 bhp,Diesel
+200,Trustmark Dealer,2019,22.0 kmpl,Maruti Swift AMT VVT VXI,113Nm@ 4200rpm,5.0,5621,Automatic,First Owner,1197 CC,81.80 bhp,Petrol
+201,Dealer,2019,16.78 kmpl,BMW X4 M Sport X xDrive20d,400Nm@ 1750-2500rpm,5.0,8500,Automatic,First Owner,1995 CC,190 bhp,Diesel
+202,Individual,2013,16.8 kmpl,Honda City V MT,146Nm@ 4800rpm,5.0,32000,Manual,First Owner,1497 CC,116.3 bhp,Petrol
+203,Individual,2012,19.7 kmpl,Maruti Alto LXi,62Nm@ 3000rpm,5.0,111000,Manual,First Owner,796 CC,46.3 bhp,Petrol
+204,Dealer,2014,22.7 kmpl,Ford Ecosport 1.5 DV5 MT Titanium Optional,204Nm@ 2000-2750rpm,5.0,132000,Manual,Second Owner,1498 CC,89.84 bhp,Diesel
+205,Individual,2013,18.2 kmpl,Chevrolet Sail Hatchback Petrol,113Nm@ 5000rpm,5.0,46000,Manual,First Owner,1199 CC,84.8 bhp,Petrol
+206,Individual,2014,18.6 kmpl,Maruti Swift ZXI,114Nm@ 4000rpm,5.0,50000,Manual,First Owner,1197 CC,85.8 bhp,Petrol
+207,Individual,2011,12.8 kmpl,Toyota Innova 2.5 G (Diesel) 7 Seater BS IV,20.4@ 1400-3400(kgm@ rpm),8.0,375000,Manual,First Owner,2494 CC,102 bhp,Diesel
+208,Individual,2012,,Tata Indica Vista Aqua 1.3 Quadrajet (ABS),,,80000,Manual,Second Owner,,,Diesel
+209,Dealer,2017,24.0 kmpl,Hyundai Grand i10 1.2 CRDi Sportz,190.24nm@ 1750-2250rpm,5.0,56290,Manual,First Owner,1186 CC,73.97 bhp,Diesel
+210,Individual,2017,24.7 kmpl,Maruti Alto 800 LXI,69Nm@ 3500rpm,5.0,25000,Manual,Second Owner,796 CC,47.3 bhp,Petrol
+211,Dealer,2017,19.33 kmpl,Jaguar XF 2.0 Diesel Portfolio,430Nm@ 1750-2500rpm,5.0,45000,Automatic,First Owner,1999 CC,177 bhp,Diesel
+212,Dealer,2018,16.55 kmpl,Mahindra Thar CRDe AC,247Nm@ 1800-2000rpm,6.0,12000,Manual,First Owner,2498 CC,105 bhp,Diesel
+213,Individual,2016,27.28 kmpl,Tata Tiago 1.05 Revotorq XZ WO Alloy,140Nm@ 1800-3000rpm,5.0,100000,Manual,First Owner,1047 CC,69 bhp,Diesel
+214,Individual,2012,23.03 kmpl,Tata Indigo eCS LX BSIV,140Nm@ 1800-3000rpm,5.0,35000,Manual,Second Owner,1396 CC,69 bhp,Diesel
+215,Individual,2006,12.8 kmpl,Toyota Innova 2.5 G2,20.4@ 1400-3400(kgm@ rpm),8.0,264000,Manual,First Owner,2494 CC,102 bhp,Diesel
+216,Individual,2012,22.32 kmpl,Hyundai Verna 1.6 SX CRDi (O),259.8Nm@ 1900-2750rpm,5.0,80000,Manual,Second Owner,1582 CC,126.32 bhp,Diesel
+217,Individual,2018,20.4 kmpl,Ford Aspire Trend Plus,120Nm@ 4250rpm,5.0,13000,Manual,First Owner,1194 CC,94.93 bhp,Petrol
+218,Individual,2018,15.37 kmpl,Maruti Eeco 7 Seater Standard BSIV,101Nm@ 3000rpm,7.0,44000,Manual,First Owner,1196 CC,73 bhp,Petrol
+219,Individual,2013,18.6 kmpl,Chevrolet Beat LS,108Nm@ 4400rpm,5.0,70000,Manual,Second Owner,1199 CC,79.4 bhp,Petrol
+220,Individual,2010,19.81 kmpl,Hyundai i10 Magna 1.1L,99.04Nm@ 4500rpm,5.0,55000,Manual,Second Owner,1086 CC,68.05 bhp,Petrol
+221,Individual,2018,21.5 kmpl,Volkswagen Vento 1.5 Highline Plus AT 16 Alloy,250Nm@ 1500-3000rpm,5.0,75000,Automatic,First Owner,1498 CC,108.5 bhp,Diesel
+222,Individual,2014,20.92 kmpl,Maruti Alto K10 LXI,90Nm@ 3500rpm,5.0,60000,Manual,Second Owner,998 CC,67.1 bhp,Petrol
+223,Individual,2016,25.2 kmpl,Maruti Swift VDI BSIV,190Nm@ 2000rpm,5.0,70000,Manual,First Owner,1248 CC,74 bhp,Diesel
+224,Individual,2014,19.1 kmpl,Hyundai Xcent 1.2 Kappa S Option,113.75Nm@ 4000rpm,5.0,46000,Manual,Second Owner,1197 CC,81.86 bhp,Petrol
+225,Individual,2014,26.21 kmpl,Maruti Ciaz ZDi,200Nm@ 1750rpm,5.0,90000,Manual,Second Owner,1248 CC,88.5 bhp,Diesel
+226,Individual,2011,18.06 kmpl,Nissan Micra XL,104Nm@ 4000rpm,5.0,43500,Manual,Second Owner,1198 CC,75 bhp,Petrol
+227,Individual,2015,22.77 kmpl,Ford EcoSport 1.5 TDCi Titanium Plus BSIV,205Nm@ 1750-3250rpm,5.0,90000,Manual,First Owner,1498 CC,98.59 bhp,Diesel
+228,Individual,2011,20.92 kmpl,Maruti Alto K10 2010-2014 VXI,90Nm@ 3500rpm,5.0,46000,Manual,First Owner,998 CC,67.1 bhp,Petrol
+229,Individual,2014,22.74 kmpl,Maruti Alto 800 VXI,69Nm@ 3500rpm,5.0,25000,Manual,First Owner,796 CC,47.3 bhp,Petrol
+230,Individual,2017,24.52 kmpl,Maruti Ertiga SHVS ZDI Plus,200Nm@ 1750rpm,7.0,50000,Manual,First Owner,1248 CC,88.5 bhp,Diesel
+231,Individual,2018,24.0 kmpl,Hyundai Grand i10 1.2 CRDi Sportz,190.24nm@ 1750-2250rpm,5.0,30000,Manual,First Owner,1186 CC,73.97 bhp,Diesel
+232,Individual,2012,13.5 kmpl,Mahindra Scorpio M2DI,277.5Nm@ 1700-2200rpm,5.0,120000,Manual,Second Owner,2179 CC,115 bhp,Diesel
+233,Individual,2014,22.9 kmpl,Maruti Swift ZDi,190Nm@ 2000rpm,5.0,90000,Manual,First Owner,1248 CC,74 bhp,Diesel
+234,Individual,2016,23.65 kmpl,Maruti SX4 S Cross 2015-2017 DDiS 200 Zeta,200Nm@ 1750rpm,5.0,52000,Manual,First Owner,1248 CC,88.5 bhp,Diesel
+235,Dealer,2017,24.0 kmpl,Hyundai Grand i10 1.2 CRDi Sportz,190.24nm@ 1750-2250rpm,5.0,56290,Manual,First Owner,1186 CC,73.97 bhp,Diesel
+236,Individual,2008,17.88 kmpl,Tata Indica V2 2001-2011 DLS BSIII,85Nm@ 2500rpm,5.0,120000,Manual,Fourth & Above Owner,1396 CC,52.8 bhp,Diesel
+237,Dealer,2011,17.0 kmpl,Honda City 1.5 V MT,146Nm at 4800 rpm,5.0,93500,Manual,Third Owner,1497 CC,118 bhp,Petrol
+238,Trustmark Dealer,2016,19.16 kmpl,Toyota Camry 2.5 Hybrid,213Nm@ 4500rpm,5.0,68089,Automatic,First Owner,2494 CC,157.7 bhp,Petrol
+239,Dealer,2017,14.7 kmpl,Skoda Octavia Elegance 1.8 TSI AT,250Nm@ 1250-5000rpm,5.0,33000,Automatic,Second Owner,1798 CC,177.5 bhp,Petrol
+240,Individual,2009,17.88 kmpl,Tata Indica V2 DLE BSIII,85Nm@ 2500rpm,5.0,60000,Manual,Second Owner,1396 CC,52.8 bhp,Diesel
+241,Individual,2018,25.17 kmpl,Renault KWID RXT,72Nm@ 4386rpm,5.0,30000,Manual,First Owner,799 CC,53.3 bhp,Petrol
+242,Individual,2013,25.8 kmpl,Honda Amaze S i-Dtech,200Nm@ 1750rpm,5.0,70000,Manual,First Owner,1498 CC,98.6 bhp,Diesel
+243,Individual,2017,17.0 kmpl,Ford EcoSport 1.5 Petrol Titanium BSIV,150Nm@ 4500rpm,5.0,25000,Manual,First Owner,1497 CC,121.31 bhp,Petrol
+244,Dealer,2018,16.25 kmpl,Skoda Kodiaq 2.0 TDI Style,340nm@ 1750-3000rpm,7.0,17601,Automatic,First Owner,1968 CC,148 bhp,Diesel
+245,Individual,2019,23.95 kmpl,Maruti Alto K10 VXI AGS,90Nm@ 3500rpm,5.0,14000,Automatic,First Owner,998 CC,67.05 bhp,Petrol
+246,Individual,2015,22.74 kmpl,Maruti Alto 800 LXI,69Nm@ 3500rpm,5.0,50000,Manual,First Owner,796 CC,47.3 bhp,Petrol
+247,Individual,2009,20.36 kmpl,Hyundai i10 Magna,111.7Nm@ 4000rpm,5.0,110000,Manual,Second Owner,1197 CC,78.9 bhp,Petrol
+248,Individual,2013,20.77 kmpl,Maruti Ertiga ZDI,200Nm@ 1750rpm,7.0,60000,Manual,First Owner,1248 CC,88.8 bhp,Diesel
+249,Trustmark Dealer,2013,12.99 kmpl,Toyota Innova 2.5 VX (Diesel) 7 Seater,200Nm@ 1200-3600rpm,7.0,79328,Manual,Second Owner,2494 CC,100.6 bhp,Diesel
+250,Individual,2009,12.8 kmpl,Toyota Innova 2.5 G (Diesel) 8 Seater BS IV,20.4@ 1400-3400(kgm@ rpm),8.0,217000,Manual,Fourth & Above Owner,2494 CC,102 bhp,Diesel
+251,Individual,2014,22.32 kmpl,Hyundai Verna 1.6 SX,259.8Nm@ 1900-2750rpm,5.0,106000,Manual,First Owner,1582 CC,126.32 bhp,Diesel
+252,Individual,2017,28.4 kmpl,Maruti Swift Dzire ZDI Plus,190Nm@ 2000rpm,5.0,70000,Manual,First Owner,1248 CC,74.02 bhp,Diesel
+253,Individual,2015,14.1 kmpl,Tata Safari Storme EX,320Nm@ 1500-3000rpm,7.0,110000,Manual,First Owner,2179 CC,147.94 bhp,Diesel
+254,Individual,2010,16.2 kmpl,Hyundai Verna Transform CRDi VGT SX ABS,24 KGM at 1900-2750 RPM,5.0,190000,Manual,Third Owner,1493 CC,110 bhp,Diesel
+255,Individual,2014,14.0 kmpl,Mahindra Scorpio 2009-2014 EX 2WD 9S,200Nm@ 1400-2200rpm,9.0,50000,Manual,Second Owner,2523 CC,75 bhp,Diesel
+256,Individual,2009,13.93 kmpl,Tata New Safari Dicor VX 4X2 BS IV,320Nm@ 1700-2700rpm,7.0,90000,Manual,Second Owner,2179 CC,138.1 bhp,Diesel
+257,Individual,2014,14.0 kmpl,Tata Safari Storme VX,320Nm@ 1700-2700rpm,7.0,86000,Manual,Second Owner,2179 CC,138.1 bhp,Diesel
+258,Individual,2016,25.17 kmpl,Renault KWID RXT,72Nm@ 4386rpm,5.0,30000,Manual,First Owner,799 CC,53.3 bhp,Petrol
+259,Individual,2019,23.84 kmpl,Tata Tiago 1.2 Revotron XZA,114Nm@ 3500rpm,5.0,9200,Automatic,First Owner,1199 CC,83.83 bhp,Petrol
+260,Dealer,2015,21.7 kmpl,Ford Ecosport 1.5 Diesel Titanium,215Nm@ 1750-2500rpm,5.0,92651,Manual,First Owner,1498 CC,98.96 bhp,Diesel
+261,Individual,2017,25.83 kmpl,Ford Figo 1.5D Titanium MT,215Nm@ 1750-3000rpm,5.0,30000,Manual,First Owner,1498 CC,99 bhp,Diesel
+262,Individual,2011,22.32 kmpl,Hyundai Verna 1.6 SX,259.8Nm@ 1900-2750rpm,5.0,80000,Manual,First Owner,1582 CC,126.32 bhp,Diesel
+263,Individual,2019,18.6 kmpl,Hyundai Elite i20 Magna Plus BSIV,117nm@ 4000rpm,5.0,10000,Manual,First Owner,1197 CC,81.86 bhp,Petrol
+264,Individual,2006,16.1 kmpl,Maruti 800 Std,59Nm@ 2500rpm,4.0,59000,Manual,Second Owner,796 CC,37 bhp,Petrol
+265,Individual,2009,13.5 kmpl,Honda Civic 1.8 V MT,172Nm@ 4300rpm,5.0,125000,Manual,Second Owner,1799 CC,130 bhp,Petrol
+266,Individual,2011,13.6 kmpl,Mahindra Bolero SLX,180 Nm at 1440-1500rpm,7.0,100000,Manual,Second Owner,2523 CC,63 bhp,Diesel
+267,Individual,2018,23.84 kmpl,Tata Tiago 1.2 Revotron XT,114Nm@ 3500rpm,5.0,50000,Manual,First Owner,1199 CC,84 bhp,Petrol
+268,Individual,2017,21.1 kmpl,Hyundai EON Magna Plus,74.5Nm@ 4000rpm,5.0,15000,Manual,Second Owner,814 CC,55.2 bhp,Petrol
+269,Dealer,2017,19.33 kmpl,Jaguar XF 2.0 Diesel Portfolio,430Nm@ 1750-2500rpm,5.0,45000,Automatic,First Owner,1999 CC,177 bhp,Diesel
+270,Dealer,2017,19.33 kmpl,Jaguar XF 2.0 Diesel Portfolio,430Nm@ 1750-2500rpm,5.0,45000,Automatic,First Owner,1999 CC,177 bhp,Diesel
+271,Dealer,2011,13.4 kmpl,Renault Fluence 2.0,190Nm@ 3700rpm,5.0,43000,Automatic,First Owner,1997 CC,135.1 bhp,Petrol
+272,Individual,2016,24.52 kmpl,Maruti Ertiga SHVS VDI,200Nm@ 1750rpm,7.0,70000,Manual,Second Owner,1248 CC,88.5 bhp,Diesel
+273,Individual,2016,23.01 kmpl,Renault KWID 1.0,91Nm@ 4250rpm,5.0,30000,Manual,Third Owner,999 CC,67 bhp,Petrol
+274,Dealer,2018,22.77 kmpl,Ford EcoSport 1.5 TDCi Titanium BSIV,205Nm@ 1750-3250rpm,5.0,27620,Manual,First Owner,1498 CC,98.59 bhp,Diesel
+275,Dealer,2017,17.0 kmpl,Ford EcoSport 1.5 Petrol Ambiente BSIV,150Nm@ 4500rpm,5.0,31596,Manual,First Owner,1497 CC,121.36 bhp,Petrol
+276,Individual,2017,18.0 kmpl,Honda City i-VTEC CVT ZX,145Nm@ 4600rpm,5.0,20000,Automatic,First Owner,1497 CC,117.6 bhp,Petrol
+277,Individual,2012,15.1 kmpl,Mahindra XUV500 W8 4WD,330Nm@ 1600-2800rpm,7.0,60000,Manual,Second Owner,2179 CC,140 bhp,Diesel
+278,Individual,2015,19.09 kmpl,Tata Indigo CS LS (TDI) BS-III,135Nm@ 2500rpm,5.0,52000,Manual,First Owner,1405 CC,69.01 bhp,Diesel
+279,Individual,2015,22.54 kmpl,Hyundai i20 Sportz 1.4 CRDi,219.7Nm@ 1500-2750rpm,5.0,80000,Manual,First Owner,1396 CC,88.73 bhp,Diesel
+280,Individual,2013,21.02 kmpl,Tata Manza Club Class Quadrajet90 VX,200Nm@ 1750-3000rpm,5.0,189000,Manual,First Owner,1248 CC,88.76 bhp,Diesel
+281,Individual,2012,19.01 kmpl,Renault Duster 110PS Diesel RxL,248Nm@ 2250rpm,5.0,110000,Manual,Second Owner,1461 CC,108.45 bhp,Diesel
+282,Dealer,2018,18.7 kmpl,Honda Jazz 1.2 V i VTEC,110Nm@ 4800rpm,5.0,8576,Manual,First Owner,1199 CC,88.7 bhp,Petrol
+283,Trustmark Dealer,2016,18.2 kmpl,Honda Jazz VX,110Nm@ 4800rpm,5.0,56494,Manual,First Owner,1199 CC,88.7 bhp,Petrol
+284,Individual,2008,19.81 kmpl,Hyundai i10 Era 1.1,99.04Nm@ 4500rpm,5.0,93331,Manual,Second Owner,1086 CC,68.05 bhp,Petrol
+285,Individual,2008,19.81 kmpl,Hyundai i10 Era,99.04Nm@ 4500rpm,5.0,30000,Manual,Second Owner,1086 CC,68.05 bhp,Petrol
+286,Individual,2017,16.5 kmpl,Mahindra Bolero Power Plus SLX,195Nm@ 1400-2200rpm,7.0,60000,Manual,First Owner,1493 CC,70 bhp,Diesel
+287,Dealer,2010,16.47 kmpl,Volkswagen Polo Select 1.2 MPI Highline,110Nm@ 3750rpm,5.0,44500,Manual,First Owner,1198 CC,74 bhp,Petrol
+288,Individual,2011,12.8 kmpl,Toyota Innova 2.5 V Diesel 7-seater,20.4@ 1400-3400(kgm@ rpm),7.0,291000,Manual,Second Owner,2494 CC,102 bhp,Diesel
+289,Trustmark Dealer,2016,18.2 kmpl,Honda Jazz VX,110Nm@ 4800rpm,5.0,56494,Manual,First Owner,1199 CC,88.7 bhp,Petrol
+290,Trustmark Dealer,2019,22.0 kmpl,Maruti Swift AMT VVT VXI,113Nm@ 4200rpm,5.0,5621,Automatic,First Owner,1197 CC,81.80 bhp,Petrol
+291,Individual,2014,18.9 kmpl,Hyundai Grand i10 Sportz,114Nm@ 4000rpm,5.0,60000,Manual,Second Owner,1197 CC,82 bhp,Petrol
+292,Individual,2017,23.65 kmpl,Maruti SX4 S Cross 2015-2017 DDiS 200 Zeta,200Nm@ 1750rpm,5.0,100000,Manual,First Owner,1248 CC,88.5 bhp,Diesel
+293,Individual,2013,19.09 kmpl,Tata Indigo CS LS (TDI) BS III,135Nm@ 2500rpm,5.0,120000,Manual,First Owner,1396 CC,69 bhp,Diesel
+294,Individual,2016,27.3 kmpl,Honda Jazz 1.5 V i DTEC,200Nm@ 1750rpm,5.0,30000,Manual,First Owner,1498 CC,98.6 bhp,Diesel
+295,Individual,2003,,Hyundai Santro Xing XS eRLX Euro II,,,68300,Manual,Third Owner,,,Petrol
+296,Individual,2012,22.9 kmpl,Maruti Swift VDI,190Nm@ 2000rpm,5.0,56000,Manual,Second Owner,1248 CC,74 bhp,Diesel
+297,Dealer,2014,16.02 kmpl,Maruti Ertiga ZXI,130Nm@ 4000rpm,7.0,46100,Manual,First Owner,1373 CC,93.7 bhp,Petrol
+298,Individual,2011,11.57 kmpl,Tata New Safari DICOR 2.2 EX 4x2,320Nm@ 1700-2700rpm,7.0,140000,Manual,Second Owner,2179 CC,138.1 bhp,Diesel
+299,Dealer,2017,19.33 kmpl,Jaguar XF 2.0 Diesel Portfolio,430Nm@ 1750-2500rpm,5.0,45000,Automatic,First Owner,1999 CC,177 bhp,Diesel
+300,Individual,2015,16.0 kmpl,Mahindra XUV500 W10 2WD,330Nm@ 1600-2800rpm,7.0,56975,Manual,First Owner,2179 CC,140 bhp,Diesel
+301,Dealer,2013,11.2 kmpl,BMW X6 xDrive30d,540Nm@ 2000rpm,4.0,56000,Automatic,First Owner,2993 CC,241 bhp,Diesel
+302,Dealer,2015,19.87 kmpl,Renault Duster 85PS Diesel RxL,200Nm@ 1750rpm,5.0,75000,Manual,First Owner,1461 CC,83.8 bhp,Diesel
+303,Individual,2009,16.1 kmpl,Maruti 800 AC,59Nm@ 2500rpm,4.0,80000,Manual,First Owner,796 CC,37 bhp,Petrol
+304,Individual,2017,15.96 kmpl,Mahindra Bolero 2011-2019 EX AC,195Nm@ 1400-2200rpm,7.0,70000,Manual,Second Owner,2523 CC,62.1 bhp,Diesel
+305,Individual,2016,20.45 kmpl,Nissan Terrano XE 85 PS,200Nm@ 1900rpm,5.0,35000,Manual,First Owner,1461 CC,83.8 bhp,Diesel
+306,Individual,2019,16.5 kmpl,Mahindra Bolero Power Plus ZLX,195Nm@ 1400-2200rpm,7.0,14000,Manual,First Owner,1493 CC,70 bhp,Diesel
+307,Individual,2004,18.9 kmpl,Maruti Wagon R LXI,90Nm@ 3500rpm,5.0,70000,Manual,Second Owner,998 CC,67.1 bhp,Petrol
+308,Individual,2014,23.4 kmpl,Maruti Swift Dzire VDI,190Nm@ 2000rpm,5.0,90000,Manual,First Owner,1248 CC,74 bhp,Diesel
+309,Individual,2015,20.51 kmpl,Maruti Wagon R VXI Optional,90Nm@ 3500rpm,5.0,40000,Manual,First Owner,998 CC,67.04 bhp,Petrol
+310,Individual,2016,18.6 kmpl,Hyundai i20 2015-2017 Magna 1.2,114.7Nm@ 4000rpm,5.0,29000,Manual,First Owner,1197 CC,81.83 bhp,Petrol
+311,Trustmark Dealer,2014,23.1 kmpl,Maruti Celerio VXI AT,90Nm@ 3500rpm,5.0,65204,Automatic,First Owner,998 CC,67.04 bhp,Petrol
+312,Individual,2019,17.4 kmpl,Honda City VX CVT,145Nm@ 4600rpm,5.0,20000,Automatic,First Owner,1497 CC,117.6 bhp,Petrol
+313,Individual,2012,19.4 kmpl,Honda Brio S MT,109Nm@ 4500rpm,5.0,60000,Manual,First Owner,1198 CC,86.8 bhp,Petrol
+314,Individual,2015,15.8 kmpl,Ford Ecosport 1.5 Ti VCT MT Titanium,140Nm@ 4400rpm,5.0,20000,Manual,Second Owner,1499 CC,110 bhp,Petrol
+315,Individual,2013,21.1 kmpl,Hyundai EON Sportz,74.5Nm@ 4000rpm,5.0,50000,Manual,Second Owner,814 CC,55.2 bhp,Petrol
+316,Individual,2012,19.09 kmpl,Tata Indigo eCS LX TDI BSIII,135Nm@ 2500rpm,5.0,80000,Manual,Fourth & Above Owner,1396 CC,69 bhp,Diesel
+317,Individual,2018,20.65 kmpl,Tata Zest Quadrajet 1.3 XT,190Nm@ 1750-3000rpm,5.0,70000,Manual,First Owner,1248 CC,88.7 bhp,Diesel
+318,Individual,2015,26.59 kmpl,Maruti Swift Dzire VDI,190Nm@ 2000rpm,5.0,50000,Manual,First Owner,1248 CC,74 bhp,Diesel
+319,Individual,2017,24.4 kmpl,Hyundai Xcent 1.1 CRDi SX Option,180.4Nm@ 1750-2500rpm,5.0,70000,Manual,Second Owner,1120 CC,71 bhp,Diesel
+320,Individual,2017,23.84 kmpl,Tata Tiago 1.2 Revotron XZ,114Nm@ 3500rpm,5.0,42000,Manual,First Owner,1199 CC,84 bhp,Petrol
+321,Dealer,2016,14.8 kmpl,Hyundai Creta 1.6 SX Automatic,151NM@ 4850rpm,5.0,40000,Automatic,First Owner,1591 CC,121.3 bhp,Petrol
+322,Individual,2016,20.4 kmpl,Maruti Swift VXI Deca,113Nm@ 4200rpm,5.0,20000,Manual,First Owner,1197 CC,81.80 bhp,Petrol
+323,Individual,2008,12.85 kmpl,Tata Indigo Grand Petrol,124Nm@ 3500rpm,5.0,40000,Manual,Fourth & Above Owner,1396 CC,99.6 bhp,Petrol
+324,Dealer,2016,15.3 kmpl,Tata Sumo EX,250Nm@ 1000-2000rpm,9.0,63000,Manual,First Owner,2956 CC,83.8 bhp,Diesel
+325,Individual,2011,14.0 kmpl,Mahindra Scorpio EX,200Nm@ 1400-2200rpm,8.0,120000,Manual,Second Owner,2523 CC,75 bhp,Diesel
+326,Dealer,2016,21.66 kmpl,Skoda Rapid 1.5 TDI AT Style Plus,250Nm@ 1500-2500rpm,5.0,99000,Automatic,First Owner,1498 CC,103.52 bhp,Diesel
+327,Individual,2015,24.8 kmpl,Hyundai Verna 1.4 CRDi,219.7Nm@ 1750-2750rpm,5.0,248000,Manual,First Owner,1396 CC,88.7 bhp,Diesel
+328,Individual,2017,23.0 kmpl,Ford EcoSport 1.5 Diesel Titanium Plus BSIV,205Nm@ 1750-3250rpm,5.0,45000,Manual,First Owner,1498 CC,98.96 bhp,Diesel
+329,Individual,2015,24.52 kmpl,Maruti Ertiga SHVS VDI,200Nm@ 1750rpm,7.0,40000,Manual,First Owner,1248 CC,88.5 bhp,Diesel
+330,Individual,1999,17.3 kmpl,Maruti Zen LX,78Nm@ 4500rpm,5.0,60000,Manual,Fourth & Above Owner,993 CC,60 bhp,Petrol
+331,Trustmark Dealer,2019,22.0 kmpl,Maruti Swift AMT VVT VXI,113Nm@ 4200rpm,5.0,5621,Automatic,First Owner,1197 CC,81.80 bhp,Petrol
+332,Individual,2011,20.92 kmpl,Maruti Alto K10 2010-2014 VXI,90Nm@ 3500rpm,5.0,50000,Manual,Third Owner,998 CC,67.1 bhp,Petrol
+333,Individual,2008,16.8 kmpl,Tata Indica V2 DLS TC,"12.5@ 2,500(kgm@ rpm)",5.0,40000,Manual,First Owner,1405 CC,62 bhp,Diesel
+334,Individual,2007,14.7 kmpl,Chevrolet Aveo U-VA 1.2 LT,"11.2@ 4,400(kgm@ rpm)",5.0,60000,Manual,Third Owner,1150 CC,76 bhp,Petrol
+335,Individual,2015,27.39 kmpl,Maruti Baleno Zeta 1.3,190Nm@ 2000rpm,5.0,70000,Manual,Second Owner,1248 CC,74 bhp,Diesel
+336,Individual,2015,18.6 kmpl,Hyundai i20 Magna 1.2,114.7Nm@ 4000rpm,5.0,35000,Manual,First Owner,1197 CC,81.83 bhp,Petrol
+337,Individual,2013,14.84 kmpl,Mercedes-Benz New C-Class 220 CDI AT,400Nm@ 1400-2800rpm,5.0,25000,Automatic,First Owner,2143 CC,170 bhp,Diesel
+338,Individual,2007,19.7 kmpl,Maruti Alto LX BSIII,62Nm@ 3000rpm,5.0,110000,Manual,Second Owner,796 CC,46.3 bhp,Petrol
+339,Dealer,2011,18.8 kmpl,Tata Manza Aqua Quadrajet,200Nm@ 1750-3000rpm,5.0,97343,Manual,First Owner,1248 CC,90 bhp,Diesel
+340,Individual,2011,15.1 kmpl,Mahindra XUV500 W8 4WD,330Nm@ 1600-2800rpm,7.0,80000,Manual,Third Owner,2179 CC,140 bhp,Diesel
+341,Individual,2012,23.2 kmpl,Maruti Ritz VDi,190Nm@ 2000rpm,5.0,70000,Manual,First Owner,1248 CC,73.94 bhp,Diesel
+342,Individual,2012,20.36 kmpl,Hyundai i10 Magna,111.7Nm@ 4000rpm,5.0,27000,Manual,First Owner,1197 CC,78.9 bhp,Petrol
+343,Individual,2016,20.4 kmpl,Maruti Swift VXI Deca,113Nm@ 4200rpm,5.0,32000,Manual,First Owner,1197 CC,81.80 bhp,Petrol
+344,Individual,2011,13.5 kmpl,Mahindra Scorpio M2DI,277.5Nm@ 1700-2200rpm,5.0,80000,Manual,Second Owner,2179 CC,115 bhp,Diesel
+345,Individual,2012,21.12 kmpl,Tata Manza Aura Quadrajet BS IV,200Nm@ 1750-3000rpm,5.0,86000,Manual,First Owner,1248 CC,88.8 bhp,Diesel
+346,Individual,2018,20.3 kmpl,Hyundai Santro Asta BSIV,99Nm@ 4500rpm,5.0,25000,Manual,First Owner,1086 CC,68 bhp,Petrol
+347,Individual,2006,14.0 kmpl,Maruti Wagon R LXI BSIII,"8.6@ 3,500(kgm@ rpm)",5.0,100000,Manual,Second Owner,1061 CC,64 bhp,Petrol
+348,Individual,2014,22.32 kmpl,Hyundai Verna 1.6 SX CRDi (O),259.8Nm@ 1900-2750rpm,5.0,29340,Manual,First Owner,1582 CC,126.32 bhp,Diesel
+349,Individual,2015,22.74 kmpl,Maruti Alto 800 Base,69Nm@ 3500rpm,5.0,50000,Manual,Second Owner,796 CC,47.3 bhp,Petrol
+350,Individual,2017,17.6 kmpl,Tata Hexa XT,400Nm@ 1750-2500rpm,7.0,45000,Manual,First Owner,2179 CC,153.86 bhp,Diesel
+351,Dealer,2017,28.09 kmpl,Maruti Ciaz S 1.3,200Nm@ 1750rpm,5.0,47747,Manual,First Owner,1248 CC,88.5 bhp,Diesel
+352,Individual,2019,22.95 kmpl,Tata Zest Quadrajet 1.3 75PS XE,190Nm@ 1750-3000rpm,5.0,15000,Manual,First Owner,1248 CC,74 bhp,Diesel
+353,Individual,2009,13.6 kmpl,Mahindra Bolero SLE,180 Nm at 1440-1500rpm,7.0,170000,Manual,Second Owner,2523 CC,63 bhp,Diesel
+354,Individual,2011,13.6 kmpl,Mahindra Bolero SLX,180 Nm at 1440-1500rpm,7.0,100000,Manual,Second Owner,2523 CC,63 bhp,Diesel
+355,Individual,2009,18.1 kmpl,Hyundai Verna CRDi SX ABS,"24@ 1,900-2,750(kgm@ rpm)",5.0,90000,Manual,Second Owner,1493 CC,110 bhp,Diesel
+356,Individual,2013,15.64 kmpl,Tata Indigo eCS GLS,100Nm@ 2700rpm,5.0,120000,Manual,First Owner,1193 CC,64.1 bhp,Petrol
+357,Dealer,2014,22.54 kmpl,Hyundai i20 Diesel Asta Option,219.7Nm@ 1500-2750rpm,5.0,76000,Manual,First Owner,1396 CC,88.73 bhp,Diesel
+358,Dealer,2017,13.68 kmpl,Toyota Innova Crysta 2.4 ZX MT BSIV,343Nm@ 1400-2800rpm,7.0,33019,Manual,First Owner,2393 CC,147.8 bhp,Diesel
+359,Individual,2015,18.49 kmpl,Mahindra TUV 300 T8,240Nm@ 1600-2800rpm,7.0,110000,Manual,Second Owner,1493 CC,100 bhp,Diesel
+360,Individual,2017,23.95 kmpl,Maruti Alto K10 VXI,90Nm@ 3500rpm,5.0,3564,Manual,First Owner,998 CC,67.05 bhp,Petrol
+361,Dealer,2016,16.3 kmpl,Hyundai Elantra S,177.5Nm@ 4700rpm,5.0,49900,Manual,First Owner,1797 CC,147.5 bhp,Petrol
+362,Individual,2011,10.5 kmpl,Mitsubishi Pajero 2.8 SFX BSIII Single Tone,292Nm@ 2000rpm,6.0,120000,Manual,Second Owner,2835 CC,116.9 bhp,Diesel
+363,Individual,2019,21.63 kmpl,Maruti Celerio X ZXI BSIV,90Nm@ 3500rpm,5.0,7000,Manual,First Owner,998 CC,67 bhp,Petrol
+364,Dealer,2017,17.9 kmpl,Mercedes-Benz GLA Class 200 CDI SPORT,300Nm@ 1600-3000rpm,5.0,23000,Automatic,First Owner,2143 CC,136 bhp,Diesel
+365,Individual,2016,19.44 kmpl,Datsun GO Plus T BSIV,104Nm@ 4000rpm,7.0,70000,Manual,Second Owner,1198 CC,67 bhp,Petrol
+366,Dealer,2016,25.17 kmpl,Renault KWID RXT,72Nm@ 4386rpm,5.0,66693,Manual,First Owner,799 CC,53.3 bhp,Petrol
+367,Individual,2018,24.7 kmpl,Maruti Alto 800 LXI,69Nm@ 3500rpm,5.0,20000,Manual,First Owner,796 CC,47.3 bhp,Petrol
+368,Individual,2012,15.96 kmpl,Mahindra Bolero 2011-2019 SLX,195Nm@ 1400-2200rpm,7.0,120000,Manual,First Owner,2523 CC,62.1 bhp,Diesel
+369,Dealer,2018,27.39 kmpl,Maruti Baleno Alpha 1.3,190Nm@ 2000rpm,5.0,38817,Manual,First Owner,1248 CC,74 bhp,Diesel
+370,Individual,2012,21.1 km/kg,Hyundai EON LPG Era Plus,74.5Nm@ 4000rpm,5.0,120000,Manual,First Owner,814 CC,55.2 bhp,LPG
+371,Individual,2006,10.5 kmpl,Mahindra Scorpio 2.6 CRDe,290Nm@ 1800-2800rpm,8.0,120000,Manual,Third Owner,2179 CC,120 bhp,Diesel
+372,Individual,2011,17.6 kmpl,Toyota Etios G,132Nm@ 3000rpm,5.0,110000,Manual,First Owner,1496 CC,88.73 bhp,Petrol
+373,Individual,2018,21.1 kmpl,Maruti Baleno RS 1.0 Petrol,150Nm@ 1700-4500rpm,5.0,15000,Manual,First Owner,998 CC,100.5 bhp,Petrol
+374,Individual,2015,19.01 kmpl,Renault Duster 110PS Diesel RxL,248Nm@ 2250rpm,5.0,136000,Manual,First Owner,1461 CC,108.45 bhp,Diesel
+375,Individual,2011,20.0 kmpl,Ford Figo Diesel Titanium,160Nm@ 2000rpm,5.0,103000,Manual,Third Owner,1399 CC,68 bhp,Diesel
+376,Individual,2015,20.73 kmpl,Maruti Ciaz VXi Plus,130Nm@ 4000rpm,5.0,26000,Manual,First Owner,1373 CC,91.1 bhp,Petrol
+377,Dealer,2014,26.0 kmpl,Honda City i DTec V,200Nm@ 1750rpm,5.0,72000,Manual,First Owner,1498 CC,98.6 bhp,Diesel
+378,Individual,2018,20.3 kmpl,Hyundai Santro Sportz BSIV,99Nm@ 4500rpm,5.0,7800,Manual,First Owner,1086 CC,68 bhp,Petrol
+379,Individual,2016,17.8 kmpl,Honda City i VTEC VX Option BL,145Nm@ 4600rpm,5.0,22000,Manual,First Owner,1497 CC,117.3 bhp,Petrol
+380,Individual,2017,22.54 kmpl,Hyundai i20 2015-2017 Asta 1.4 CRDi,219.7Nm@ 1500-2750rpm,5.0,40000,Manual,First Owner,1396 CC,88.73 bhp,Diesel
+381,Individual,2000,16.1 kmpl,Maruti 800 Std,59Nm@ 2500rpm,4.0,56194,Manual,Fourth & Above Owner,796 CC,37 bhp,Petrol
+382,Individual,2009,19.7 kmpl,Maruti Alto LXi,62Nm@ 3000rpm,5.0,54000,Manual,First Owner,796 CC,46.3 bhp,Petrol
+383,Individual,2015,21.14 kmpl,Skoda Rapid 1.5 TDI Elegance,250Nm@ 1500-2500rpm,5.0,101500,Manual,Second Owner,1498 CC,103.52 bhp,Diesel
+384,Dealer,2018,16.8 kmpl,Volvo V40 D3 R-Design,350Nm@ 1500-2750rpm,5.0,2000,Automatic,First Owner,1984 CC,150 bhp,Diesel
+385,Dealer,2015,24.4 kmpl,Hyundai Xcent 1.1 CRDi Base,180.4Nm@ 1750-2500rpm,5.0,55000,Manual,First Owner,1120 CC,71 bhp,Diesel
+386,Dealer,2019,22.37 kmpl,Lexus ES 300h,202Nm@ 3600-5200rpm,5.0,20000,Automatic,First Owner,2487 CC,214.56 bhp,Petrol
+387,Individual,2015,16.0 kmpl,Mahindra XUV500 W10 2WD,330Nm@ 1600-2800rpm,7.0,110000,Manual,First Owner,2179 CC,140 bhp,Diesel
+388,Individual,2011,12.05 kmpl,Mahindra Scorpio SLE BSIV,290Nm@ 1800-2800rpm,8.0,110000,Manual,Second Owner,2179 CC,120 bhp,Diesel
+389,Dealer,2017,15.4 kmpl,Mahindra Scorpio S4 Plus,280Nm@ 1800-2800rpm,7.0,52236,Manual,First Owner,2179 CC,120 bhp,Diesel
+390,Individual,2015,23.95 kmpl,Maruti Alto K10 VXI AGS,90Nm@ 3500rpm,5.0,38000,Automatic,Second Owner,998 CC,67.05 bhp,Petrol
+391,Individual,2014,12.05 kmpl,Mahindra Scorpio 2009-2014 SLE 7S BSIV,290Nm@ 1800-2800rpm,7.0,126000,Manual,First Owner,2179 CC,120 bhp,Diesel
+392,Individual,2015,14.1 kmpl,Tata Safari Storme EX,320Nm@ 1500-3000rpm,7.0,110000,Manual,First Owner,2179 CC,147.94 bhp,Diesel
+393,Individual,2012,23.4 kmpl,Maruti Swift Dzire ZDI,190Nm@ 2000rpm,5.0,100000,Manual,Second Owner,1248 CC,74 bhp,Diesel
+394,Individual,2002,14.07 kmpl,Tata Sumo SE,250Nm@ 1600-2000rpm,7.0,120000,Manual,First Owner,2956 CC,83.1 bhp,Diesel
+395,Individual,2007,18.2 kmpl,Maruti Zen Estilo 1.1 LX BSIII,84Nm@ 3500rpm,5.0,80000,Manual,Second Owner,1061 CC,64 bhp,Petrol
+396,Dealer,2016,14.3 kmpl,Skoda Rapid 1.6 MPI AT Elegance,153Nm@ 3800rpm,5.0,11000,Automatic,First Owner,1598 CC,103.5 bhp,Petrol
+397,Individual,2015,23.1 kmpl,Maruti Celerio ZXI,90Nm@ 3500rpm,5.0,60000,Manual,First Owner,998 CC,67.04 bhp,Petrol
+398,Individual,2014,25.2 kmpl,Maruti Swift LDI BSIV,190Nm@ 2000rpm,5.0,70000,Manual,First Owner,1248 CC,74 bhp,Diesel
+399,Individual,2019,21.5 kmpl,Tata Nexon 1.5 Revotorq XZA Plus,260Nm@ 1500-2750rpm,5.0,10000,Automatic,First Owner,1497 CC,108.5 bhp,Diesel
+400,Individual,2011,23.03 kmpl,Tata Indigo CS eLX BS IV,140Nm@ 1800-3000rpm,5.0,120000,Manual,First Owner,1396 CC,69 bhp,Diesel
+401,Individual,2016,24.52 kmpl,Maruti Ertiga SHVS ZDI Plus,200Nm@ 1750rpm,7.0,50000,Manual,First Owner,1248 CC,88.5 bhp,Diesel
+402,Individual,1999,16.1 kmpl,Maruti 800 AC,59Nm@ 2500rpm,4.0,80000,Manual,Third Owner,796 CC,37 bhp,Petrol
+403,Dealer,2014,22.74 kmpl,Maruti Alto 800 LXI,69Nm@ 3500rpm,5.0,43381,Manual,Second Owner,796 CC,47.3 bhp,Petrol
+404,Individual,2016,24.8 kmpl,Hyundai Verna 1.4 CRDi,219.7Nm@ 1750-2750rpm,5.0,40000,Manual,First Owner,1396 CC,88.7 bhp,Diesel
+405,Individual,2010,26.0 kmpl,Tata Nano Cx BSIV,"48@ 3,000+/-500(NM@ rpm)",4.0,50000,Manual,Third Owner,624 CC,35 bhp,Petrol
+406,Dealer,2019,18.15 kmpl,Hyundai Venue SX Plus Turbo DCT BSIV,171.6Nm@ 1500-4000rpm,5.0,3500,Automatic,First Owner,998 CC,118.35 bhp,Petrol
+407,Individual,2010,15.6 kmpl,Ford Figo Petrol EXI,102Nm@ 4000rpm,5.0,30000,Manual,First Owner,1196 CC,70 bhp,Petrol
+408,Individual,2008,17.8 kmpl,Maruti Swift Ldi BSIII,190Nm@ 2000rpm,5.0,152500,Manual,First Owner,1248 CC,75 bhp,Diesel
+409,Individual,2018,21.5 kmpl,Tata Nexon 1.5 Revotorq XM,260Nm@ 1500-2750rpm,5.0,9500,Manual,First Owner,1497 CC,108.5 bhp,Diesel
+410,Individual,2005,19.7 kmpl,Maruti Alto LXi BSIII,62Nm@ 3000rpm,5.0,49455,Manual,First Owner,796 CC,46.3 bhp,Petrol
+411,Individual,2010,23.0 kmpl,Hyundai i20 1.4 CRDi Era,22.4 kgm at 1750-2750rpm,5.0,90000,Manual,Second Owner,1396 CC,90 bhp,Diesel
+412,Individual,2016,15.37 kmpl,Maruti Eeco 7 Seater Standard BSIV,101Nm@ 3000rpm,7.0,100000,Manual,Third Owner,1196 CC,73 bhp,Petrol
+413,Individual,2003,14.2 kmpl,Ford Ikon 1.6 Really Sport,130@ 2500(kgm@ rpm),5.0,80000,Manual,Third Owner,1597 CC,92 bhp,Petrol
+414,Individual,2012,19.4 kmpl,Tata Indica Vista TDI LS,135.4Nm@ 2500rpm,5.0,90000,Manual,Third Owner,1405 CC,70 bhp,Diesel
+415,Dealer,2019,17.0 kmpl,Mahindra XUV300 W8 Option BSIV,200Nm@ 2000-3500rpm,5.0,16500,Manual,First Owner,1197 CC,110 bhp,Petrol
+416,Individual,2014,23.4 kmpl,Maruti Swift Dzire VDI,190Nm@ 2000rpm,5.0,120000,Manual,Second Owner,1248 CC,74 bhp,Diesel
+417,Individual,2014,15.96 kmpl,Mahindra Bolero 2011-2019 SLX,195Nm@ 1400-2200rpm,7.0,65000,Manual,Second Owner,2523 CC,62.1 bhp,Diesel
+418,Individual,2017,24.3 kmpl,Maruti Vitara Brezza ZDi Plus,200Nm@ 1750rpm,5.0,25000,Manual,First Owner,1248 CC,88.5 bhp,Diesel
+419,Individual,2010,15.5 kmpl,Maruti SX4 ZXI MT BSIV Leather,145Nm@ 4100rpm,5.0,155000,Manual,Second Owner,1586 CC,103.3 bhp,Petrol
+420,Dealer,2012,11.5 kmpl,Toyota Fortuner 3.0 Diesel,343Nm@ 1400-3400rpm,7.0,129627,Manual,First Owner,2982 CC,171 bhp,Diesel
+421,Individual,2012,20.54 kmpl,Volkswagen Vento Diesel Highline,250Nm@ 1500-2500rpm,5.0,120000,Manual,Second Owner,1598 CC,103.6 bhp,Diesel
+422,Individual,2012,20.0 kmpl,Ford Figo Diesel EXI,160Nm@ 2000rpm,5.0,54000,Manual,First Owner,1399 CC,68 bhp,Diesel
+423,Individual,2005,19.7 kmpl,Maruti Alto LX,62Nm@ 3000rpm,5.0,100000,Manual,Fourth & Above Owner,796 CC,46.3 bhp,Petrol
+424,Individual,2014,22.3 kmpl,Tata Indica Vista Quadrajet VX Tech,190Nm@ 1750-3000rpm,5.0,120000,Manual,First Owner,1248 CC,74 bhp,Diesel
+425,Individual,2007,17.2 kmpl,Tata Indica V2 DLS,"8.5@ 2,500(kgm@ rpm)",5.0,120000,Manual,Third Owner,1396 CC,53.5 bhp,Diesel
+426,Individual,2015,16.0 kmpl,Mahindra XUV500 W8 4WD,330Nm@ 1600-2800rpm,7.0,173000,Manual,First Owner,2179 CC,140 bhp,Diesel
+427,Individual,2011,12.05 kmpl,Mahindra Scorpio LX,290Nm@ 1800-2800rpm,9.0,80000,Manual,Second Owner,2179 CC,120 bhp,Diesel
+428,Individual,2013,20.51 kmpl,Maruti Wagon R VXI BS IV,90Nm@ 3500rpm,5.0,57000,Manual,Second Owner,998 CC,67.04 bhp,Petrol
+429,Individual,2015,20.51 kmpl,Maruti Wagon R VXI BS IV,90Nm@ 3500rpm,5.0,40000,Manual,First Owner,998 CC,67.04 bhp,Petrol
+430,Individual,2019,20.14 kmpl,Hyundai Xcent 1.2 VTVT E,113.75nm@ 4000rpm,5.0,60000,Manual,First Owner,1197 CC,81.86 bhp,Petrol
+431,Trustmark Dealer,2016,18.2 kmpl,Honda Jazz VX,110Nm@ 4800rpm,5.0,56494,Manual,First Owner,1199 CC,88.7 bhp,Petrol
+432,Individual,2017,23.84 kmpl,Tata Tiago 1.2 Revotron XZ,114Nm@ 3500rpm,5.0,42000,Manual,First Owner,1199 CC,84 bhp,Petrol
+433,Individual,2006,19.7 kmpl,Maruti Alto LX,62Nm@ 3000rpm,5.0,42500,Manual,First Owner,796 CC,46.3 bhp,Petrol
+434,Individual,2017,21.4 kmpl,Maruti Baleno Delta 1.2,115Nm@ 4000rpm,5.0,46000,Manual,First Owner,1197 CC,83.1 bhp,Petrol
+435,Individual,2014,19.4 kmpl,Honda Brio S MT,109Nm@ 4500rpm,5.0,60000,Manual,Second Owner,1198 CC,86.8 bhp,Petrol
+436,Individual,2011,18.3 kmpl,Chevrolet Cruze LTZ,327Nm@ 2600rpm,5.0,100000,Manual,First Owner,1991 CC,147.9 bhp,Diesel
+437,Dealer,2013,13.73 kmpl,Renault Koleos 2.0 Diesel,320Nm@ 2000rpm,5.0,75010,Automatic,First Owner,1995 CC,148 bhp,Diesel
+438,Individual,2013,13.7 kmpl,Tata Aria Pride,320Nm@ 1700-2700rpm,7.0,110000,Manual,Second Owner,2179 CC,138.1 bhp,Diesel
+439,Individual,2017,21.38 kmpl,Hyundai Creta 1.4 CRDi Base,219.7Nm@ 1500-2750rpm,5.0,60000,Manual,First Owner,1396 CC,88.7 bhp,Diesel
+440,Individual,2019,18.0 kmpl,Volvo XC40 D4 Inscription BSIV,400Nm,5.0,20000,Automatic,First Owner,1969 CC,190 bhp,Diesel
+441,Individual,2011,13.6 kmpl,Mahindra Bolero DI BSIII,180 Nm at 1440-1500rpm,7.0,120000,Manual,Fourth & Above Owner,2523 CC,63 bhp,Diesel
+442,Individual,2020,22.05 kmpl,Maruti Alto 800 LXI,69Nm@ 3500rpm,5.0,5000,Manual,First Owner,796 CC,47.3 bhp,Petrol
+443,Individual,2012,21.1 kmpl,Hyundai EON Magna Plus,74.5Nm@ 4000rpm,5.0,80000,Manual,Second Owner,814 CC,55.2 bhp,Petrol
+444,Individual,2008,17.3 kmpl,Maruti Wagon R LX BSIII,"8.6@ 3,500(kgm@ rpm)",5.0,100000,Manual,Third Owner,1061 CC,64 bhp,Petrol
+445,Individual,2013,17.68 kmpl,Audi A6 2.0 TDI Premium Plus,380Nm@ 1750-2500rpm,5.0,35000,Automatic,Second Owner,1968 CC,174.33 bhp,Diesel
+446,Individual,2016,24.52 kmpl,Maruti Ertiga SHVS ZDI Plus,200Nm@ 1750rpm,7.0,54000,Manual,Second Owner,1248 CC,88.5 bhp,Diesel
+447,Individual,2017,18.49 kmpl,Mahindra TUV 300 T8,240Nm@ 1600-2800rpm,7.0,120000,Manual,First Owner,1493 CC,100 bhp,Diesel
+448,Individual,2010,10.93 kmpl,Mercedes-Benz E-Class E 250 Elegance,245Nm@ 5000rpm,5.0,35000,Automatic,Second Owner,2497 CC,204 bhp,Petrol
+449,Individual,2017,21.1 kmpl,Hyundai EON Era Plus,74.5Nm@ 4000rpm,5.0,8000,Manual,First Owner,814 CC,55.2 bhp,Petrol
+450,Individual,2016,26.0 kmpl,Honda City i DTec E,200Nm@ 1750rpm,5.0,80000,Manual,First Owner,1498 CC,98.6 bhp,Diesel
+451,Individual,2019,17.0 kmpl,Hyundai Verna VTVT 1.6 SX,151Nm@ 4850rpm,5.0,15000,Manual,First Owner,1591 CC,121.3 bhp,Petrol
+452,Individual,2011,16.36 kmpl,Hyundai Accent Executive,124.6Nm@ 3500rpm,5.0,70000,Manual,First Owner,1495 CC,93.7 bhp,Petrol
+453,Individual,2012,15.0 kmpl,Skoda Rapid 1.6 MPI Elegance,153Nm@ 3800rpm,5.0,116000,Manual,First Owner,1598 CC,103.5 bhp,Petrol
+454,Individual,2014,19.0 kmpl,Maruti A-Star Vxi,90Nm@ 3500rpm,5.0,40000,Manual,First Owner,998 CC,66.1 bhp,Petrol
+455,Individual,2012,19.09 kmpl,Tata Indigo CS LS (TDI) BS III,135Nm@ 2500rpm,5.0,120000,Manual,Third Owner,1396 CC,69 bhp,Diesel
+456,Dealer,2017,20.5 kmpl,Hyundai Creta 1.6 SX Diesel,259.87NM@ 1500-3000rpm,5.0,41000,Manual,First Owner,1582 CC,126.2 bhp,Diesel
+457,Dealer,2016,16.3 kmpl,Hyundai Elantra S,177.5Nm@ 4700rpm,5.0,49900,Manual,First Owner,1797 CC,147.5 bhp,Petrol
+458,Individual,2015,26.59 kmpl,Maruti Swift Dzire VDI Optional,190Nm@ 2000rpm,5.0,80000,Manual,First Owner,1248 CC,74 bhp,Diesel
+459,Individual,2019,19.0 kmpl,Ford Freestyle Trend Petrol BSIV,120Nm@ 4250rpm,5.0,10000,Manual,First Owner,1194 CC,94.68 bhp,Petrol
+460,Individual,2017,22.54 kmpl,Hyundai i20 1.4 Sportz,219.7Nm@ 1500-2750rpm,5.0,32331,Manual,Second Owner,1396 CC,88.73 bhp,Diesel
+461,Trustmark Dealer,2013,12.99 kmpl,Toyota Innova 2.5 VX (Diesel) 7 Seater,200Nm@ 1200-3600rpm,7.0,79328,Manual,Second Owner,2494 CC,100.6 bhp,Diesel
+462,Individual,2014,19.34 kmpl,Nissan Micra XV CVT,104Nm@ 4400rpm,5.0,26000,Automatic,First Owner,1198 CC,76 bhp,Petrol
+463,Individual,2017,16.55 kmpl,Mahindra Thar CRDe,247Nm@ 1800-2000rpm,6.0,60000,Manual,Second Owner,2498 CC,105 bhp,Diesel
+464,Individual,2019,21.21 kmpl,Maruti Swift AMT VXI,113Nm@ 4200rpm,5.0,7500,Automatic,First Owner,1197 CC,81.80 bhp,Petrol
+465,Individual,2015,12.99 kmpl,Toyota Innova 2.5 ZX Diesel 7 Seater BSIII,200Nm@ 1400-3400rpm,7.0,170000,Manual,First Owner,2494 CC,100.6 bhp,Diesel
+466,Individual,2014,19.81 kmpl,Hyundai i10 Magna 1.1L,99.04Nm@ 4500rpm,5.0,100000,Manual,First Owner,1086 CC,68.05 bhp,Petrol
+467,Individual,2015,12.99 kmpl,Toyota Innova 2.5 GX (Diesel) 8 Seater,200Nm@ 1200-3600rpm,8.0,50000,Manual,First Owner,2494 CC,100.6 bhp,Diesel
+468,Individual,2015,21.19 kmpl,Hyundai i20 Active 1.4,219.66nm@ 1500-2750rpm,5.0,126000,Manual,First Owner,1396 CC,88.73 bhp,Diesel
+469,Individual,2009,13.9 kmpl,Hyundai Verna XXi ABS (Petrol),"14.9@ 3,000(kgm@ rpm)",5.0,214000,Manual,Second Owner,1599 CC,103.2 bhp,Petrol
+470,Individual,2014,26.0 kmpl,Honda City i DTEC S,200Nm@ 1750rpm,5.0,110000,Manual,Second Owner,1498 CC,98.6 bhp,Diesel
+471,Dealer,2009,,Hyundai Santro GLS I - Euro II,,,56000,Manual,Second Owner,,,Petrol
+472,Individual,2009,19.7 kmpl,Maruti Alto LXi,62Nm@ 3000rpm,5.0,70000,Manual,Third Owner,796 CC,46.3 bhp,Petrol
+473,Individual,2018,20.3 kmpl,Tata Tigor 1.2 Revotron XT,114Nm@ 3500rpm,5.0,35000,Manual,First Owner,1199 CC,84 bhp,Petrol
+474,Individual,2018,22.0 kmpl,Maruti Swift Dzire LXI 1.2 BS IV,113Nm@ 4200rpm,5.0,5000,Manual,First Owner,1197 CC,81.80 bhp,Petrol
+475,Individual,2005,18.9 kmpl,Maruti Wagon R LXI,90Nm@ 3500rpm,5.0,140000,Manual,Second Owner,998 CC,67.1 bhp,Petrol
+476,Individual,2003,10.5 kmpl,Mahindra Scorpio 2.6 SLX Turbo 7 Seater,290Nm@ 1800-2800rpm,7.0,120000,Manual,Second Owner,2179 CC,120 bhp,Diesel
+477,Individual,2017,20.85 kmpl,Maruti Swift Dzire LXI,115Nm@ 4000rpm,5.0,55000,Manual,First Owner,1197 CC,83.14 bhp,Petrol
+478,Individual,2009,12.9 kmpl,Honda Civic 1.8 V AT,172Nm@ 4300rpm,5.0,105000,Automatic,Second Owner,1799 CC,130 bhp,Petrol
+479,Individual,2016,20.4 kmpl,Maruti Swift VXI Optional,113Nm@ 4200rpm,5.0,20000,Manual,First Owner,1197 CC,81.80 bhp,Petrol
+480,Individual,2012,19.0 kmpl,Tata Indica V2 Turbomax DLS BS IV,135 Nm at 2500 rpm,5.0,120000,Manual,Second Owner,1405 CC,71 bhp,Diesel
+481,Individual,2013,20.46 kmpl,Renault Duster 85PS Diesel RxL Optional,200Nm@ 1900rpm,5.0,44500,Manual,Second Owner,1461 CC,83.8 bhp,Diesel
+482,Dealer,2017,24.3 kmpl,Maruti Vitara Brezza ZDi Plus Dual Tone,200Nm@ 1750rpm,5.0,32000,Manual,First Owner,1248 CC,88.5 bhp,Diesel
+483,Individual,2015,21.64 kmpl,Renault Scala Diesel RxE,200Nm@ 2000rpm,5.0,110000,Manual,First Owner,1461 CC,84.8 bhp,Diesel
+484,Individual,2017,14.1 kmpl,Tata Safari Storme EX,320Nm@ 1500-3000rpm,7.0,20000,Manual,First Owner,2179 CC,147.94 bhp,Diesel
+485,Individual,2018,23.0 kmpl,Ford EcoSport 1.5 Diesel Ambiente BSIV,205Nm@ 1750-3250rpm,5.0,17000,Manual,First Owner,1498 CC,98.96 bhp,Diesel
+486,Individual,2016,25.32 kmpl,Mahindra KUV 100 mFALCON D75 K8,190Nm@ 1750-2250rpm,6.0,49600,Manual,Second Owner,1198 CC,77 bhp,Diesel
+487,Individual,2016,18.9 kmpl,Hyundai Grand i10 Sportz,114Nm@ 4000rpm,5.0,13500,Manual,First Owner,1197 CC,82 bhp,Petrol
+488,Dealer,2016,18.25 kmpl,Audi A4 35 TDI Premium Plus,400Nm@ 1750-3000rpm,5.0,46000,Automatic,First Owner,1968 CC,187.74 bhp,Diesel
+489,Individual,2011,20.0 kmpl,Ford Figo Diesel Titanium,160Nm@ 2000rpm,5.0,90000,Manual,Second Owner,1399 CC,68 bhp,Diesel
+490,Individual,2014,11.79 kmpl,Mahindra Scorpio VLX 2WD ABS AT BSIII,290Nm@ 1800-2800rpm,8.0,139000,Automatic,First Owner,2179 CC,120 bhp,Diesel
+491,Dealer,2017,22.7 kmpl,Ford Ecosport 1.5 DV5 MT Titanium Optional,204Nm@ 2000-2750rpm,5.0,77524,Manual,First Owner,1498 CC,89.84 bhp,Diesel
+492,Individual,2013,20.77 kmpl,Maruti Ertiga ZDI,200Nm@ 1750rpm,7.0,37500,Manual,Second Owner,1248 CC,88.8 bhp,Diesel
+493,Dealer,2015,18.9 kmpl,Hyundai Grand i10 Asta,114Nm@ 4000rpm,5.0,40000,Manual,First Owner,1197 CC,82 bhp,Petrol
+494,Individual,2013,21.64 kmpl,Renault Scala Diesel RxZ,200Nm@ 2000rpm,5.0,120000,Manual,First Owner,1461 CC,84.8 bhp,Diesel
+495,Individual,2018,21.03 kmpl,Mahindra Verito 1.5 D4 BSIV,160Nm@ 2000rpm,5.0,22000,Manual,First Owner,1461 CC,65 bhp,Diesel
+496,Individual,2010,14.7 kmpl,Chevrolet Aveo U-VA 1.2,"11.2@ 4,400(kgm@ rpm)",5.0,70000,Manual,Third Owner,1150 CC,76 bhp,Petrol
+497,Individual,2016,20.85 kmpl,Maruti Swift Dzire VXI,115Nm@ 4000rpm,5.0,60000,Manual,Second Owner,1197 CC,83.14 bhp,Petrol
+498,Dealer,2014,15.05 kmpl,Tata Aria Pure LX 4x2,320Nm@ 1500-3000rpm,7.0,78000,Manual,Second Owner,2179 CC,147.9 bhp,Diesel
+499,Individual,2012,18.9 kmpl,Maruti Wagon R VXI BSIII,90Nm@ 3500rpm,5.0,31000,Manual,First Owner,998 CC,67.1 bhp,Petrol
+500,Individual,2015,22.54 kmpl,Hyundai i20 Sportz Option 1.4 CRDi,219.7Nm@ 1500-2750rpm,5.0,72000,Manual,First Owner,1396 CC,88.73 bhp,Diesel
+501,Individual,2017,15.37 kmpl,Maruti Eeco 5 Seater AC BSIV,101Nm@ 3000rpm,5.0,90000,Manual,First Owner,1196 CC,73 bhp,Petrol
+502,Individual,2017,23.84 kmpl,Tata Tiago 1.2 Revotron XT,114Nm@ 3500rpm,5.0,68000,Manual,Second Owner,1199 CC,84 bhp,Petrol
+503,Individual,2011,17.88 kmpl,Tata Indica V2 DLE BSIII,85Nm@ 2500rpm,5.0,172000,Manual,Second Owner,1396 CC,52.8 bhp,Diesel
+504,Dealer,2017,13.68 kmpl,Toyota Innova Crysta 2.4 VX MT 8S BSIV,343Nm@ 1400-2800rpm,8.0,36000,Manual,First Owner,2393 CC,147.8 bhp,Diesel
+505,Individual,2015,24.4 kmpl,Hyundai Xcent 1.1 CRDi Base,180.4Nm@ 1750-2500rpm,5.0,91000,Manual,Third Owner,1120 CC,71 bhp,Diesel
+506,Individual,2017,20.51 kmpl,Maruti Wagon R VXI BS IV,90Nm@ 3500rpm,5.0,65000,Manual,Second Owner,998 CC,67.04 bhp,Petrol
+507,Individual,2013,21.1 kmpl,Hyundai EON Era Plus,74.5Nm@ 4000rpm,5.0,20000,Manual,First Owner,814 CC,55.2 bhp,Petrol
+508,Individual,2011,,Toyota Etios V,,,28100,Manual,First Owner,,,Petrol
+509,Dealer,2017,14.53 kmpl,Toyota Corolla Altis 1.8 VL AT,173Nm@ 4000rpm,5.0,7000,Automatic,Second Owner,1794 CC,138.1 bhp,Petrol
+510,Individual,2013,21.64 kmpl,Nissan Sunny Diesel XV,200Nm@ 2000rpm,5.0,212000,Manual,First Owner,1461 CC,84.8 bhp,Diesel
+511,Individual,2010,19.7 kmpl,Maruti Alto LX,62Nm@ 3000rpm,5.0,80000,Manual,Fourth & Above Owner,796 CC,46.3 bhp,Petrol
+512,Individual,1999,15.9 kmpl,Maruti Esteem LX - BSIII,110Nm@ 4500rpm,5.0,65000,Manual,Fourth & Above Owner,1298 CC,85 bhp,Petrol
+513,Individual,2016,18.9 kmpl,Hyundai Grand i10 Magna,114Nm@ 4000rpm,5.0,80000,Manual,Second Owner,1197 CC,82 bhp,Petrol
+514,Individual,2012,20.92 kmpl,Maruti Alto K10 2010-2014 VXI,90Nm@ 3500rpm,5.0,50000,Manual,First Owner,998 CC,67.1 bhp,Petrol
+515,Dealer,2019,16.78 kmpl,BMW X4 M Sport X xDrive20d,400Nm@ 1750-2500rpm,5.0,7500,Automatic,First Owner,1995 CC,190 bhp,Diesel
+516,Individual,2018,25.5 kmpl,Honda WR-V i-DTEC VX,200Nm@ 1750rpm,5.0,30000,Manual,First Owner,1498 CC,98.6 bhp,Diesel
+517,Individual,2016,10.91 kmpl,Ford Endeavour 3.2 Titanium AT 4X4,470Nm@ 1750-2500rpm,7.0,80000,Automatic,First Owner,3198 CC,197 bhp,Diesel
+518,Individual,2015,25.4 kmpl,Tata Nano LX,51Nm@ 4000+/-500rpm,4.0,60000,Manual,First Owner,624 CC,37.48 bhp,Petrol
+519,Individual,2018,18.15 kmpl,Mahindra KUV 100 G80 K8 Dual Tone,115Nm@ 3500-3600rpm,6.0,60000,Manual,First Owner,1198 CC,82 bhp,Petrol
+520,Dealer,2017,13.5 kmpl,Mercedes-Benz S-Class S 350 CDI,620Nm@ 1600-2400rpm,5.0,37000,Automatic,First Owner,2987 CC,254.79 bhp,Diesel
+521,Individual,2018,20.3 kmpl,Tata Tigor 1.2 Revotron XT,114Nm@ 3500rpm,5.0,35000,Manual,First Owner,1199 CC,84 bhp,Petrol
+522,Individual,2016,24.0 kmpl,Hyundai Grand i10 CRDi Sportz,160Nm@ 1500-2750rpm,5.0,30000,Manual,First Owner,1120 CC,70 bhp,Diesel
+523,Individual,2018,17.01 kmpl,Hyundai Creta 1.6 CRDi AT SX Plus,259.9Nm@ 1900-2750rpm,5.0,44000,Automatic,First Owner,1582 CC,126.2 bhp,Diesel
+524,Individual,2011,21.9 kmpl,Hyundai i20 1.4 CRDi Magna,22.4 kgm at 1750-2750rpm,5.0,105000,Manual,Second Owner,1396 CC,90 bhp,Diesel
+525,Dealer,2016,11.36 kmpl,Toyota Innova Crysta 2.8 ZX AT BSIV,360Nm@ 1200-3400rpm,7.0,42163,Automatic,Second Owner,2755 CC,171.5 bhp,Diesel
+526,Individual,2007,16.1 kmpl,Maruti 800 AC,59Nm@ 2500rpm,4.0,73257,Manual,First Owner,796 CC,37 bhp,Petrol
+527,Individual,2009,19.7 kmpl,Maruti Alto Std,62Nm@ 3000rpm,5.0,70000,Manual,Fourth & Above Owner,796 CC,46.3 bhp,Petrol
+528,Individual,2017,27.3 kmpl,Honda Jazz 1.5 S i DTEC,200Nm@ 1750rpm,5.0,50000,Manual,First Owner,1498 CC,98.6 bhp,Diesel
+529,Individual,2017,19.0 kmpl,Honda Jazz 1.2 V AT i VTEC Privilege,110Nm@ 4800rpm,5.0,40000,Automatic,First Owner,1199 CC,88.7 bhp,Petrol
+530,Individual,2016,22.74 kmpl,Maruti Alto 800 LXI,69Nm@ 3500rpm,5.0,65000,Manual,Second Owner,796 CC,47.3 bhp,Petrol
+531,Individual,2016,26.59 kmpl,Maruti Swift Dzire LDI,190Nm@ 2000rpm,5.0,120000,Manual,Third Owner,1248 CC,74 bhp,Diesel
+532,Dealer,2016,22.54 kmpl,Hyundai i20 Asta Option 1.4 CRDi,219.7Nm@ 1500-2750rpm,5.0,53000,Manual,First Owner,1396 CC,88.73 bhp,Diesel
+533,Trustmark Dealer,2016,18.2 kmpl,Honda Jazz VX,110Nm@ 4800rpm,5.0,56494,Manual,First Owner,1199 CC,88.7 bhp,Petrol
+534,Individual,2010,15.8 kmpl,Tata Indica Vista Aura 1.2 Safire (ABS) BS IV,96 Nm at 3000 rpm,5.0,48000,Manual,First Owner,1172 CC,65 bhp,Petrol
+535,Individual,2013,18.5 kmpl,Hyundai i20 Asta 1.2,113.7Nm@ 4000rpm,5.0,120000,Manual,First Owner,1197 CC,82.85 bhp,Petrol
+536,Trustmark Dealer,2013,21.79 kmpl,Maruti Wagon R LXI,90Nm@ 3500rpm,5.0,58343,Manual,First Owner,998 CC,67.05 bhp,Petrol
+537,Individual,2008,17.3 km/kg,Maruti Wagon R LXI DUO BSIII,"7.8@ 4,500(kgm@ rpm)",5.0,80000,Manual,Second Owner,1061 CC,57.5 bhp,LPG
+538,Trustmark Dealer,2016,18.2 kmpl,Honda Jazz VX,110Nm@ 4800rpm,5.0,56494,Manual,First Owner,1199 CC,88.7 bhp,Petrol
+539,Individual,2011,11.57 kmpl,Tata New Safari DICOR 2.2 EX 4x2,320Nm@ 1700-2700rpm,7.0,80000,Manual,Third Owner,2179 CC,138.1 bhp,Diesel
+540,Individual,2018,23.0 kmpl,Datsun RediGO AMT 1.0 S,91Nm@ 4250rpm,5.0,20000,Automatic,First Owner,999 CC,67 bhp,Petrol
+541,Individual,2013,22.74 kmpl,Maruti Alto 800 VXI,69Nm@ 3500rpm,5.0,60000,Manual,Fourth & Above Owner,796 CC,47.3 bhp,Petrol
+542,Individual,2017,16.8 kmpl,Maruti Omni E MPI STD BS IV,59Nm@ 2500rpm,8.0,40000,Manual,First Owner,796 CC,34.2 bhp,Petrol
+543,Dealer,2014,19.1 kmpl,Hyundai Xcent 1.2 Kappa S,114Nm@ 4000rpm,5.0,121000,Manual,First Owner,1197 CC,82 bhp,Petrol
+544,Individual,1998,13.1 kmpl,Opel Astra 1.6,121Nm@ 2800rpm,5.0,110000,Manual,Third Owner,1598 CC,77 bhp,Petrol
+545,Individual,2014,23.95 kmpl,Maruti Alto K10 VXI,90Nm@ 3500rpm,5.0,100000,Manual,First Owner,998 CC,67.05 bhp,Petrol
+546,Individual,2013,20.46 kmpl,Renault Duster 85PS Diesel RxL Optional,200Nm@ 1900rpm,5.0,100600,Manual,Third Owner,1461 CC,83.8 bhp,Diesel
+547,Individual,2011,13.55 kmpl,Tata Sumo MKII GX BS IV,250Nm@ 1500-3000rpm,7.0,90000,Manual,Second Owner,2179 CC,118.35 bhp,Diesel
+548,Individual,2013,21.9 kmpl,Hyundai i20 Magna 1.4 CRDi (Diesel),219.6Nm@ 1500-2750rpm,5.0,70000,Manual,Second Owner,1396 CC,88.76 bhp,Diesel
+549,Individual,2011,15.37 kmpl,Maruti Eeco 7 Seater Standard BSIV,101Nm@ 3000rpm,7.0,100000,Manual,Second Owner,1196 CC,73 bhp,Petrol
+550,Individual,2017,23.1 kmpl,Maruti Celerio VXI AT,90Nm@ 3500rpm,5.0,30000,Automatic,Second Owner,998 CC,67.04 bhp,Petrol
+551,Individual,2013,22.1 kmpl,Chevrolet Sail Hatchback Diesel,205Nm@ 1750rpm,5.0,68000,Manual,First Owner,1248 CC,76.9 bhp,Diesel
+552,Dealer,2010,21.43 kmpl,Toyota Corolla Altis Diesel D4DG,205Nm@ 1800-2800rpm,5.0,83585,Manual,First Owner,1364 CC,87.2 bhp,Diesel
+553,Dealer,2015,28.4 kmpl,Maruti Swift VDI,190Nm@ 2000rpm,5.0,87847,Manual,First Owner,1248 CC,74 bhp,Diesel
+554,Individual,2017,18.6 kmpl,Hyundai i20 1.2 Asta Option,114.7Nm@ 4000rpm,5.0,30000,Manual,First Owner,1197 CC,81.83 bhp,Petrol
+555,Individual,2019,17.0 kmpl,Mahindra XUV300 W8 Option BSIV,200Nm@ 2000-3500rpm,5.0,22000,Manual,First Owner,1197 CC,110 bhp,Petrol
+556,Individual,2011,18.6 kmpl,Ford Fiesta Classic 1.4 Duratorq LXI,160Nm@ 2000rpm,5.0,93500,Manual,Second Owner,1388 CC,67 bhp,Diesel
+557,Dealer,2018,16.02 kmpl,Maruti Ertiga VXI,130Nm@ 4000rpm,7.0,47000,Manual,Second Owner,1373 CC,93.7 bhp,Petrol
+558,Individual,2017,17.1 kmpl,Jeep Compass 2.0 Limited,350Nm@ 1750-2500rpm,5.0,50000,Manual,First Owner,1956 CC,170 bhp,Diesel
+559,Individual,2018,18.6 kmpl,Hyundai i20 1.2 Spotz,114.7Nm@ 4000rpm,5.0,25000,Manual,First Owner,1197 CC,81.83 bhp,Petrol
+560,Individual,2012,19.3 kmpl,Maruti Swift Dzire VDi,190Nm@ 2000rpm,5.0,58400,Manual,Second Owner,1248 CC,73.9 bhp,Diesel
+561,Individual,2017,18.49 kmpl,Mahindra TUV 300 T8,240Nm@ 1600-2800rpm,7.0,70000,Manual,First Owner,1493 CC,100 bhp,Diesel
+562,Individual,2017,22.54 kmpl,Hyundai i20 1.4 Sportz,219.7Nm@ 1500-2750rpm,5.0,80000,Manual,First Owner,1396 CC,88.73 bhp,Diesel
+563,Individual,2019,25.1 kmpl,Maruti S-Cross 2017-2020 Zeta DDiS 200 SH,200Nm@ 1750rpm,5.0,15000,Manual,First Owner,1248 CC,88.5 bhp,Diesel
+564,Individual,2010,17.92 kmpl,Hyundai Santro Xing GLS,96.1Nm@ 3000rpm,5.0,56000,Manual,Third Owner,1086 CC,62.1 bhp,Petrol
+565,Individual,2007,18.9 kmpl,Maruti Wagon R AX Minor,84Nm@ 3500rpm,5.0,63000,Automatic,Third Owner,1061 CC,67 bhp,Petrol
+566,Individual,2011,12.6 kmpl,Maruti SX4 ZXI AT,145Nm@ 4100rpm,5.0,65000,Automatic,Third Owner,1586 CC,103.3 bhp,Petrol
+567,Individual,2016,18.49 kmpl,Mahindra TUV 300 T8,240Nm@ 1600-2800rpm,7.0,50000,Manual,First Owner,1493 CC,100 bhp,Diesel
+568,Individual,2010,15.26 kmpl,Chevrolet Aveo U-VA 1.2 LS,110Nm@ 4400rpm,5.0,60000,Manual,First Owner,1150 CC,74.9 bhp,Petrol
+569,Individual,2015,13.5 kmpl,Mitsubishi Pajero Sport Anniversary Edition,400Nm@ 2000-2500rpm,7.0,160000,Manual,Second Owner,2477 CC,178 bhp,Diesel
+570,Individual,2018,23.84 kmpl,Tata Tiago 1.2 Revotron XT,114Nm@ 3500rpm,5.0,25000,Manual,First Owner,1199 CC,84 bhp,Petrol
+571,Individual,2018,17.4 kmpl,Honda City i-VTEC VX,145Nm@ 4600rpm,5.0,5500,Manual,First Owner,1497 CC,117.6 bhp,Petrol
+572,Dealer,2015,17.4 kmpl,Honda City i VTEC VX Option,145Nm@ 4600rpm,5.0,39000,Manual,First Owner,1497 CC,117.3 bhp,Petrol
+573,Individual,2009,13.8 kmpl,Ford Ikon 1.4 TDCi DuraTorq,160Nm@ 2000rpm,5.0,140000,Manual,Second Owner,1399 CC,68 bhp,Diesel
+574,Individual,2001,,Hyundai Santro GLS I - Euro II,,,70000,Manual,Second Owner,,,Petrol
+575,Individual,2017,19.34 kmpl,Nissan Micra Fashion Edition XL CVT,104Nm@ 4000rpm,5.0,26000,Automatic,First Owner,1198 CC,76 bhp,Petrol
+576,Individual,2008,12.7 kmpl,Mahindra Scorpio SLX 4WD LE,290Nm@ 1800-2800rpm,8.0,120000,Manual,Fourth & Above Owner,2609 CC,120 bhp,Diesel
+577,Individual,2007,12.8 kmpl,Toyota Innova 2.5 V Diesel 7-seater,20.4@ 1400-3400(kgm@ rpm),7.0,260000,Manual,Third Owner,2494 CC,102 bhp,Diesel
+578,Individual,2012,,Maruti Omni E 8 Str STD,,,60000,Manual,Third Owner,,,Petrol
+579,Individual,2012,21.43 kmpl,Toyota Corolla Altis Diesel D4DG,205Nm@ 1800-2800rpm,5.0,125000,Manual,Second Owner,1364 CC,87.2 bhp,Diesel
+580,Individual,2011,14.4 kmpl,Volkswagen Vento Petrol Highline AT,153Nm@ 3800rpm,5.0,140000,Automatic,Second Owner,1598 CC,103.6 bhp,Petrol
+581,Dealer,2018,16.8 kmpl,Volvo V40 D3 R-Design,350Nm@ 1500-2750rpm,5.0,2000,Automatic,First Owner,1984 CC,150 bhp,Diesel
+582,Individual,2015,18.6 kmpl,Hyundai i20 Magna 1.2,114.7Nm@ 4000rpm,5.0,35000,Manual,First Owner,1197 CC,81.83 bhp,Petrol
+583,Individual,2008,13.2 kmpl,Hyundai Accent GLE,"12.5@ 3,500(kgm@ rpm)",5.0,95200,Manual,Third Owner,1495 CC,94 bhp,Petrol
+584,Individual,2017,16.5 kmpl,Mahindra Bolero Power Plus LX,195Nm@ 1400-2200rpm,7.0,80000,Manual,First Owner,1493 CC,70 bhp,Diesel
+585,Dealer,2018,16.8 kmpl,Volvo V40 D3 R-Design,350Nm@ 1500-2750rpm,5.0,2000,Automatic,First Owner,1984 CC,150 bhp,Diesel
+586,Individual,2011,16.52 kmpl,Chevrolet Optra Magnum 2.0 LT,305Nm@ 2000rpm,5.0,119000,Manual,Second Owner,1991 CC,123.7 bhp,Diesel
+587,Individual,2016,21.1 kmpl,Hyundai EON Era Plus,74.5Nm@ 4000rpm,5.0,110000,Manual,First Owner,814 CC,55.2 bhp,Petrol
+588,Individual,2014,21.1 kmpl,Hyundai EON Magna Plus,74.5Nm@ 4000rpm,5.0,25000,Manual,First Owner,814 CC,55.2 bhp,Petrol
+589,Dealer,2016,14.3 kmpl,Skoda Rapid 1.6 MPI AT Elegance,153Nm@ 3800rpm,5.0,11000,Automatic,First Owner,1598 CC,103.5 bhp,Petrol
+590,Dealer,2015,22.71 kmpl,Nissan Sunny XV D,200Nm@ 2000rpm,5.0,61000,Manual,Second Owner,1461 CC,84.8 bhp,Diesel
+591,Individual,2012,23.2 kmpl,Maruti Ritz VDi,190Nm@ 2000rpm,5.0,70000,Manual,Second Owner,1248 CC,73.94 bhp,Diesel
+592,Individual,2014,15.4 kmpl,Mahindra Scorpio S4 9 Seater,280Nm@ 1800-2800rpm,9.0,25000,Manual,First Owner,2179 CC,120 bhp,Diesel
+593,Individual,2015,20.51 kmpl,Maruti Wagon R LXI BS IV,90Nm@ 3500rpm,5.0,50000,Manual,Second Owner,998 CC,67.04 bhp,Petrol
+594,Individual,2003,16.1 kmpl,Maruti 800 EX BSII,59Nm@ 2500rpm,4.0,36088,Manual,First Owner,796 CC,37 bhp,Petrol
+595,Individual,2013,21.27 kmpl,Hyundai i20 Asta 1.4 CRDi,219.6Nm@ 1500-2750rpm,5.0,110000,Manual,Second Owner,1396 CC,88.76 bhp,Diesel
+596,Dealer,2018,27.39 kmpl,Maruti Baleno Alpha 1.3,190Nm@ 2000rpm,5.0,38817,Manual,First Owner,1248 CC,74 bhp,Diesel
+597,Dealer,2018,16.8 kmpl,Volvo V40 D3 R-Design,350Nm@ 1500-2750rpm,5.0,2000,Automatic,First Owner,1984 CC,150 bhp,Diesel
+598,Individual,2015,22.77 kmpl,Ford EcoSport 1.5 TDCi Titanium BSIV,205Nm@ 1750-3250rpm,5.0,135000,Manual,First Owner,1498 CC,98.59 bhp,Diesel
+599,Individual,2017,25.83 kmpl,Ford Figo 1.5D Base MT,215Nm@ 1750-3000rpm,5.0,113000,Manual,First Owner,1498 CC,99 bhp,Diesel
+600,Dealer,2019,16.78 kmpl,BMW X4 M Sport X xDrive20d,400Nm@ 1750-2500rpm,5.0,8500,Automatic,First Owner,1995 CC,190 bhp,Diesel
+601,Individual,2012,18.5 kmpl,Hyundai i20 Sportz 1.2,113.7Nm@ 4000rpm,5.0,120000,Manual,First Owner,1197 CC,82.85 bhp,Petrol
+602,Individual,2013,22.9 kmpl,Maruti Swift VDI,190Nm@ 2000rpm,5.0,120000,Manual,Fourth & Above Owner,1248 CC,74 bhp,Diesel
+603,Individual,2012,25.44 kmpl,Chevrolet Beat Diesel LT,150Nm@ 1750rpm,5.0,70000,Manual,Second Owner,936 CC,57.6 bhp,Diesel
+604,Individual,2013,21.1 kmpl,Hyundai EON Magna Plus,74.5Nm@ 4000rpm,5.0,40000,Manual,First Owner,814 CC,55.2 bhp,Petrol
+605,Individual,2015,13.93 kmpl,Tata Safari DICOR 2.2 EX 4x2,320Nm@ 1700-2700rpm,7.0,60000,Manual,First Owner,2179 CC,138.03 bhp,Diesel
+606,Trustmark Dealer,2019,19.0 kmpl,Honda Amaze V CVT Petrol BSIV,110Nm@ 4800rpm,5.0,7032,Automatic,First Owner,1199 CC,88.76 bhp,Petrol
+607,Individual,2014,25.0 kmpl,Tata Indica V2 eLS,140Nm@ 1800-3000rpm,5.0,90000,Manual,First Owner,1396 CC,69 bhp,Diesel
+608,Individual,2008,14.8 kmpl,Mitsubishi Lancer 2.0 GLd,"12.5@ 3,000(kgm@ rpm)",5.0,120000,Manual,Third Owner,1998 CC,68 bhp,Diesel
+609,Individual,2018,22.5 kmpl,Datsun RediGO 1.0 S,91Nm@ 4250rpm,5.0,7000,Manual,First Owner,999 CC,67 bhp,Petrol
+610,Individual,2016,17.19 kmpl,Hyundai i20 Active 1.2 SX with AVN,114.73Nm@ 4000rpm,5.0,120000,Manual,Second Owner,1197 CC,81.86 bhp,Petrol
+611,Individual,2016,11.36 kmpl,Toyota Innova Crysta 2.8 ZX AT BSIV,360Nm@ 1200-3400rpm,7.0,120000,Automatic,First Owner,2755 CC,171.5 bhp,Diesel
+612,Individual,2007,15.3 kmpl,Tata Indica GLS BS IV,102Nm@ 2600rpm,5.0,38000,Manual,Second Owner,1193 CC,65.3 bhp,Petrol
+613,Individual,2003,12.7 kmpl,Mahindra Scorpio 2.6 DX,"28.3@ 1,700-2,200(kgm@ rpm)",8.0,120000,Manual,Third Owner,2609 CC,116.6 bhp,Diesel
+614,Individual,2013,15.1 kmpl,Mahindra XUV500 W6 2WD,330Nm@ 1600-2800rpm,7.0,18000,Manual,First Owner,2179 CC,140 bhp,Diesel
+615,Individual,2018,17.0 kmpl,Hyundai Verna VTVT 1.6 SX,151Nm@ 4850rpm,5.0,13887,Manual,First Owner,1591 CC,121.3 bhp,Petrol
+616,Individual,2017,25.17 kmpl,Renault KWID RXT,72Nm@ 4386rpm,5.0,28000,Manual,First Owner,799 CC,53.3 bhp,Petrol
+617,Individual,2016,16.8 kmpl,Maruti Omni MPI STD BSIV,59Nm@ 2500rpm,5.0,40000,Manual,First Owner,796 CC,34.2 bhp,Petrol
+618,Individual,2014,21.1 kmpl,Hyundai EON Era Plus,74.5Nm@ 4000rpm,5.0,20000,Manual,First Owner,814 CC,55.2 bhp,Petrol
+619,Individual,2018,24.7 kmpl,Maruti Alto 800 LXI,69Nm@ 3500rpm,5.0,30000,Manual,First Owner,796 CC,47.3 bhp,Petrol
+620,Individual,2018,21.4 kmpl,Maruti Baleno Delta 1.2,115Nm@ 4000rpm,5.0,30000,Manual,First Owner,1197 CC,83.1 bhp,Petrol
+621,Individual,2014,22.1 kmpl,Chevrolet Sail LT ABS,190Nm@ 1750rpm,5.0,38000,Manual,First Owner,1248 CC,74 bhp,Diesel
+622,Individual,2004,16.1 kmpl,Tata Indigo LX,"13.5@ 2,500(kgm@ rpm)",5.0,60000,Manual,Third Owner,1405 CC,70 bhp,Diesel
+623,Individual,2013,21.1 kmpl,Hyundai EON Magna Optional,74.5Nm@ 4000rpm,5.0,40000,Manual,Second Owner,814 CC,55.2 bhp,Petrol
+624,Individual,2016,17.0 kmpl,Volkswagen Ameo 1.2 MPI Comfortline,110Nm@ 3750rpm,5.0,35000,Manual,First Owner,1198 CC,73.75 bhp,Petrol
+625,Individual,2010,14.0 kmpl,Tata Sumo MKII Turbo 2.0 LX,190Nm@ 2000-3000,9.0,90000,Manual,First Owner,1948 CC,90 bhp,Diesel
+626,Individual,2006,16.1 kmpl,Maruti 800 AC,59Nm@ 2500rpm,4.0,40000,Manual,Third Owner,796 CC,37 bhp,Petrol
+627,Individual,2015,22.54 kmpl,Hyundai i20 Sportz 1.4 CRDi,219.7Nm@ 1500-2750rpm,5.0,60000,Manual,First Owner,1396 CC,88.73 bhp,Diesel
+628,Individual,2018,24.2 kmpl,Maruti Ertiga 1.5 VDI,225Nm@ 1500-2500rpm,7.0,59000,Manual,First Owner,1498 CC,93.87 bhp,Diesel
+629,Individual,2016,25.17 kmpl,Renault KWID RXT,72Nm@ 4386rpm,5.0,60000,Manual,First Owner,799 CC,53.3 bhp,Petrol
+630,Individual,2018,21.21 kmpl,Maruti Swift Dzire VXI 1.2,113Nm@ 4200rpm,5.0,15000,Manual,First Owner,1197 CC,81.80 bhp,Petrol
+631,Individual,2016,18.2 kmpl,Chevrolet Enjoy 1.3 TCDi LS 7,172.5Nm@ 1750rpm,7.0,110000,Manual,Second Owner,1248 CC,73.74 bhp,Diesel
+632,Individual,2010,19.0 kmpl,Maruti Zen Estilo LXI BS IV,90Nm@ 3500rpm,5.0,55000,Manual,First Owner,998 CC,67.1 bhp,Petrol
+633,Individual,2015,19.49 kmpl,Nissan Micra Active XV S,104Nm@ 4000rpm,5.0,80000,Manual,First Owner,1198 CC,67.04 bhp,Petrol
+634,Individual,2010,11.8 kmpl,Hyundai Sonata CRDi M/T,32.1kgm@ 2000rpm,5.0,120000,Manual,Second Owner,1991 CC,150 bhp,Diesel
+635,Trustmark Dealer,2017,16.78 kmpl,Toyota Etios VX,132Nm@ 3000rpm,5.0,25538,Manual,First Owner,1496 CC,88.73 bhp,Petrol
+636,Individual,2018,23.5 kmpl,Mahindra Supro LX 8 Str,98Nm@ 1600-3000rpm,8.0,50000,Manual,First Owner,909 CC,45 bhp,Diesel
+637,Individual,2016,23.9 kmpl,Hyundai Verna 1.6 CRDi S,259.9Nm@ 1900-2750rpm,5.0,80000,Manual,First Owner,1582 CC,126.2 bhp,Diesel
+638,Trustmark Dealer,2016,19.16 kmpl,Toyota Camry 2.5 Hybrid,213Nm@ 4500rpm,5.0,68089,Automatic,First Owner,2494 CC,157.7 bhp,Petrol
+639,Individual,2006,12.8 kmpl,Toyota Innova 2.5 G (Diesel) 7 Seater BS IV,20.4@ 1400-3400(kgm@ rpm),8.0,140000,Manual,Second Owner,2494 CC,102 bhp,Diesel
+640,Individual,2013,21.1 kmpl,Hyundai EON Magna Plus,74.5Nm@ 4000rpm,5.0,68697,Manual,Third Owner,814 CC,55.2 bhp,Petrol
+641,Individual,2011,23.0 kmpl,Hyundai i20 1.4 CRDi Sportz,22.4 kgm at 1750-2750rpm,5.0,116500,Manual,First Owner,1396 CC,90 bhp,Diesel
+642,Individual,2012,18.5 kmpl,Maruti Ritz VXi,114Nm@ 4000rpm,5.0,40000,Manual,First Owner,1197 CC,85.80 bhp,Petrol
+643,Individual,2015,13.5 kmpl,Mitsubishi Pajero Sport Anniversary Edition,400Nm@ 2000-2500rpm,7.0,160000,Manual,Second Owner,2477 CC,178 bhp,Diesel
+644,Trustmark Dealer,2016,19.16 kmpl,Toyota Camry 2.5 Hybrid,213Nm@ 4500rpm,5.0,68089,Automatic,First Owner,2494 CC,157.7 bhp,Petrol
+645,Dealer,2017,19.56 kmpl,Maruti Baleno Alpha CVT,113Nm@ 4200rpm,5.0,51000,Automatic,First Owner,1197 CC,81.80 bhp,Petrol
+646,Individual,2010,17.8 kmpl,Ford Fiesta 1.4 SXi TDCi ABS,"16.3@ 2,000(kgm@ rpm)",5.0,170000,Manual,Second Owner,1399 CC,68 bhp,Diesel
+647,Individual,2011,26.0 kmpl,Tata Nano Cx,48Nm@ 3000rpm,4.0,25000,Manual,Second Owner,624 CC,35 bhp,Petrol
+648,Dealer,2018,18.6 kmpl,Hyundai i20 Asta 1.2,114.7Nm@ 4000rpm,5.0,28451,Manual,First Owner,1197 CC,81.83 bhp,Petrol
+649,Individual,2017,21.94 km/kg,Maruti Eeco CNG 5 Seater AC BSIV,85Nm@ 3000rpm,5.0,60000,Manual,First Owner,1196 CC,61.7 bhp,CNG
+650,Individual,2014,12.99 kmpl,Toyota Innova 2.5 VX (Diesel) 7 Seater,200Nm@ 1200-3600rpm,7.0,60000,Manual,Second Owner,2494 CC,100.6 bhp,Diesel
+651,Dealer,2018,20.65 kmpl,Maruti Ciaz Zeta,138Nm@ 4400rpm,5.0,64000,Manual,First Owner,1462 CC,103.25 bhp,Petrol
+652,Trustmark Dealer,2016,18.2 kmpl,Honda Jazz VX,110Nm@ 4800rpm,5.0,56494,Manual,First Owner,1199 CC,88.7 bhp,Petrol
+653,Individual,2017,16.3 kmpl,Jeep Compass 2.0 Limited 4X4,350Nm@ 1750-2500rpm,5.0,32000,Manual,First Owner,1956 CC,170 bhp,Diesel
+654,Dealer,2018,12.9 kmpl,Toyota Fortuner 2.8 2WD AT BSIV,450Nm@ 1600-2400rpm,7.0,100000,Automatic,First Owner,2755 CC,174.5 bhp,Diesel
+655,Dealer,2018,22.0 kmpl,Maruti Swift AMT ZXI,113Nm@ 4200rpm,5.0,69779,Automatic,First Owner,1197 CC,81.80 bhp,Petrol
+656,Dealer,2016,17.8 kmpl,Honda City i VTEC VX Option,145Nm@ 4600rpm,5.0,16151,Manual,First Owner,1497 CC,117.3 bhp,Petrol
+657,Individual,2007,18.2 kmpl,Maruti Zen Estilo VXI BSIII,90Nm@ 3500rpm,5.0,74800,Manual,Second Owner,998 CC,67.1 bhp,Petrol
+658,Dealer,2016,14.3 kmpl,Skoda Rapid 1.6 MPI AT Elegance,153Nm@ 3800rpm,5.0,11000,Automatic,First Owner,1598 CC,103.5 bhp,Petrol
+659,Individual,2018,23.0 kmpl,Ford EcoSport 1.5 Diesel Titanium BSIV,205Nm@ 1750-3250rpm,5.0,65000,Manual,First Owner,1498 CC,98.96 bhp,Diesel
+660,Individual,2009,13.6 kmpl,Hyundai Sonata 2.0L CRDi MT,"33@ 2,000-2,680(kgm@ rpm)",5.0,180000,Manual,First Owner,1991 CC,142 bhp,Diesel
+661,Trustmark Dealer,2013,21.79 kmpl,Maruti Wagon R LXI,90Nm@ 3500rpm,5.0,58343,Manual,First Owner,998 CC,67.05 bhp,Petrol
+662,Dealer,2017,25.2 kmpl,Maruti Swift VDI Optional,190Nm@ 2000rpm,5.0,58559,Manual,First Owner,1248 CC,74 bhp,Diesel
+663,Dealer,2016,22.54 kmpl,Hyundai i20 Asta Option 1.4 CRDi,219.7Nm@ 1500-2750rpm,5.0,53000,Manual,First Owner,1396 CC,88.73 bhp,Diesel
+664,Individual,2008,11.57 kmpl,Tata New Safari DICOR 2.2 EX 4x2,320Nm@ 1700-2700rpm,7.0,120000,Manual,Second Owner,2179 CC,138.1 bhp,Diesel
+665,Individual,2017,24.7 kmpl,Maruti Alto 800 LXI,69Nm@ 3500rpm,5.0,40000,Manual,First Owner,796 CC,47.3 bhp,Petrol
+666,Dealer,2017,18.49 kmpl,Mahindra TUV 300 mHAWK100 T8,240Nm@ 1600-2800rpm,7.0,40000,Manual,First Owner,1493 CC,100 bhp,Diesel
+667,Individual,2012,20.77 kmpl,Maruti Ertiga ZDI,200Nm@ 1750rpm,7.0,96000,Manual,Second Owner,1248 CC,88.8 bhp,Diesel
+668,Individual,2018,28.4 kmpl,Maruti Swift VDI,190Nm@ 2000rpm,5.0,46000,Manual,First Owner,1248 CC,74 bhp,Diesel
+669,Dealer,2017,23.4 kmpl,Maruti Swift Dzire Tour LDI,190Nm@ 2000rpm,5.0,28832,Manual,First Owner,1248 CC,74 bhp,Diesel
+670,Individual,2018,16.5 kmpl,Mahindra Bolero 2011-2019 mHAWK D70 ZLX,195Nm@ 1400-2200rpm,7.0,70000,Manual,First Owner,1493 CC,70 bhp,Diesel
+671,Individual,2019,18.2 kmpl,Honda Jazz VX CVT,110Nm@ 4800rpm,5.0,3100,Automatic,First Owner,1199 CC,88.7 bhp,Petrol
+672,Individual,2004,16.1 kmpl,Maruti 800 Std BSII,59Nm@ 2500rpm,4.0,46000,Manual,Fourth & Above Owner,796 CC,37 bhp,Petrol
+673,Individual,2013,25.44 kmpl,Chevrolet Beat Diesel LS,150Nm@ 1750rpm,5.0,68000,Manual,Second Owner,936 CC,57.6 bhp,Diesel
+674,Individual,2010,13.45 km/kg,Hyundai Santro Xing GLS LPG,96.1Nm@ 3000rpm,5.0,70000,Manual,Third Owner,1086 CC,62.1 bhp,LPG
+675,Individual,2017,27.39 kmpl,Maruti Baleno Alpha 1.3,190Nm@ 2000rpm,5.0,71000,Manual,First Owner,1248 CC,74 bhp,Diesel
+676,Dealer,2020,20.7 kmpl,Hyundai Grand i10 Nios Sportz,113.75Nm@ 4000rpm,5.0,2000,Manual,First Owner,1197 CC,81.86 bhp,Petrol
+677,Individual,2016,23.0 kmpl,Tata Zest Quadrajet 1.3 XM,200Nm@ 1750-3000rpm,5.0,110000,Manual,First Owner,1248 CC,88.7 bhp,Diesel
+678,Individual,2019,24.3 kmpl,Maruti Vitara Brezza ZDi Plus,200Nm@ 1750rpm,5.0,40000,Manual,First Owner,1248 CC,88.5 bhp,Diesel
+679,Individual,2018,24.3 kmpl,Maruti Vitara Brezza VDi Option,200Nm@ 1750rpm,5.0,50000,Manual,First Owner,1248 CC,88.5 bhp,Diesel
+680,Individual,2009,17.5 kmpl,Maruti Swift Dzire 1.2 Lxi BSIV,114Nm@ 4000rpm,5.0,160000,Manual,Third Owner,1197 CC,85.8 bhp,Petrol
+681,Dealer,2011,22.32 kmpl,Hyundai Verna 1.6 SX,259.8Nm@ 1900-2750rpm,5.0,221889,Manual,First Owner,1582 CC,126.32 bhp,Diesel
+682,Individual,2017,17.01 kmpl,Hyundai Verna 1.6 VTVT AT SX,154.9Nm@ 4200rpm,5.0,15000,Automatic,First Owner,1591 CC,121.3 bhp,Petrol
+683,Individual,2011,23.0 kmpl,Hyundai i20 1.4 CRDi Sportz,22.4 kgm at 1750-2750rpm,5.0,116500,Manual,First Owner,1396 CC,90 bhp,Diesel
+684,Individual,2019,20.0 kmpl,Renault Triber RXZ BSIV,96Nm@ 3500rpm,7.0,5000,Manual,First Owner,999 CC,72 bhp,Petrol
+685,Individual,2017,20.14 kmpl,Hyundai Xcent 1.2 VTVT S,113.75nm@ 4000rpm,5.0,25000,Manual,First Owner,1197 CC,81.86 bhp,Petrol
+686,Individual,2016,24.3 kmpl,Maruti Vitara Brezza VDi,200Nm@ 1750rpm,5.0,70000,Manual,First Owner,1248 CC,88.5 bhp,Diesel
+687,Individual,2011,23.0 kmpl,Hyundai i20 1.4 CRDi Asta,22.4 kgm at 1750-2750rpm,5.0,100000,Manual,Second Owner,1396 CC,90 bhp,Diesel
+688,Individual,2014,23.1 kmpl,Maruti Celerio ZXI,90Nm@ 3500rpm,5.0,48000,Manual,First Owner,998 CC,67.04 bhp,Petrol
+689,Individual,2017,18.15 kmpl,Mahindra KUV 100 mFALCON G80 K6 AW,115Nm@ 3500-3600rpm,6.0,5000,Manual,Second Owner,1198 CC,82 bhp,Petrol
+690,Individual,2006,12.8 kmpl,Toyota Innova 2.5 V Diesel 8-seater,20.4@ 1400-3400(kgm@ rpm),8.0,270000,Manual,Third Owner,2494 CC,102 bhp,Diesel
+691,Individual,2009,19.0 kmpl,Maruti A-Star Vxi,90Nm@ 3500rpm,5.0,95000,Manual,Second Owner,998 CC,66.1 bhp,Petrol
+692,Individual,2017,24.0 kmpl,Hyundai Grand i10 1.2 CRDi Asta,190.24nm@ 1750-2250rpm,5.0,60000,Manual,First Owner,1186 CC,73.97 bhp,Diesel
+693,Individual,2012,25.4 kmpl,Tata Nano Cx BSIII,51Nm@ 4000+/-500rpm,4.0,40000,Manual,Second Owner,624 CC,38 bhp,Petrol
+694,Individual,2014,21.94 km/kg,Maruti Eeco CNG 5 Seater AC BSIV,85Nm@ 3000rpm,5.0,70000,Manual,Second Owner,1196 CC,61.7 bhp,CNG
+695,Individual,2013,20.46 kmpl,Renault Duster 85PS Diesel RxL Optional,200Nm@ 1900rpm,5.0,80000,Manual,Second Owner,1461 CC,83.8 bhp,Diesel
+696,Dealer,2019,21.63 kmpl,Maruti Celerio VXi AMT,90Nm@ 3500rpm,5.0,9000,Automatic,First Owner,998 CC,67.04 bhp,Petrol
+697,Individual,2014,22.54 kmpl,Hyundai i20 Sportz 1.4 CRDi,219.7Nm@ 1500-2750rpm,5.0,70000,Manual,Second Owner,1396 CC,88.73 bhp,Diesel
+698,Individual,2014,26.0 kmpl,Honda City i DTEC SV,200Nm@ 1750rpm,5.0,97000,Manual,First Owner,1498 CC,98.6 bhp,Diesel
+699,Individual,2016,25.32 kmpl,Mahindra KUV 100 mFALCON D75 K8,190Nm@ 1750-2250rpm,6.0,100000,Manual,First Owner,1198 CC,77 bhp,Diesel
+700,Individual,2015,15.85 kmpl,Ford EcoSport 1.5 Ti VCT MT Titanium BSIV,140Nm@ 4400rpm,5.0,25000,Manual,First Owner,1499 CC,110.4 bhp,Petrol
+701,Individual,2014,14.02 kmpl,Mahindra Xylo H9,280Nm@ 2400-2800rpm,8.0,95000,Manual,Second Owner,2179 CC,118.3 bhp,Diesel
+702,Dealer,2018,24.3 kmpl,Maruti Vitara Brezza ZDi,200Nm@ 1750rpm,5.0,58511,Manual,First Owner,1248 CC,88.5 bhp,Diesel
+703,Individual,2013,20.51 kmpl,Maruti Wagon R Stingray VXI,90Nm@ 3500rpm,5.0,40000,Manual,First Owner,998 CC,67.04 bhp,Petrol
+704,Individual,2012,19.01 kmpl,Renault Duster 110PS Diesel RxZ,248Nm@ 2250rpm,5.0,110000,Manual,Third Owner,1461 CC,108.45 bhp,Diesel
+705,Individual,2016,15.96 kmpl,Mahindra Bolero 2011-2019 DI - AC BS III,180Nm@ 1440-1500rpm,9.0,72000,Manual,First Owner,2523 CC,63 bhp,Diesel
+706,Individual,2004,18.9 kmpl,Maruti Wagon R LXI,90Nm@ 3500rpm,5.0,120000,Manual,Third Owner,998 CC,67.1 bhp,Petrol
+707,Individual,2016,24.3 kmpl,Maruti Vitara Brezza LDi Option,200Nm@ 1750rpm,5.0,70000,Manual,First Owner,1248 CC,88.5 bhp,Diesel
+708,Individual,2009,14.0 kmpl,Mahindra Xylo E4,260 Nm at 1800-2200 rpm,7.0,300000,Manual,First Owner,2498 CC,112 bhp,Diesel
+709,Individual,2015,15.96 kmpl,Mahindra Bolero 2011-2019 Special Edition,195Nm@ 1400-2200rpm,7.0,40000,Manual,First Owner,2523 CC,62.1 bhp,Diesel
+710,Individual,2015,14.1 kmpl,Tata Safari Storme EX,320Nm@ 1500-3000rpm,7.0,110000,Manual,First Owner,2179 CC,147.94 bhp,Diesel
+711,Individual,2012,23.0 kmpl,Hyundai i20 1.4 CRDi Era,22.4 kgm at 1750-2750rpm,5.0,90000,Manual,First Owner,1396 CC,90 bhp,Diesel
+712,Individual,2015,20.4 kmpl,Maruti Swift VXI Optional,113Nm@ 4200rpm,5.0,30000,Manual,First Owner,1197 CC,81.80 bhp,Petrol
+713,Individual,2015,23.9 kmpl,Hyundai Verna 1.6 CRDi S,259.9Nm@ 1900-2750rpm,5.0,80000,Manual,Second Owner,1582 CC,126.2 bhp,Diesel
+714,Individual,2010,16.95 kmpl,Hyundai i10 Sportz AT,111.8Nm@ 4000rpm,5.0,110000,Automatic,Third Owner,1197 CC,78.9 bhp,Petrol
+715,Individual,2016,21.19 kmpl,Hyundai i20 Active 1.4 SX with AVN,219.66nm@ 1500-2750rpm,5.0,40000,Manual,First Owner,1396 CC,88.73 bhp,Diesel
+716,Individual,2014,20.51 kmpl,Maruti Wagon R Stingray VXI,90Nm@ 3500rpm,5.0,35000,Manual,First Owner,998 CC,67.04 bhp,Petrol
+717,Individual,2012,18.6 kmpl,Chevrolet Beat LT,108Nm@ 4400rpm,5.0,120000,Manual,First Owner,1199 CC,79.4 bhp,Petrol
+718,Dealer,2013,18.6 kmpl,Ford Fiesta Classic 1.4 Duratorq LXI,160Nm@ 2000rpm,5.0,69000,Manual,First Owner,1388 CC,67 bhp,Diesel
+719,Individual,2011,12.8 kmpl,Toyota Innova 2.5 VX 7 STR,20.4@ 1400-3400(kgm@ rpm),7.0,250000,Manual,Second Owner,2494 CC,102 bhp,Diesel
+720,Individual,2009,19.7 kmpl,Maruti Alto STD,62Nm@ 3000rpm,5.0,100000,Manual,First Owner,796 CC,46.3 bhp,Petrol
+721,Individual,2012,21.5 kmpl,Maruti SX4 ZDI Leather,200Nm@ 1750rpm,5.0,80000,Manual,Fourth & Above Owner,1248 CC,88.8 bhp,Diesel
+722,Individual,2011,23.08 kmpl,Nissan Micra Diesel XV,160Nm@ 2000rpm,5.0,110000,Manual,Third Owner,1461 CC,63.1 bhp,Diesel
+723,Individual,2017,18.6 kmpl,Hyundai i20 2015-2017 Sportz 1.2,114.7Nm@ 4000rpm,5.0,13000,Manual,First Owner,1197 CC,81.83 bhp,Petrol
+724,Individual,2012,22.32 kmpl,Hyundai Verna 1.6 SX,259.8Nm@ 1900-2750rpm,5.0,128000,Manual,Second Owner,1582 CC,126.32 bhp,Diesel
+725,Individual,2018,24.7 kmpl,Maruti Alto 800 LXI,69Nm@ 3500rpm,5.0,30000,Manual,First Owner,796 CC,47.3 bhp,Petrol
+726,Dealer,2018,18.49 kmpl,Mahindra TUV 300 T4 Plus,240Nm@ 1600-2800rpm,7.0,59736,Manual,First Owner,1493 CC,100 bhp,Diesel
+727,Individual,2009,18.1 kmpl,Hyundai Verna CRDi SX ABS,"24@ 1,900-2,750(kgm@ rpm)",5.0,120000,Manual,First Owner,1493 CC,110 bhp,Diesel
+728,Individual,2020,22.05 kmpl,Maruti Alto 800 VXI Plus,69Nm@ 3500rpm,5.0,15000,Manual,First Owner,796 CC,47.3 bhp,Petrol
+729,Dealer,2015,25.47 kmpl,Maruti Ertiga VDI,200Nm@ 1750rpm,7.0,60000,Manual,First Owner,1248 CC,88.50 bhp,Diesel
+730,Individual,2011,20.0 kmpl,Ford Figo Diesel EXI,160Nm@ 2000rpm,5.0,90400,Manual,First Owner,1399 CC,68 bhp,Diesel
+731,Individual,2012,12.99 kmpl,Toyota Innova 2.5 G (Diesel) 8 Seater,200Nm@ 1400-3400rpm,8.0,145000,Manual,Second Owner,2494 CC,100 bhp,Diesel
+732,Individual,2018,18.9 kmpl,Hyundai Grand i10 1.2 Kappa Sportz BSIV,113.75nm@ 4000rpm,5.0,120000,Manual,First Owner,1197 CC,81.86 bhp,Petrol
+733,Individual,2012,22.07 kmpl,Volkswagen Polo Diesel Highline 1.2L,180Nm@ 2000rpm,5.0,74000,Manual,Second Owner,1199 CC,73.9 bhp,Diesel
+734,Individual,2011,20.54 kmpl,Volkswagen Vento Diesel Highline,250Nm@ 1500-2500rpm,5.0,69000,Manual,Second Owner,1598 CC,103.6 bhp,Diesel
+735,Dealer,2017,19.33 kmpl,Jaguar XF 2.0 Diesel Portfolio,430Nm@ 1750-2500rpm,5.0,45000,Automatic,First Owner,1999 CC,177 bhp,Diesel
+736,Individual,2018,28.09 kmpl,Maruti Ciaz 1.3 Alpha,200Nm@ 1750rpm,5.0,82000,Manual,First Owner,1248 CC,88.5 bhp,Diesel
+737,Individual,2016,17.45 kmpl,Mahindra NuvoSport N8 AMT,240Nm@ 1600-2800rpm,7.0,50000,Automatic,First Owner,1493 CC,100 bhp,Diesel
+738,Individual,2018,21.66 kmpl,Volkswagen Ameo 1.5 TDI Comfortline,250Nm@ 1500-3000rpm,5.0,18000,Manual,First Owner,1498 CC,108.62 bhp,Diesel
+739,Individual,2013,22.9 kmpl,Maruti Swift VDI,190Nm@ 2000rpm,5.0,24019,Manual,First Owner,1248 CC,74 bhp,Diesel
+740,Individual,2012,12.8 kmpl,Toyota Innova 2.5 GX 7 STR,20.4@ 1400-3400(kgm@ rpm),7.0,162000,Manual,Fourth & Above Owner,2494 CC,102 bhp,Diesel
+741,Individual,2013,20.36 kmpl,Hyundai i10 Sportz,111.8Nm@ 4000rpm,5.0,70000,Manual,Second Owner,1197 CC,78.9 bhp,Petrol
+742,Individual,2011,,Toyota Etios V,,,167000,Manual,First Owner,,,Petrol
+743,Individual,2011,20.86 kmpl,Skoda Fabia 1.2L Diesel Elegance,180Nm@ 2000rpm,5.0,265000,Manual,Second Owner,1199 CC,75 bhp,Diesel
+744,Dealer,2018,17.05 kmpl,BMW X1 sDrive 20d Sportline,380Nm@ 1750-2750rpm,5.0,27000,Automatic,First Owner,1995 CC,184 bhp,Diesel
+745,Individual,2011,17.05 kmpl,BMW X1 sDrive20d,380Nm@ 1750-2750rpm,5.0,50000,Automatic,First Owner,1995 CC,184 bhp,Diesel
+746,Individual,2015,19.09 kmpl,Tata Indigo CS LX (TDI) BS-III,135Nm@ 2500rpm,5.0,80000,Manual,Second Owner,1405 CC,69.01 bhp,Diesel
+747,Individual,2019,21.21 kmpl,Maruti Swift Dzire VXI 1.2,113Nm@ 4200rpm,5.0,10000,Manual,First Owner,1197 CC,81.80 bhp,Petrol
+748,Individual,2013,19.09 kmpl,Tata Indigo CS LX (TDI) BS-III,135Nm@ 2500rpm,5.0,120000,Manual,Second Owner,1405 CC,69.01 bhp,Diesel
+749,Individual,2014,23.4 kmpl,Maruti Swift Dzire VDI,190Nm@ 2000rpm,5.0,110000,Manual,First Owner,1248 CC,74 bhp,Diesel
+750,Individual,2012,19.2 km/kg,Hyundai i10 Magna LPG,99.04Nm@ 4500rpm,5.0,30000,Manual,First Owner,1086 CC,68.05 bhp,LPG
+751,Individual,2018,17.0 kmpl,Ford EcoSport 1.5 Petrol Titanium Plus BSIV,150Nm@ 4500rpm,5.0,90000,Manual,First Owner,1497 CC,121.36 bhp,Petrol
+752,Individual,2016,27.28 kmpl,Tata Tiago 1.05 Revotorq XZ,140Nm@ 1800-3000rpm,5.0,35000,Manual,Second Owner,1047 CC,69 bhp,Diesel
+753,Individual,2014,19.01 kmpl,Renault Duster 110PS Diesel RXZ Optional with Nav,248Nm@ 2250rpm,5.0,80000,Manual,First Owner,1461 CC,108.45 bhp,Diesel
+754,Individual,2017,23.0 kmpl,Ford EcoSport 1.5 Diesel Titanium Plus BSIV,205Nm@ 1750-3250rpm,5.0,76139,Manual,First Owner,1498 CC,98.96 bhp,Diesel
+755,Individual,2011,20.92 kmpl,Maruti Alto K10 2010-2014 VXI,90Nm@ 3500rpm,5.0,40000,Manual,Second Owner,998 CC,67.1 bhp,Petrol
+756,Individual,2013,12.99 kmpl,Toyota Innova 2.5 EV (Diesel) PS 7 Seater BS IV,200Nm@ 1400-3400rpm,7.0,95000,Manual,Second Owner,2494 CC,100.57 bhp,Diesel
+757,Individual,2012,15.3 kmpl,Tata Sumo GX,250Nm@ 1000-2000rpm,7.0,80000,Manual,Fourth & Above Owner,2956 CC,83.8 bhp,Diesel
+758,Dealer,2017,24.0 kmpl,Hyundai Grand i10 1.2 CRDi Sportz,190.24nm@ 1750-2250rpm,5.0,56290,Manual,First Owner,1186 CC,73.97 bhp,Diesel
+759,Individual,2006,13.6 kmpl,Mahindra Bolero DI BSIII,180 Nm at 1440-1500rpm,7.0,170000,Manual,First Owner,2523 CC,63 bhp,Diesel
+760,Individual,2016,23.95 kmpl,Maruti Alto K10 VXI,90Nm@ 3500rpm,5.0,15000,Manual,First Owner,998 CC,67.05 bhp,Petrol
+761,Dealer,2018,17.4 kmpl,Hyundai Elite i20 Asta Option CVT BSIV,117nm@ 4000rpm,5.0,29000,Automatic,First Owner,1197 CC,81.86 bhp,Petrol
+762,Individual,2016,15.4 kmpl,Honda BRV i-VTEC V MT,145Nm@ 4600rpm,7.0,140000,Manual,First Owner,1497 CC,117.3 bhp,Petrol
+763,Individual,2018,25.5 kmpl,Honda WR-V i-DTEC VX,200Nm@ 1750rpm,5.0,15000,Manual,First Owner,1498 CC,98.6 bhp,Diesel
+764,Individual,2015,17.19 kmpl,Hyundai i20 Active Base Petrol,114.73Nm@ 4000rpm,5.0,45000,Manual,First Owner,1197 CC,81.86 bhp,Petrol
+765,Individual,2011,23.0 kmpl,Hyundai i20 1.4 CRDi Asta,22.4 kgm at 1750-2750rpm,5.0,150000,Manual,Fourth & Above Owner,1396 CC,90 bhp,Diesel
+766,Individual,2010,15.64 kmpl,Tata Indigo eCS GLX,100Nm@ 2700rpm,5.0,65000,Manual,First Owner,1193 CC,64.1 bhp,Petrol
+767,Individual,2014,22.54 kmpl,Hyundai i20 Magna 1.4 CRDi,219.7Nm@ 1500-2750rpm,5.0,80000,Manual,Second Owner,1396 CC,88.73 bhp,Diesel
+768,Individual,2015,26.21 kmpl,Maruti Ciaz VDi Plus,200Nm@ 1750rpm,5.0,90000,Manual,First Owner,1248 CC,88.5 bhp,Diesel
+769,Individual,2005,18.9 kmpl,Maruti Wagon R LXI,90Nm@ 3500rpm,5.0,140000,Manual,Second Owner,998 CC,67.1 bhp,Petrol
+770,Individual,2015,19.67 kmpl,Hyundai Creta 1.6 CRDi SX Plus,259.9Nm@ 1900-2750rpm,5.0,50000,Manual,First Owner,1582 CC,126.2 bhp,Diesel
+771,Trustmark Dealer,2016,19.16 kmpl,Toyota Camry 2.5 Hybrid,213Nm@ 4500rpm,5.0,68089,Automatic,First Owner,2494 CC,157.7 bhp,Petrol
+772,Trustmark Dealer,2016,18.2 kmpl,Honda Jazz VX,110Nm@ 4800rpm,5.0,56494,Manual,First Owner,1199 CC,88.7 bhp,Petrol
+773,Individual,2008,17.2 kmpl,Tata Indica V2 DLX,"8.5@ 2,500(kgm@ rpm)",5.0,80000,Manual,Second Owner,1396 CC,53.5 bhp,Diesel
+774,Individual,2011,26.0 kmpl,Tata Nano Cx,48Nm@ 3000rpm,4.0,80000,Manual,First Owner,624 CC,35 bhp,Petrol
+775,Individual,2006,17.88 kmpl,Tata Indica V2 DL BSIII,85Nm@ 2500rpm,5.0,110000,Manual,Fourth & Above Owner,1396 CC,52.8 bhp,Diesel
+776,Dealer,2018,22.0 kmpl,Maruti Swift AMT ZXI,113Nm@ 4200rpm,5.0,69779,Automatic,First Owner,1197 CC,81.80 bhp,Petrol
+777,Dealer,2019,16.78 kmpl,BMW X4 M Sport X xDrive20d,400Nm@ 1750-2500rpm,5.0,8500,Automatic,First Owner,1995 CC,190 bhp,Diesel
+778,Dealer,2017,19.33 kmpl,Jaguar XF 2.0 Diesel Portfolio,430Nm@ 1750-2500rpm,5.0,45000,Automatic,First Owner,1999 CC,177 bhp,Diesel
+779,Individual,2017,17.6 kmpl,Tata Hexa XT,400Nm@ 1750-2500rpm,7.0,45000,Manual,First Owner,2179 CC,153.86 bhp,Diesel
+780,Individual,2013,22.74 kmpl,Maruti Alto 800 LXI,69Nm@ 3500rpm,5.0,80000,Manual,Second Owner,796 CC,47.3 bhp,Petrol
+781,Individual,2012,,Toyota Etios GD,,,158500,Manual,Third Owner,,,Diesel
+782,Individual,2013,23.4 kmpl,Maruti Swift Dzire VDI,190Nm@ 2000rpm,5.0,56000,Manual,First Owner,1248 CC,74 bhp,Diesel
+783,Individual,2016,19.44 kmpl,Datsun GO Plus T Option BSIV,104Nm@ 4000rpm,7.0,50000,Manual,First Owner,1198 CC,67 bhp,Petrol
+784,Individual,2017,28.4 kmpl,Maruti Swift Dzire VDI,190Nm@ 2000rpm,5.0,20000,Manual,First Owner,1248 CC,74.02 bhp,Diesel
+785,Individual,2006,14.0 kmpl,Maruti Wagon R LXI BSIII,"8.6@ 3,500(kgm@ rpm)",5.0,50000,Manual,Third Owner,1061 CC,64 bhp,Petrol
+786,Individual,2015,20.4 kmpl,Maruti Swift VXI Windsong Limited edition,115Nm@ 4000rpm,5.0,35000,Manual,Second Owner,1197 CC,83.11 bhp,Petrol
+787,Individual,2010,17.0 kmpl,Tata Indica Vista Aqua 1.4 TDI,135 Nm at 2500  rpm ,5.0,120000,Manual,Second Owner,1405 CC,71 bhp,Diesel
+788,Individual,2014,13.0 kmpl,Toyota Fortuner 4x2 Manual,343Nm@ 1400-3400rpm,7.0,150000,Manual,First Owner,2982 CC,168.5 bhp,Diesel
+789,Individual,2009,13.6 kmpl,Mahindra Bolero DI DX 7 Seater,180 Nm at 1440-1500rpm,7.0,150000,Manual,Second Owner,2523 CC,63 bhp,Diesel
+790,Individual,2019,16.36 kmpl,Mahindra Scorpio S5 BSIV,280Nm@ 1800-2800rpm,7.0,60000,Manual,First Owner,2179 CC,120 bhp,Diesel
+791,Individual,2003,18.9 kmpl,Maruti Wagon R LXI,90Nm@ 3500rpm,5.0,40000,Manual,First Owner,998 CC,67.1 bhp,Petrol
+792,Individual,2019,20.0 kmpl,Renault Triber RXZ BSIV,96Nm@ 3500rpm,7.0,6500,Manual,First Owner,999 CC,72 bhp,Petrol
+793,Individual,2011,16.0 kmpl,Honda Jazz Select Edition Active,110(11.2)@ 4800,5.0,80000,Manual,Second Owner,1198 CC,90 bhp,Petrol
+794,Individual,2010,14.0 kmpl,Mahindra Xylo E4 BS IV,260 Nm at 1800-2200 rpm,7.0,60000,Manual,Second Owner,2498 CC,112 bhp,Diesel
+795,Individual,2010,18.8 kmpl,Tata Manza Aura (ABS) Quadrajet,200Nm@ 1750-3000rpm,5.0,120000,Manual,First Owner,1248 CC,90 bhp,Diesel
+796,Individual,2012,15.3 kmpl,Tata Sumo CX,250Nm@ 1000-2000rpm,7.0,70000,Manual,Second Owner,2956 CC,83.8 bhp,Diesel
+797,Individual,2011,11.5 kmpl,Toyota Fortuner 3.0 Diesel,343Nm@ 1400-3400rpm,7.0,120000,Manual,First Owner,2982 CC,171 bhp,Diesel
+798,Individual,2014,19.5 kmpl,Fiat Linea Classic Plus 1.3 Multijet,197Nm@ 1750rpm,5.0,142500,Manual,First Owner,1248 CC,75 bhp,Diesel
+799,Individual,2014,12.99 kmpl,Toyota Innova 2.5 GX (Diesel) 7 Seater,200Nm@ 1200-3600rpm,7.0,121000,Manual,Third Owner,2494 CC,100.6 bhp,Diesel
+800,Individual,2013,21.1 kmpl,Hyundai EON Era Plus,74.5Nm@ 4000rpm,5.0,70000,Manual,First Owner,814 CC,55.2 bhp,Petrol
+801,Individual,2015,16.0 kmpl,Mahindra XUV500 W10 2WD,330Nm@ 1600-2800rpm,7.0,188000,Manual,First Owner,2179 CC,140 bhp,Diesel
+802,Individual,2010,14.0 kmpl,Mahindra Xylo E4 BS IV,260 Nm at 1800-2200 rpm,7.0,168000,Manual,First Owner,2498 CC,112 bhp,Diesel
+803,Individual,2008,19.2 kmpl,Hyundai i10 Asta Sunroof AT,"11.4@ 4,000(kgm@ rpm)",5.0,120000,Automatic,Second Owner,1197 CC,80 bhp,Petrol
+804,Individual,2018,17.0 kmpl,Tata Nexon 1.2 Revotron XZ Plus,170Nm@ 1750-4000rpm,5.0,25000,Manual,First Owner,1198 CC,108.5 bhp,Petrol
+805,Dealer,2012,21.1 kmpl,Maruti Ritz VDi,113Nm@ 4500rpm,5.0,72072,Manual,First Owner,1248 CC,73.9 bhp,Diesel
+806,Individual,2016,16.0 kmpl,Mahindra XUV500 AT W6 2WD,330Nm@ 1600-2800rpm,7.0,75000,Automatic,Third Owner,2179 CC,140 bhp,Diesel
+807,Individual,2015,24.5 kmpl,Honda Mobilio RS i DTEC,200Nm@ 1750rpm,7.0,94000,Manual,Second Owner,1498 CC,98.6 bhp,Diesel
+808,Individual,2019,23.0 kmpl,Ford EcoSport 1.5 Diesel Titanium BSIV,205Nm@ 1750-3250rpm,5.0,2600,Manual,First Owner,1498 CC,98.96 bhp,Diesel
+809,Individual,2009,19.0 kmpl,Maruti Zen Estilo LXI BS IV,90Nm@ 3500rpm,5.0,60000,Manual,First Owner,998 CC,67.1 bhp,Petrol
+810,Individual,2015,12.99 kmpl,Toyota Innova 2.5 VX (Diesel) 7 Seater,200Nm@ 1400-3400rpm,7.0,120000,Manual,First Owner,2494 CC,100.6 bhp,Diesel
+811,Individual,2019,22.54 kmpl,Hyundai Elite i20 Diesel Sportz,219.66nm@ 1500-2750rpm,5.0,60000,Manual,First Owner,1396 CC,88.76 bhp,Diesel
+812,Individual,2002,16.1 kmpl,Maruti 800 Std,59Nm@ 2500rpm,4.0,80000,Manual,Third Owner,796 CC,37 bhp,Petrol
+813,Individual,2011,20.54 kmpl,Volkswagen Vento Diesel Highline,250Nm@ 1500-2500rpm,5.0,100000,Manual,Second Owner,1598 CC,103.6 bhp,Diesel
+814,Individual,2015,25.1 kmpl,Honda City i DTEC VX,200Nm@ 1750rpm,5.0,60000,Manual,First Owner,1498 CC,98.6 bhp,Diesel
+815,Individual,2017,28.4 kmpl,Maruti Swift Dzire VDI,190Nm@ 2000rpm,5.0,35000,Manual,First Owner,1248 CC,74.02 bhp,Diesel
+816,Individual,2010,17.8 kmpl,Maruti Swift Vdi BSIII,190Nm@ 2000rpm,5.0,120000,Manual,Second Owner,1248 CC,75 bhp,Diesel
+817,Dealer,2019,22.27 kmpl,Volkswagen Vento 1.5 TDI Highline BSIV,250Nm@ 1500-3000rpm,5.0,5400,Manual,Test Drive Car,1498 CC,108.6 bhp,Diesel
+818,Individual,2006,15.3 kmpl,Hyundai Getz GLE,115Nm@ 3200rpm,5.0,100000,Manual,Third Owner,1341 CC,83 bhp,Petrol
+819,Individual,2011,17.0 kmpl,Honda City 1.5 E MT,146Nm at 4800 rpm,5.0,50000,Manual,First Owner,1497 CC,118 bhp,Petrol
+820,Individual,2016,16.0 kmpl,Mahindra XUV500 W10 2WD,330Nm@ 1600-2800rpm,7.0,70000,Manual,First Owner,2179 CC,140 bhp,Diesel
+821,Individual,2014,15.4 kmpl,Mahindra Scorpio S2 7 Seater,200Nm@ 1400-2200rpm,7.0,120000,Manual,First Owner,2523 CC,75 bhp,Diesel
+822,Dealer,2018,18.5 kmpl,Maruti Swift Dzire VXi AT,115Nm@ 4000rpm,5.0,23300,Automatic,First Owner,1197 CC,83.14 bhp,Petrol
+823,Individual,2017,15.96 kmpl,Mahindra Bolero 2011-2019 ZLX,195Nm@ 1400-2200rpm,7.0,35000,Manual,First Owner,2523 CC,62.1 bhp,Diesel
+824,Individual,2014,20.45 kmpl,Renault Duster 85PS Diesel RxL,200Nm@ 1900rpm,5.0,80000,Manual,First Owner,1461 CC,83.8 bhp,Diesel
+825,Dealer,2019,17.8 kmpl,Honda Amaze S i-VTEC,109Nm@ 4500rpm,5.0,1303,Manual,First Owner,1198 CC,86.7 bhp,Petrol
+826,Individual,2012,25.44 kmpl,Chevrolet Beat Diesel LS,150Nm@ 1750rpm,5.0,75000,Manual,First Owner,936 CC,57.6 bhp,Diesel
+827,Individual,2015,25.2 kmpl,Maruti Swift VDI BSIV,190Nm@ 2000rpm,5.0,31000,Manual,Second Owner,1248 CC,74 bhp,Diesel
+828,Individual,2011,14.0 kmpl,Maruti Omni 5 Seater BSIV,6.1kgm@ 3000rpm,5.0,70000,Manual,Second Owner,796 CC,35 bhp,Petrol
+829,Individual,2019,20.3 kmpl,Hyundai Santro Era,99Nm@ 4500rpm,5.0,4000,Manual,First Owner,1086 CC,68 bhp,Petrol
+830,Individual,2002,16.1 kmpl,Maruti 800 AC,59Nm@ 2500rpm,4.0,70000,Manual,Second Owner,796 CC,37 bhp,Petrol
+831,Individual,2010,15.0 kmpl,Tata Manza Aura (ABS) Safire,116Nm@ 4750rpm,5.0,100000,Manual,Second Owner,1368 CC,90 bhp,Petrol
+832,Individual,2010,20.36 kmpl,Hyundai i10 Magna,111.7Nm@ 4000rpm,5.0,70000,Manual,Fourth & Above Owner,1197 CC,78.9 bhp,Petrol
+833,Individual,2015,22.74 kmpl,Maruti Alto 800 LXI,69Nm@ 3500rpm,5.0,22000,Manual,First Owner,796 CC,47.3 bhp,Petrol
+834,Trustmark Dealer,2012,14.53 kmpl,Toyota Corolla Altis 1.8 VL AT,173Nm@ 4000rpm,5.0,57728,Automatic,First Owner,1794 CC,138.1 bhp,Petrol
+835,Individual,2016,27.3 kmpl,Honda Jazz 1.5 V i DTEC,200Nm@ 1750rpm,5.0,30000,Manual,Second Owner,1498 CC,98.6 bhp,Diesel
+836,Individual,2012,20.36 kmpl,Hyundai i10 Magna,111.7Nm@ 4000rpm,5.0,40000,Manual,First Owner,1197 CC,78.9 bhp,Petrol
+837,Individual,2013,22.9 kmpl,Maruti Swift VDI,190Nm@ 2000rpm,5.0,100000,Manual,Third Owner,1248 CC,74 bhp,Diesel
+838,Individual,2013,19.81 kmpl,Hyundai i10 Magna 1.1L,99.04Nm@ 4500rpm,5.0,70000,Manual,First Owner,1086 CC,68.05 bhp,Petrol
+839,Individual,2004,19.7 kmpl,Maruti Alto LX,62Nm@ 3000rpm,5.0,60000,Manual,First Owner,796 CC,46.3 bhp,Petrol
+840,Trustmark Dealer,2013,12.99 kmpl,Toyota Innova 2.5 VX (Diesel) 7 Seater,200Nm@ 1200-3600rpm,7.0,79328,Manual,Second Owner,2494 CC,100.6 bhp,Diesel
+841,Individual,2016,27.39 kmpl,Maruti Baleno Delta 1.3,190Nm@ 2000rpm,5.0,78000,Manual,First Owner,1248 CC,74 bhp,Diesel
+842,Individual,2017,17.57 kmpl,Tata Zest Revotron 1.2 XT,140Nm@ 1500-4000rpm,5.0,35000,Manual,First Owner,1193 CC,88.7 bhp,Petrol
+843,Individual,2010,18.9 kmpl,Maruti Wagon R LXI BSIII,90Nm@ 3500rpm,5.0,77000,Manual,First Owner,998 CC,67.1 bhp,Petrol
+844,Individual,2009,19.09 kmpl,Tata Indigo CS LS (TDI) BS III,135Nm@ 2500rpm,5.0,70000,Manual,First Owner,1396 CC,69 bhp,Diesel
+845,Dealer,2018,23.01 kmpl,Renault KWID 1.0 RXT Optional,91Nm@ 4250rpm,5.0,31000,Manual,First Owner,999 CC,67 bhp,Petrol
+846,Individual,2009,15.7 kmpl,Fiat Punto 1.2 Active,96Nm@ 2500rpm,5.0,110000,Manual,Second Owner,1172 CC,67 bhp,Petrol
+847,Individual,2010,12.8 kmpl,Toyota Innova 2.5 E Diesel MS 7-seater,20.4@ 1400-3400(kgm@ rpm),7.0,120000,Manual,First Owner,2494 CC,102 bhp,Diesel
+848,Individual,2013,22.32 kmpl,Hyundai Verna 1.6 CRDi EX MT,259.9Nm@ 1900-2750rpm,5.0,87185,Manual,Second Owner,1582 CC,126.3 bhp,Diesel
+849,Dealer,2016,13.68 kmpl,Toyota Innova Crysta 2.4 GX MT BSIV,343Nm@ 1400-2800rpm,7.0,60000,Manual,Second Owner,2393 CC,147.8 bhp,Diesel
+850,Individual,2016,20.51 kmpl,Maruti Wagon R VXI BS IV,90Nm@ 3500rpm,5.0,40000,Manual,First Owner,998 CC,67.04 bhp,Petrol
+851,Individual,2013,23.4 kmpl,Maruti Swift Dzire VDI,190Nm@ 2000rpm,5.0,116000,Manual,Second Owner,1248 CC,74 bhp,Diesel
+852,Individual,2015,15.4 kmpl,Mahindra Scorpio S10 7 Seater,280Nm@ 1800-2800rpm,7.0,170000,Manual,First Owner,2179 CC,120 bhp,Diesel
+853,Individual,2017,20.51 kmpl,Maruti Wagon R Stingray VXI Optional,90Nm@ 3500rpm,5.0,40000,Manual,First Owner,998 CC,67.04 bhp,Petrol
+854,Individual,2015,20.5 kmpl,Fiat Avventura Power Up 1.3 Emotion,209Nm@ 2000rpm,5.0,96500,Manual,First Owner,1248 CC,91.72 bhp,Diesel
+855,Individual,2003,16.1 kmpl,Maruti 800 Std MPFi,59Nm@ 2500rpm,4.0,35000,Manual,Fourth & Above Owner,796 CC,37 bhp,Petrol
+856,Individual,2013,20.07 kmpl,Ashok Leyland Stile LE,185Nm@ 1750-2750rpm,8.0,200000,Manual,Second Owner,1461 CC,75 bhp,Diesel
+857,Individual,2018,21.21 kmpl,Maruti Swift Dzire VXI 1.2,113Nm@ 4200rpm,5.0,15000,Manual,First Owner,1197 CC,81.80 bhp,Petrol
+858,Individual,2011,18.5 kmpl,Hyundai i20 1.2 Magna,"11.4 kgm at 4,000 rpm",5.0,70000,Manual,First Owner,1197 CC,80 bhp,Petrol
+859,Individual,2010,18.9 kmpl,Maruti Wagon R VXI BS IV with ABS,90Nm@ 3500rpm,5.0,120600,Manual,Second Owner,998 CC,67.1 bhp,Petrol
+860,Dealer,2013,19.01 kmpl,Renault Duster 110PS Diesel RxZ,248Nm@ 2250rpm,5.0,56429,Manual,Second Owner,1461 CC,108.45 bhp,Diesel
+861,Individual,2018,19.0 kmpl,Ford Freestyle Titanium Petrol BSIV,120Nm@ 4250rpm,5.0,19100,Manual,First Owner,1194 CC,94.68 bhp,Petrol
+862,Individual,2013,20.45 kmpl,Nissan Terrano XL Plus 85 PS,200Nm@ 1900rpm,5.0,170000,Manual,First Owner,1461 CC,83.8 bhp,Diesel
+863,Individual,2011,26.0 kmpl,Tata Nano Cx,48Nm@ 3000rpm,4.0,10000,Manual,Third Owner,624 CC,35 bhp,Petrol
+864,Individual,2008,11.0 kmpl,BMW X5 3.0d,"53@ 2,000-2,750(kgm@ rpm)",5.0,60000,Automatic,Third Owner,2993 CC,235 bhp,Diesel
+865,Dealer,2018,18.0 kmpl,Volvo XC40 D4 R-Design,400Nm,5.0,22000,Automatic,First Owner,1969 CC,190 bhp,Diesel
+866,Individual,2015,18.9 kmpl,Hyundai Grand i10 SportZ Edition,113.75Nm@ 4000rpm,5.0,30000,Manual,Second Owner,1197 CC,81.86 bhp,Petrol
+867,Individual,2013,22.32 kmpl,Hyundai Verna 1.6 SX CRDi (O),259.8Nm@ 1900-2750rpm,5.0,70000,Manual,Third Owner,1582 CC,126.32 bhp,Diesel
+868,Individual,2015,22.95 kmpl,Tata Zest Quadrajet 1.3 75PS XE,190Nm@ 1750-3000rpm,5.0,60000,Manual,First Owner,1248 CC,74 bhp,Diesel
+869,Individual,2012,19.3 kmpl,Maruti Swift Dzire VDi,190Nm@ 2000rpm,5.0,80000,Manual,Second Owner,1248 CC,73.9 bhp,Diesel
+870,Individual,2012,21.9 kmpl,Hyundai i20 Sportz 1.4 CRDi,219.6Nm@ 1750-2750rpm,5.0,135000,Manual,First Owner,1396 CC,88.76 bhp,Diesel
+871,Individual,2016,17.19 kmpl,Hyundai i20 Active 1.2 S,114.73Nm@ 4000rpm,5.0,25000,Manual,First Owner,1197 CC,81.86 bhp,Petrol
+872,Individual,2012,21.43 kmpl,Toyota Corolla Altis Diesel D4DJ,205Nm@ 1800-2800rpm,5.0,90000,Manual,Fourth & Above Owner,1364 CC,87.2 bhp,Diesel
+873,Individual,2016,18.49 kmpl,Mahindra TUV 300 T8,240Nm@ 1600-2800rpm,7.0,30000,Manual,First Owner,1493 CC,100 bhp,Diesel
+874,Individual,2014,23.1 kmpl,Maruti Celerio VXI,90Nm@ 3500rpm,5.0,50000,Manual,First Owner,998 CC,67.04 bhp,Petrol
+875,Individual,2019,20.3 kmpl,Hyundai Santro Era,99Nm@ 4500rpm,5.0,20000,Manual,Second Owner,1086 CC,68 bhp,Petrol
+876,Individual,2011,22.32 kmpl,Hyundai Verna 1.6 CRDI,259.9Nm@ 1900-2750rpm,5.0,157000,Manual,Second Owner,1582 CC,126.3 bhp,Diesel
+877,Individual,2011,11.4 kmpl,Ford Endeavour 3.0L 4X4 AT,380Nm@ 2500rpm,7.0,93468,Automatic,Second Owner,2953 CC,153.86 bhp,Diesel
+878,Individual,2011,13.5 kmpl,Mahindra Scorpio M2DI,277.5Nm@ 1700-2200rpm,5.0,140000,Manual,Second Owner,2179 CC,115 bhp,Diesel
+879,Individual,2013,11.18 kmpl,Mahindra Ssangyong Rexton RX7,402Nm@ 1600-3000rpm,7.0,200000,Automatic,First Owner,2696 CC,184 bhp,Diesel
+880,Individual,2018,11.2 kmpl,Volvo XC60 Inscription D5 BSIV,480Nm,5.0,50000,Automatic,First Owner,1969 CC,235 bhp,Diesel
+881,Individual,2012,22.3 kmpl,Tata Indica Vista Quadrajet VX,190Nm@ 1750-3000rpm,5.0,178000,Manual,Second Owner,1248 CC,74 bhp,Diesel
+882,Individual,2010,20.36 kmpl,Hyundai i10 Magna 1.2 iTech SE,111.7Nm@ 4000rpm,5.0,120000,Manual,First Owner,1197 CC,78.9 bhp,Petrol
+883,Individual,2015,14.81 kmpl,Chevrolet Cruze LTZ AT,360Nm@ 2000rpm,5.0,155000,Automatic,First Owner,1998 CC,163.7 bhp,Diesel
+884,Individual,2007,16.8 kmpl,Hyundai Verna CRDi SX,"24@ 1,900-2,750(kgm@ rpm)",5.0,90000,Manual,Fourth & Above Owner,1493 CC,110 bhp,Diesel
+885,Individual,2009,16.6 kmpl,Maruti Swift VXI with ABS,"113Nm@ 4,500rpm",5.0,80000,Manual,First Owner,1197 CC,85 bhp,Petrol
+886,Individual,2019,18.6 kmpl,Hyundai Elite i20 Magna Plus BSIV,117nm@ 4000rpm,5.0,3500,Manual,First Owner,1197 CC,81.86 bhp,Petrol
+887,Individual,2014,14.74 kmpl,Jaguar XF 3.0 Litre S Premium Luxury,600Nm@ 2000rpm,5.0,51000,Automatic,First Owner,2993 CC,270.9 bhp,Diesel
+888,Individual,2015,24.0 kmpl,Hyundai Grand i10 CRDi Sportz,160Nm@ 1500-2750rpm,5.0,91500,Manual,Second Owner,1120 CC,70 bhp,Diesel
+889,Individual,2018,24.7 kmpl,Maruti Alto 800 VXI,69Nm@ 3500rpm,5.0,22000,Manual,First Owner,796 CC,47.3 bhp,Petrol
+890,Individual,2015,20.51 kmpl,Maruti Wagon R VXI BS IV,90Nm@ 3500rpm,5.0,22500,Manual,First Owner,998 CC,67.04 bhp,Petrol
+891,Individual,2020,18.6 kmpl,Hyundai Elite i20 Sportz Plus BSIV,117nm@ 4000rpm,5.0,5000,Manual,First Owner,1197 CC,81.86 bhp,Petrol
+892,Individual,2013,22.9 kmpl,Maruti Swift VDI,190Nm@ 2000rpm,5.0,100000,Manual,Third Owner,1248 CC,74 bhp,Diesel
+893,Individual,2005,,Hyundai Santro AT,,,190000,Automatic,Second Owner,,,Petrol
+894,Individual,2015,22.77 kmpl,Ford EcoSport 1.5 TDCi Titanium BSIV,205Nm@ 1750-3250rpm,5.0,63000,Manual,First Owner,1498 CC,98.59 bhp,Diesel
+895,Individual,2016,25.17 kmpl,Renault KWID RXT,72Nm@ 4386rpm,5.0,27500,Manual,First Owner,799 CC,53.3 bhp,Petrol
+896,Dealer,2018,16.8 kmpl,Volvo V40 D3 R-Design,350Nm@ 1500-2750rpm,5.0,2000,Automatic,First Owner,1984 CC,150 bhp,Diesel
+897,Individual,2017,15.4 kmpl,Mahindra Scorpio 1.99 S10,280Nm@ 1800-2800rpm,7.0,50000,Manual,Second Owner,1997 CC,120 bhp,Diesel
+898,Individual,2016,18.6 kmpl,Hyundai i20 2015-2017 Sportz 1.2,114.7Nm@ 4000rpm,5.0,40000,Manual,First Owner,1197 CC,81.83 bhp,Petrol
+899,Individual,2015,15.4 kmpl,Mahindra Scorpio S10 4WD,280Nm@ 1800-2800rpm,7.0,80000,Manual,Second Owner,2179 CC,120 bhp,Diesel
+900,Individual,2010,14.0 kmpl,Volkswagen Jetta 1.6 Trendline,"15@ 3,800(kgm@ rpm)",5.0,80000,Manual,Second Owner,1595 CC,102 bhp,Petrol
+901,Individual,2012,20.77 kmpl,Maruti Ertiga VDI,200Nm@ 1750rpm,7.0,73000,Manual,First Owner,1248 CC,88.76 bhp,Diesel
+902,Individual,2014,22.74 kmpl,Maruti Alto 800 LXI,69Nm@ 3500rpm,5.0,15000,Manual,Second Owner,796 CC,47.3 bhp,Petrol
+903,Individual,2011,16.95 kmpl,Nissan Sunny XE,134Nm@ 4000rpm,5.0,25000,Manual,Second Owner,1498 CC,97.7 bhp,Petrol
+904,Individual,2011,18.9 kmpl,Maruti Wagon R VXI BS IV,90Nm@ 3500rpm,5.0,60000,Manual,First Owner,998 CC,67.1 bhp,Petrol
+905,Individual,2016,12.62 kmpl,Ford Endeavour 2.2 Titanium AT 4X2,385Nm@ 1600-2500rpm,7.0,85000,Automatic,Second Owner,2198 CC,158 bhp,Diesel
+906,Individual,2016,18.2 kmpl,Chevrolet Enjoy 1.3 TCDi LS 7,172.5Nm@ 1750rpm,7.0,110000,Manual,Second Owner,1248 CC,73.74 bhp,Diesel
+907,Individual,2014,14.95 kmpl,Mahindra Xylo D4,218Nm@ 1400-2600rpm,7.0,160000,Manual,First Owner,2489 CC,93.7 bhp,Diesel
+908,Individual,2010,19.7 kmpl,Maruti Alto LXi BSIII,62Nm@ 3000rpm,5.0,20000,Manual,First Owner,796 CC,46.3 bhp,Petrol
+909,Individual,2012,25.44 kmpl,Chevrolet Beat Diesel LT,150Nm@ 1750rpm,5.0,110000,Manual,First Owner,936 CC,57.6 bhp,Diesel
+910,Individual,2016,24.3 kmpl,Maruti Vitara Brezza ZDi Plus Dual Tone,200Nm@ 1750rpm,5.0,90000,Manual,First Owner,1248 CC,88.5 bhp,Diesel
+911,Individual,2014,22.32 kmpl,Hyundai Verna 1.6 SX,259.8Nm@ 1900-2750rpm,5.0,80000,Manual,Second Owner,1582 CC,126.32 bhp,Diesel
+912,Individual,2014,22.74 kmpl,Maruti Alto 800 LXI,69Nm@ 3500rpm,5.0,40000,Manual,Second Owner,796 CC,47.3 bhp,Petrol
+913,Individual,2010,18.5 kmpl,Hyundai i20 Magna,"11.4 kgm at 4,000 rpm",5.0,50000,Manual,Second Owner,1197 CC,80 bhp,Petrol
+914,Individual,2011,13.1 kmpl,Ford Endeavour 2.5L 4X2,330Nm@ 1800rpm,7.0,298000,Manual,Second Owner,2499 CC,141 bhp,Diesel
+915,Dealer,2019,22.37 kmpl,Lexus ES 300h,202Nm@ 3600-5200rpm,5.0,20000,Automatic,First Owner,2487 CC,214.56 bhp,Petrol
+916,Individual,2017,24.3 kmpl,Maruti Vitara Brezza LDi,200Nm@ 1750rpm,5.0,16200,Manual,First Owner,1248 CC,88.5 bhp,Diesel
+917,Dealer,2015,23.65 kmpl,Maruti SX4 S Cross 2015-2017 DDiS 200 Alpha,200Nm@ 1750rpm,5.0,57000,Manual,First Owner,1248 CC,88.5 bhp,Diesel
+918,Individual,2017,24.3 kmpl,Maruti Vitara Brezza VDi Option,200Nm@ 1750rpm,5.0,75000,Manual,First Owner,1248 CC,88.5 bhp,Diesel
+919,Individual,2015,20.4 kmpl,Maruti Swift VXI Optional,113Nm@ 4200rpm,5.0,30000,Manual,First Owner,1197 CC,81.80 bhp,Petrol
+920,Individual,2011,12.8 kmpl,Toyota Innova 2.5 G4 Diesel 8-seater,20.4@ 1400-3400(kgm@ rpm),8.0,120000,Manual,Second Owner,2494 CC,102 bhp,Diesel
+921,Individual,2016,10.75 kmpl,Toyota Innova Crysta 2.7 ZX AT BSIV,245Nm@ 4000rpm,7.0,40000,Automatic,First Owner,2694 CC,163.7 bhp,Petrol
+922,Individual,2018,18.6 kmpl,Hyundai i20 1.2 Asta Dual Tone,114.7Nm@ 4000rpm,5.0,2388,Manual,First Owner,1197 CC,81.83 bhp,Petrol
+923,Individual,2017,19.67 kmpl,Hyundai Creta 1.6 CRDi SX Plus,259.9Nm@ 1900-2750rpm,5.0,25000,Manual,First Owner,1582 CC,126.2 bhp,Diesel
+924,Individual,2011,20.54 kmpl,Volkswagen Vento Diesel Highline,250Nm@ 1500-2500rpm,5.0,100000,Manual,Second Owner,1598 CC,103.6 bhp,Diesel
+925,Individual,2017,20.51 kmpl,Maruti Wagon R VXI BS IV,90Nm@ 3500rpm,5.0,35000,Manual,First Owner,998 CC,67.04 bhp,Petrol
+926,Individual,2004,16.8 kmpl,Tata Indica V2 DLS TC,"12.5@ 2,500(kgm@ rpm)",5.0,40000,Manual,Second Owner,1405 CC,62 bhp,Diesel
+927,Individual,2018,25.17 kmpl,Renault KWID RXT Optional,72Nm@ 4386rpm,5.0,10000,Manual,First Owner,799 CC,53.3 bhp,Petrol
+928,Individual,2011,21.1 kmpl,Maruti Ritz VDi,113Nm@ 4500rpm,5.0,89000,Manual,Second Owner,1248 CC,73.9 bhp,Diesel
+929,Individual,2017,18.2 kmpl,Chevrolet Enjoy 1.3 TCDi LTZ 7,172.5Nm@ 1750rpm,7.0,40000,Manual,Second Owner,1248 CC,73.74 bhp,Diesel
+930,Individual,2017,25.0 kmpl,Tata Indica V2 eLS,140Nm@ 1800-3000rpm,5.0,40000,Manual,First Owner,1396 CC,69 bhp,Diesel
+931,Individual,2018,10.91 kmpl,Ford Endeavour 3.2 Titanium AT 4X4,470Nm@ 1750-2500rpm,7.0,35000,Automatic,First Owner,3198 CC,197 bhp,Diesel
+932,Individual,2016,18.9 kmpl,Hyundai Grand i10 Asta,114Nm@ 4000rpm,5.0,70000,Manual,First Owner,1197 CC,82 bhp,Petrol
+933,Individual,2010,11.5 kmpl,Toyota Fortuner 3.0 Diesel,343Nm@ 1400-3400rpm,7.0,151000,Manual,Second Owner,2982 CC,171 bhp,Diesel
+934,Dealer,2017,13.5 kmpl,Mercedes-Benz S-Class S 350 CDI,620Nm@ 1600-2400rpm,5.0,37000,Automatic,First Owner,2987 CC,254.79 bhp,Diesel
+935,Individual,2011,18.5 kmpl,Maruti Ritz VXi (ABS) BS IV,114Nm@ 4000rpm,5.0,47000,Manual,First Owner,1197 CC,85.80 bhp,Petrol
+936,Dealer,2019,16.78 kmpl,BMW X4 M Sport X xDrive20d,400Nm@ 1750-2500rpm,5.0,8500,Automatic,First Owner,1995 CC,190 bhp,Diesel
+937,Individual,2018,23.1 kmpl,Maruti Celerio ZXI AMT BSIV,90Nm@ 3500rpm,5.0,30000,Automatic,First Owner,998 CC,67.04 bhp,Petrol
+938,Individual,2012,18.9 kmpl,Maruti Wagon R VXI BSIII,90Nm@ 3500rpm,5.0,35000,Manual,First Owner,998 CC,67.1 bhp,Petrol
+939,Individual,2015,26.0 kmpl,Honda City i DTEC V,200Nm@ 1750rpm,5.0,80000,Manual,Second Owner,1498 CC,98.6 bhp,Diesel
+940,Individual,2017,25.17 kmpl,Renault KWID RXE,72Nm@ 4386rpm,5.0,5000,Manual,First Owner,799 CC,53.3 bhp,Petrol
+941,Individual,2006,,Hyundai Santro Xing XL eRLX Euro II,,,100000,Manual,Second Owner,,,Petrol
+942,Individual,2016,16.2 kmpl,Volkswagen Polo 1.2 MPI Comfortline,110Nm@ 3000-4300rpm,5.0,120000,Manual,Second Owner,1199 CC,74 bhp,Petrol
+943,Individual,2017,20.4 kmpl,Maruti Swift VXI Optional,113Nm@ 4200rpm,5.0,30000,Manual,First Owner,1197 CC,81.80 bhp,Petrol
+944,Individual,2010,16.1 kmpl,Maruti 800 Std,59Nm@ 2500rpm,4.0,70000,Manual,Second Owner,796 CC,37 bhp,Petrol
+945,Dealer,2015,18.9 kmpl,Hyundai Grand i10 Magna,113.75nm@ 4000rpm,5.0,39414,Manual,First Owner,1197 CC,81.86 bhp,Petrol
+946,Individual,2014,21.79 kmpl,Maruti SX4 VDI,200Nm@ 1750rpm,5.0,50000,Manual,Second Owner,1248 CC,88.73 bhp,Diesel
+947,Individual,2019,23.95 kmpl,Maruti Alto K10 VXI,90Nm@ 3500rpm,5.0,15000,Manual,First Owner,998 CC,67.05 bhp,Petrol
+948,Individual,2013,20.77 kmpl,Maruti Ertiga VDI,200Nm@ 1750rpm,7.0,90000,Manual,Second Owner,1248 CC,88.76 bhp,Diesel
+949,Trustmark Dealer,2016,19.16 kmpl,Toyota Camry 2.5 Hybrid,213Nm@ 4500rpm,5.0,68089,Automatic,First Owner,2494 CC,157.7 bhp,Petrol
+950,Individual,2016,26.59 kmpl,Maruti Swift Dzire AMT ZDI,190Nm@ 2000rpm,5.0,50000,Automatic,Second Owner,1248 CC,74 bhp,Diesel
+951,Individual,2015,24.2 kmpl,Honda Mobilio S i DTEC,200Nm@ 1750rpm,7.0,120000,Manual,First Owner,1498 CC,98.6 bhp,Diesel
+952,Individual,2013,20.92 kmpl,Maruti Alto K10 LXI,90Nm@ 3500rpm,5.0,27000,Manual,First Owner,998 CC,67.1 bhp,Petrol
+953,Individual,2005,16.1 kmpl,Maruti 800 AC,59Nm@ 2500rpm,4.0,55425,Manual,Second Owner,796 CC,37 bhp,Petrol
+954,Individual,2007,17.7 kmpl,Honda City 2017-2020 GXi,"12.7@ 2,700(kgm@ rpm)",5.0,120000,Manual,Third Owner,1497 CC,78 bhp,Petrol
+955,Individual,2019,25.17 kmpl,Renault KWID RXL,72Nm@ 4386rpm,5.0,15000,Manual,First Owner,799 CC,53.3 bhp,Petrol
+956,Individual,2010,18.0 kmpl,Chevrolet Spark 1.0 LT,90.3Nm@ 4200rpm,5.0,50000,Manual,First Owner,995 CC,62 bhp,Petrol
+957,Individual,2016,18.9 kmpl,Hyundai Grand i10 Magna,114Nm@ 4000rpm,5.0,30000,Manual,Second Owner,1197 CC,82 bhp,Petrol
+958,Individual,2017,17.6 kmpl,Tata Hexa XT,400Nm@ 1750-2500rpm,7.0,70000,Manual,First Owner,2179 CC,153.86 bhp,Diesel
+959,Individual,1999,,Hyundai Santro GLS I - Euro I,,,140000,Manual,Third Owner,,,Petrol
+960,Dealer,2017,21.66 kmpl,Skoda Rapid 1.5 TDI AT Style Plus,250Nm@ 1500-2500rpm,5.0,31000,Automatic,First Owner,1498 CC,103.52 bhp,Diesel
+961,Individual,2018,25.1 kmpl,Maruti S-Cross 2017-2020 Zeta DDiS 200 SH,200Nm@ 1750rpm,5.0,70000,Manual,First Owner,1248 CC,88.5 bhp,Diesel
+962,Individual,2014,22.74 kmpl,Maruti Alto 800 LX,69Nm@ 3500rpm,5.0,60000,Manual,Second Owner,796 CC,47.3 bhp,Petrol
+963,Individual,2019,22.1 kmpl,Hyundai Creta 1.4 E Plus,219.7Nm@ 1500-2750rpm,5.0,15000,Manual,First Owner,1396 CC,88.7 bhp,Diesel
+964,Individual,2009,13.93 kmpl,Tata New Safari DICOR 2.2 VX 4x4,320Nm@ 1700-2700rpm,7.0,150000,Manual,First Owner,2179 CC,138 bhp,Diesel
+965,Individual,2011,20.92 kmpl,Maruti Alto K10 2010-2014 VXI,90Nm@ 3500rpm,5.0,35000,Manual,Second Owner,998 CC,67.1 bhp,Petrol
+966,Individual,2011,16.8 kmpl,Honda City S,146Nm@ 4800rpm,5.0,110000,Manual,Third Owner,1497 CC,116.4 bhp,Petrol
+967,Individual,2018,16.25 kmpl,Skoda Kodiaq 2.0 TDI Style,340nm@ 1750-3000rpm,7.0,40000,Automatic,First Owner,1968 CC,148 bhp,Diesel
+968,Individual,2009,19.7 kmpl,Maruti Alto LXi,62Nm@ 3000rpm,5.0,70000,Manual,Second Owner,796 CC,46.3 bhp,Petrol
+969,Individual,2017,20.65 kmpl,Tata Zest Quadrajet 1.3 XT,190Nm@ 1750-3000rpm,5.0,35000,Manual,First Owner,1248 CC,88.7 bhp,Diesel
+970,Individual,2009,17.5 kmpl,Maruti Swift Dzire LXi,114Nm@ 4000rpm,5.0,90000,Manual,Third Owner,1298 CC,85.8 bhp,Petrol
+971,Individual,2017,24.52 kmpl,Maruti Ertiga SHVS ZDI Plus,200Nm@ 1750rpm,7.0,50000,Manual,First Owner,1248 CC,88.5 bhp,Diesel
+972,Individual,2016,16.0 kmpl,Mahindra XUV500 W10 2WD,330Nm@ 1600-2800rpm,7.0,25000,Manual,First Owner,2179 CC,140 bhp,Diesel
+973,Dealer,2013,20.36 kmpl,Hyundai i10 Magna,111.7Nm@ 4000rpm,5.0,82246,Manual,First Owner,1197 CC,78.9 bhp,Petrol
+974,Individual,2005,12.8 kmpl,Toyota Innova 2.5 G (Diesel) 8 Seater BS IV,20.4@ 1400-3400(kgm@ rpm),8.0,200000,Manual,Second Owner,2494 CC,102 bhp,Diesel
+975,Individual,2015,15.4 kmpl,Mahindra Scorpio S10 7 Seater,280Nm@ 1800-2800rpm,7.0,90000,Manual,First Owner,2179 CC,120 bhp,Diesel
+976,Individual,2017,15.04 kmpl,Toyota Fortuner 2.8 4WD AT BSIV,450Nm@ 1600-2400rpm,7.0,50000,Automatic,First Owner,2755 CC,174.5 bhp,Diesel
+977,Individual,2018,20.3 kmpl,Hyundai EON 1.0 Era Plus,94.14Nm@ 3500rpm,5.0,120000,Manual,First Owner,998 CC,68.05 bhp,Petrol
+978,Individual,2014,23.4 kmpl,Maruti Swift Dzire ZDI,190Nm@ 2000rpm,5.0,90000,Manual,First Owner,1248 CC,74 bhp,Diesel
+979,Individual,2006,11.9 kmpl,Honda Accord VTi-L MT,"20@ 4,700(kgm@ rpm)",5.0,60000,Manual,Third Owner,2354 CC,144 bhp,Petrol
+980,Individual,2018,20.14 kmpl,Hyundai Xcent 1.2 VTVT S,113.75nm@ 4000rpm,5.0,40000,Manual,First Owner,1197 CC,81.86 bhp,Petrol
+981,Individual,2001,,Hyundai Santro LE,,,80000,Manual,Second Owner,,,Petrol
+982,Individual,2012,19.3 kmpl,Maruti Swift Dzire VDi,190Nm@ 2000rpm,5.0,108000,Manual,First Owner,1248 CC,73.9 bhp,Diesel
+983,Individual,2011,13.6 kmpl,Mahindra Bolero DI,180 Nm at 1440-1500rpm,7.0,80000,Manual,First Owner,2523 CC,63 bhp,Diesel
+984,Individual,2012,23.2 kmpl,Maruti Ritz VDi,190Nm@ 2000rpm,5.0,70000,Manual,First Owner,1248 CC,73.94 bhp,Diesel
+985,Individual,2006,17.7 kmpl,Honda City 2017-2020 EXi,"12.7@ 2,700(kgm@ rpm)",5.0,140000,Manual,Third Owner,1497 CC,78 bhp,Petrol
+986,Individual,2013,21.27 kmpl,Hyundai i20 Asta 1.4 CRDi,219.6Nm@ 1500-2750rpm,5.0,60000,Manual,Second Owner,1396 CC,88.76 bhp,Diesel
+987,Individual,2013,25.0 kmpl,Tata Indigo CS eVX,140Nm@ 1800-3000rpm,5.0,60000,Manual,Second Owner,1396 CC,69.01 bhp,Diesel
+988,Individual,2014,22.74 kmpl,Maruti Alto 800 LXI Anniversary Edition,69Nm@ 3500rpm,5.0,50000,Manual,First Owner,796 CC,47.3 bhp,Petrol
+989,Individual,2008,18.9 kmpl,Maruti Wagon R VXI BS IV,90Nm@ 3500rpm,5.0,90000,Manual,Second Owner,998 CC,67.1 bhp,Petrol
+990,Individual,2007,19.7 kmpl,Maruti Alto LXi,62Nm@ 3000rpm,5.0,70000,Manual,Second Owner,796 CC,46.3 bhp,Petrol
+991,Individual,2012,19.4 kmpl,Honda Brio V MT,109Nm@ 4500rpm,5.0,26000,Manual,First Owner,1198 CC,86.8 bhp,Petrol
+992,Individual,2006,19.7 kmpl,Maruti Alto LXi,62Nm@ 3000rpm,5.0,150000,Manual,Second Owner,796 CC,46.3 bhp,Petrol
+993,Individual,1999,16.1 kmpl,Maruti 800 DX,59Nm@ 2500rpm,4.0,100000,Manual,First Owner,796 CC,37 bhp,Petrol
+994,Individual,2010,17.5 kmpl,Maruti Swift Dzire VXi,114Nm@ 4000rpm,5.0,143000,Manual,First Owner,1298 CC,85.8 bhp,Petrol
+995,Individual,2008,19.81 kmpl,Hyundai i10 Magna 1.1L,99.04Nm@ 4500rpm,5.0,100000,Manual,Second Owner,1086 CC,68.05 bhp,Petrol
+996,Individual,2017,18.6 kmpl,Hyundai i20 2015-2017 Sportz 1.2,114.7Nm@ 4000rpm,5.0,50000,Manual,Second Owner,1197 CC,81.83 bhp,Petrol
+997,Individual,2009,23.0 kmpl,Hyundai i20 Era Diesel,22.4 kgm at 1750-2750rpm,5.0,40000,Manual,First Owner,1396 CC,90 bhp,Diesel
+998,Individual,2012,20.36 kmpl,Hyundai i10 Asta,111.8Nm@ 4000rpm,5.0,25000,Manual,First Owner,1197 CC,78.9 bhp,Petrol
+999,Individual,2016,26.0 kmpl,Honda City i DTec SV,200Nm@ 1750rpm,5.0,110000,Manual,First Owner,1498 CC,98.6 bhp,Diesel
